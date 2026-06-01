@@ -1,0 +1,891 @@
+[
+    {
+        "name": "Hyperdimension",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "City Center",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockcitycenter,[$canAccessCityCenter]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Hyperdimension",
+                        "x": 302,
+                        "y": 287,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "City Center Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockcitycenter,[$canAccessCityCenter]"
+                ],
+                "sections": [
+                    {
+                        "name": "Numbing Spider",
+                        "ref": "Bestiary/Insect/Numbing Spider"
+                    },
+                    {
+                        "name": "R-4 Custom",
+                        "ref": "Bestiary/Machine/R-4 Custom"
+                    },
+                    {
+                        "name": "Promise Ring",
+                        "ref": "Bestiary/Ghost/Promise Ring"
+                    },
+                    {
+                        "name": "High Lizard",
+                        "ref": "Bestiary/Dragon/High Lizard"
+                    },
+                    {
+                        "name": "Viral High Lizard",
+                        "ref": "Bestiary/Dragon/Viral High Lizard"
+                    },
+                    {
+                        "name": "Crescent Dragon",
+                        "ref": "Bestiary/Dragon/Crescent Dragon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Hyperdimension",
+                        "x": 397,
+                        "y": 293,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Planeptune Alley",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockplaneptunealley,[$canAccessPlaneptuneAlley]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Hyperdimension",
+                        "x": 439,
+                        "y": 217,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Planeptune Alley Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockplaneptunealley,[$canAccessPlaneptuneAlley]"
+                ],
+                "sections": [
+                    {
+                        "name": "Death Boy",
+                        "ref": "Bestiary/Ghost/Death Boy"
+                    },
+                    {
+                        "name": "Death Girl",
+                        "ref": "Bestiary/Ghost/Death Girl"
+                    },
+                    {
+                        "name": "Dragonia",
+                        "ref": "Bestiary/Dragon/Dragonia"
+                    },
+                    {
+                        "name": "Viral Dragonia",
+                        "ref": "Bestiary/Dragon/Viral Dragonia"
+                    },
+                    {
+                        "name": "ASIC Remnants",
+                        "ref": "Bestiary/Humanoid/ASIC Remnants"
+                    },
+                    {
+                        "name": "Dominance Machine",
+                        "ref": "Bestiary/Machine/Dominance Machine"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Hyperdimension",
+                        "x": 572,
+                        "y": 216,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Station Area",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockStationArea,[$canAccessVirtuaForestSafeZone]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Hyperdimension",
+                        "x": 535,
+                        "y": 374,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Station Area Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockstationarea,[$canAccessVirtuaForestSafeZone]"
+                ],
+                "sections": [
+                    {
+                        "name": "Bit",
+                        "ref": "Bestiary/Machine/Bit"
+                    },
+                    {
+                        "name": "Dogoo",
+                        "ref": "Bestiary/Dogoo/Dogoo"
+                    },
+                    {
+                        "name": "Deus Man",
+                        "ref": "Bestiary/Data/Deus Man"
+                    },
+                    {
+                        "name": "M-3",
+                        "ref": "Bestiary/Machine/M-3"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Hyperdimension",
+                        "x": 627,
+                        "y": 374,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Under Inverse",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockunderinverse,[$canAccessUnderInverse]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Hyperdimension",
+                        "x": 697,
+                        "y": 520,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Under Inverse Depths",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockunderinverse,[$canAccessUnderInverse]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 7",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Hyperdimension",
+                        "x": 697,
+                        "y": 461,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Under Inverse Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockunderinverse,[$canAccessUnderInverse]"
+                ],
+                "sections": [
+                    {
+                        "name": "Dogone",
+                        "ref": "Bestiary/Inorganic/Dogone"
+                    },
+                    {
+                        "name": "Blaze Boy",
+                        "ref": "Bestiary/Ghost/Blaze Boy"
+                    },
+                    {
+                        "name": "Blaze Girl",
+                        "ref": "Bestiary/Ghost/Blaze Girl"
+                    },
+                    {
+                        "name": "Blaze Golem",
+                        "ref": "Bestiary/Inorganic/Blaze Golem"
+                    },
+                    {
+                        "name": "Viral Blaze Golem",
+                        "ref": "Bestiary/Inorganic/Viral Blaze Golem"
+                    },
+                    {
+                        "name": "Volcano Turtle",
+                        "ref": "Bestiary/Aquatic/Volcano Turtle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Hyperdimension",
+                        "x": 803,
+                        "y": 519,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Virtua Forest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockvirtuaforest,[$canAccessVirtuaForest]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Hyperdimension",
+                        "x": 262,
+                        "y": 488,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Virtua Forest Depths",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockvirtuaforest,[$canAccessVirtuaForest]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Hyperdimension",
+                        "x": 170,
+                        "y": 490,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Virtua Forest Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockvirtuaforest,[$canAccessVirtuaForest]"
+                ],
+                "sections": [
+                    {
+                        "name": "Invader",
+                        "ref": "Bestiary/Vader/Invader"
+                    },
+                    {
+                        "name": "Jellyfish Dogoo",
+                        "ref": "Bestiary/Dogoo/Jellyfish Dogoo"
+                    },
+                    {
+                        "name": "Forest Guardian",
+                        "ref": "Bestiary/Beast/Forest Guardian"
+                    },
+                    {
+                        "name": "Viral Forest Guardian",
+                        "ref": "Bestiary/Beast/Viral Forest Guardian"
+                    },
+                    {
+                        "name": "Sentientree",
+                        "ref": "Bestiary/Plant/Sentientree"
+                    },
+                    {
+                        "name": "Viral Sentientree",
+                        "ref": "Bestiary/Plant/Viral Sentientree"
+                    },
+                    {
+                        "name": "Forest Lord",
+                        "ref": "Bestiary/Beast/Forest Lord"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Hyperdimension",
+                        "x": 370,
+                        "y": 488,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Virtua Forest Safe Zone",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockvirtuaforestsafezone,[$canAccessVirtuaForestSafeZone]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 7",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Hyperdimension",
+                        "x": 189,
+                        "y": 402,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Virtua Forest Safe Zone Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockvirtuaforestsafezone,[$canAccessVirtuaForestSafeZone]"
+                ],
+                "sections": [
+                    {
+                        "name": "Dogoo",
+                        "ref": "Bestiary/Dogoo/Dogoo"
+                    },
+                    {
+                        "name": "Tulip",
+                        "ref": "Bestiary/Plant/Tulip"
+                    },
+                    {
+                        "name": "Coin Man",
+                        "ref": "Bestiary/Inorganic/Coin Man"
+                    },
+                    {
+                        "name": "Lizard Man",
+                        "ref": "Bestiary/Dragon/Lizard Man"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Hyperdimension",
+                        "x": 311,
+                        "y": 409,
+                        "size": 32
+                    }
+                ]
+            }
+        ]
+    }
+]

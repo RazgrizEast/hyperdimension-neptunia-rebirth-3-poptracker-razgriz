@@ -1,0 +1,301 @@
+[
+    {
+        "name": "Virtua Forest Safe Zone",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Virtua Forest Safe Zone Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest Safe Zone - Gather 1",
+                        "ref": "Hyperdimension/Virtua Forest Safe Zone/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest Safe Zone",
+                    "x": 357,
+                    "y": 660,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Safe Zone Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest Safe Zone - Gather 2",
+                        "ref": "Hyperdimension/Virtua Forest Safe Zone/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest Safe Zone",
+                    "x": 596,
+                    "y": 612,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Safe Zone Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest Safe Zone - Gather 3",
+                        "ref": "Hyperdimension/Virtua Forest Safe Zone/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest Safe Zone",
+                    "x": 554,
+                    "y": 535,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Safe Zone Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest Safe Zone - Gather 4",
+                        "ref": "Hyperdimension/Virtua Forest Safe Zone/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest Safe Zone",
+                    "x": 362,
+                    "y": 39,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Safe Zone Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest Safe Zone - Gather 5",
+                        "ref": "Hyperdimension/Virtua Forest Safe Zone/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest Safe Zone",
+                    "x": 637,
+                    "y": 352,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Safe Zone Gather 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest Safe Zone - Gather 6",
+                        "ref": "Hyperdimension/Virtua Forest Safe Zone/Gather 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest Safe Zone",
+                    "x": 252,
+                    "y": 241,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Safe Zone Gather 7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest Safe Zone - Gather 7",
+                        "ref": "Hyperdimension/Virtua Forest Safe Zone/Gather 7"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest Safe Zone",
+                    "x": 49,
+                    "y": 62,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Safe Zone Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest Safe Zone - Treasure 1",
+                        "ref": "Hyperdimension/Virtua Forest Safe Zone/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest Safe Zone",
+                    "x": 472,
+                    "y": 896,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Safe Zone Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest Safe Zone - Treasure 2",
+                        "ref": "Hyperdimension/Virtua Forest Safe Zone/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest Safe Zone",
+                    "x": 450,
+                    "y": 414,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Safe Zone Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest Safe Zone - Treasure 3",
+                        "ref": "Hyperdimension/Virtua Forest Safe Zone/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest Safe Zone",
+                    "x": 462,
+                    "y": 137,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Safe Zone Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest Safe Zone - Treasure 4",
+                        "ref": "Hyperdimension/Virtua Forest Safe Zone/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest Safe Zone",
+                    "x": 47,
+                    "y": 260,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Safe Zone Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Dogoo",
+                        "ref": "Bestiary/Dogoo/Dogoo"
+                    },
+                    {
+                        "name": "Tulip",
+                        "ref": "Bestiary/Plant/Tulip"
+                    },
+                    {
+                        "name": "Coin Man",
+                        "ref": "Bestiary/Inorganic/Coin Man"
+                    },
+                    {
+                        "name": "Lizard Man",
+                        "ref": "Bestiary/Dragon/Lizard Man"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Virtua Forest Safe Zone",
+                        "x": 192,
+                        "y": 674,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

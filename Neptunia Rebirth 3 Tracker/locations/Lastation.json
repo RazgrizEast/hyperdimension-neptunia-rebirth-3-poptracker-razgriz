@@ -1,0 +1,1796 @@
+[
+    {
+        "name": "Lastation",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Anonydeaths Lab",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockanonydeathslab,[$canAccessAnonydeathsLab]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 7",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 117,
+                        "y": 120,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Anonydeaths Lab Depths",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockanonydeathslab,[$canAccessAnonydeathsLab]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 7",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 118,
+                        "y": 69,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Anonydeath's Lab Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockanonydeathslab,[$canAccessAnonydeathsLab]"
+                ],
+                "sections": [
+                    {
+                        "name": "Blue Sun",
+                        "ref": "Bestiary/Plant/Blue Sun"
+                    },
+                    {
+                        "name": "Ganglord Panther",
+                        "ref": "Bestiary/Beast/Ganglord Panther"
+                    },
+                    {
+                        "name": "EDGE",
+                        "ref": "Bestiary/Machine/EDGE"
+                    },
+                    {
+                        "name": "Panzer",
+                        "ref": "Bestiary/Machine/Panzer"
+                    },
+                    {
+                        "name": "Next-gen Bit",
+                        "ref": "Bestiary/Machine/Next-gen Bit"
+                    },
+                    {
+                        "name": "Bundodo Old Man",
+                        "ref": "Bestiary/Data/Bundodo Old Man"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 238,
+                        "y": 114,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Bandicrash",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockbandicrash,[$canAccessBandicrash]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 579,
+                        "y": 163,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Bandicrash Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockbandicrash,[$canAccessBandicrash]"
+                ],
+                "sections": [
+                    {
+                        "name": "Terits",
+                        "ref": "Bestiary/Inorganic/Terits"
+                    },
+                    {
+                        "name": "Spider",
+                        "ref": "Bestiary/Insect/Spider"
+                    },
+                    {
+                        "name": "Plum-met",
+                        "ref": "Bestiary/Inorganic/Plum-met"
+                    },
+                    {
+                        "name": "Tokimeki Sister",
+                        "ref": "Bestiary/Data/Tokimeki Sister"
+                    },
+                    {
+                        "name": "Phoenix",
+                        "ref": "Bestiary/Avian/Phoenix"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 673,
+                        "y": 164,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Gigo Main Entrance",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockgigomainentrance,[$canAccessGigoMainEntrance]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 961,
+                        "y": 373,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Gigo Depths",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockgigomainentrance,[$canAccessGigoMainEntrance]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 961,
+                        "y": 322,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Gigo Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockgigomainentrance,[$canAccessGigoMainEntrance]"
+                ],
+                "sections": [
+                    {
+                        "name": "Kupokitty",
+                        "ref": "Bestiary/Beast/Kupokitty"
+                    },
+                    {
+                        "name": "Radisher",
+                        "ref": "Bestiary/Plant/Radisher"
+                    },
+                    {
+                        "name": "Swallowtail",
+                        "ref": "Bestiary/Insect/Swallowtail"
+                    },
+                    {
+                        "name": "Viral Swallowtail",
+                        "ref": "Bestiary/Insect/Viral Swallowtail"
+                    },
+                    {
+                        "name": "Horsebird",
+                        "ref": "Bestiary/Avian/Horsebird"
+                    },
+                    {
+                        "name": "King Crab",
+                        "ref": "Bestiary/Aquatic/King Crab"
+                    },
+                    {
+                        "name": "Malvader",
+                        "ref": "Bestiary/Vader/Malvader"
+                    },
+                    {
+                        "name": "SHDC",
+                        "ref": "Bestiary/Machine/SHDC"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 1085,
+                        "y": 375,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Jet Set Peak",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockjetsetpeak,[$canAccessJetSetRange]",
+                    "dungeonunlockjetsetrange,[$canAccessJetSetRange]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 163,
+                        "y": 242,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Jet Set Peak Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockjetsetrange,[$canAccessJetSetRange]",
+                    "dungeonunlockjetsetpeak,[$canAccessJetSetRange]"
+                ],
+                "sections": [
+                    {
+                        "name": "Pal Shell",
+                        "ref": "Bestiary/Inorganic/Pal Shell"
+                    },
+                    {
+                        "name": "Shoebill",
+                        "ref": "Bestiary/Avian/Shoebill"
+                    },
+                    {
+                        "name": "Viral Shoebill",
+                        "ref": "Bestiary/Avian/Viral Shoebill"
+                    },
+                    {
+                        "name": "Fungus",
+                        "ref": "Bestiary/Plant/Fungus"
+                    },
+                    {
+                        "name": "Alraune",
+                        "ref": "Bestiary/Plant/Alraune"
+                    },
+                    {
+                        "name": "Viral Alraune",
+                        "ref": "Bestiary/Plant/Viral Alraune"
+                    },
+                    {
+                        "name": "Ancient Dragon",
+                        "ref": "Bestiary/Dragon/Ancient Dragon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 254,
+                        "y": 243,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Kuzarat Facility 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockkuzaratfacility1,[$canAccessBandicrash]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 7",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 724,
+                        "y": 265,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Kuzarat Facility 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockkuzaratfacility1,[$canAccessKuzaratFacility2]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 7",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 724,
+                        "y": 226,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Kuzarat Facility Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockkuzaratfacility1,[$canAccessKuzaratFacility2]"
+                ],
+                "sections": [
+                    {
+                        "name": "Poxvader",
+                        "ref": "Bestiary/Vader/Poxvader"
+                    },
+                    {
+                        "name": "Custom Bit",
+                        "ref": "Bestiary/Machine/Custom Bit"
+                    },
+                    {
+                        "name": "Healing Dogoo",
+                        "ref": "Bestiary/Dogoo/Healing Dogoo"
+                    },
+                    {
+                        "name": "R-4",
+                        "ref": "Bestiary/Machine/R-4"
+                    },
+                    {
+                        "name": "R4i-SDHC",
+                        "ref": "Bestiary/Machine/R4i-SDHC"
+                    },
+                    {
+                        "name": "Matango",
+                        "ref": "Bestiary/Plant/Matango"
+                    },
+                    {
+                        "name": "Created Soldier",
+                        "ref": "Bestiary/Humanoid/Created Soldier"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 842,
+                        "y": 266,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "National Factory",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlocknationalfactory,[$canAccessNationalFactory]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 432,
+                        "y": 291,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "National Factory Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlocknationalfactory,[$canAccessNationalFactory]"
+                ],
+                "sections": [
+                    {
+                        "name": "High Bit Custom",
+                        "ref": "Bestiary/Machine/High Bit Custom"
+                    },
+                    {
+                        "name": "Inky",
+                        "ref": "Bestiary/Ghost/Inky"
+                    },
+                    {
+                        "name": "Ms. Inky",
+                        "ref": "Bestiary/Ghost/Ms. Inky"
+                    },
+                    {
+                        "name": "DSTT",
+                        "ref": "Bestiary/Machine/DSTT"
+                    },
+                    {
+                        "name": "Heavy Tank",
+                        "ref": "Bestiary/Machine/Heavy Tank"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 561,
+                        "y": 293,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "PS Dimension",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockpsdimension,[$canAccessPSDimension]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 660,
+                        "y": 419,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "PS Dimension Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockpsdimension,[$canAccessPSDimension]"
+                ],
+                "sections": [
+                    {
+                        "name": "Plam-met",
+                        "ref": "Bestiary/Inorganic/Plam-met"
+                    },
+                    {
+                        "name": "High Heal Dogoo",
+                        "ref": "Bestiary/Dogoo/High Heal Dogoo"
+                    },
+                    {
+                        "name": "Cuberial",
+                        "ref": "Bestiary/Ghost/Cuberial"
+                    },
+                    {
+                        "name": "Dragon Warrior",
+                        "ref": "Bestiary/Dragon/Dragon Warrior"
+                    },
+                    {
+                        "name": "Viral Dragon Warrior",
+                        "ref": "Bestiary/Dragon/Viral Dragon Warrior"
+                    },
+                    {
+                        "name": "Giant Dogoo",
+                        "ref": "Bestiary/Dogoo/Giant Dogoo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 761,
+                        "y": 419,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Rud Arms Sewer N.",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockrudarmssewern,[$canAccessRudArmsSewerN]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 1023,
+                        "y": 107,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Rud Arms Sewer N Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockrudarmssewern,[$canAccessRudArmsSewerN]",
+                    "dungeonunlockrudarmssewers,[$canAccessRudArmsSewerN]"
+                ],
+                "sections": [
+                    {
+                        "name": "Cold Boy",
+                        "ref": "Bestiary/Ghost/Cold Boy"
+                    },
+                    {
+                        "name": "Cold Girl",
+                        "ref": "Bestiary/Ghost/Cold Girl"
+                    },
+                    {
+                        "name": "Magic Stone",
+                        "ref": "Bestiary/Inorganic/Magic Stone"
+                    },
+                    {
+                        "name": "Ice Golem",
+                        "ref": "Bestiary/Inorganic/Ice Golem"
+                    },
+                    {
+                        "name": "Viral Ice Golem",
+                        "ref": "Bestiary/Inorganic/Viral Ice Golem"
+                    },
+                    {
+                        "name": "Elemental Dragon",
+                        "ref": "Bestiary/Dragon/Elemental Dragon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 1131,
+                        "y": 109,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Soni Wetlands",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlocksoniwetlands,[$canAccessSoniWetlands]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 776,
+                        "y": 542,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Soni Wetlands Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlocksoniwetlands,[$canAccessSoniWetlands]"
+                ],
+                "sections": [
+                    {
+                        "name": "Matango",
+                        "ref": "Bestiary/Plant/Matango"
+                    },
+                    {
+                        "name": "Healing Dogoo",
+                        "ref": "Bestiary/Dogoo/Healing Dogoo"
+                    },
+                    {
+                        "name": "Lean Tuna",
+                        "ref": "Bestiary/Beast/Lean Tuna"
+                    },
+                    {
+                        "name": "Heavy Dragoon",
+                        "ref": "Bestiary/Dragon/Heavy Dragoon"
+                    },
+                    {
+                        "name": "Viral Heavy Dragoon",
+                        "ref": "Bestiary/Dragon/Viral Heavy Dragoon"
+                    },
+                    {
+                        "name": "Nidhogg",
+                        "ref": "Bestiary/Dragon/Nidhogg"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 885,
+                        "y": 542,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Vida Dimension",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockvidadimension,[$canAccessVidaDimension]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 363,
+                        "y": 161,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Vida Dimension Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockvidadimension,[$canAccessVidaDimension]"
+                ],
+                "sections": [
+                    {
+                        "name": "King Boxbird",
+                        "ref": "Bestiary/Avian/King Boxbird"
+                    },
+                    {
+                        "name": "Autonomous Artillery",
+                        "ref": "Bestiary/Machine/Autonomous Artillery"
+                    },
+                    {
+                        "name": "Alfred",
+                        "ref": "Bestiary/Plant/Alfred"
+                    },
+                    {
+                        "name": "Cyberfly",
+                        "ref": "Bestiary/Insect/Cyberfly"
+                    },
+                    {
+                        "name": "Viral Cyberfly",
+                        "ref": "Bestiary/Insect/Viral Cyberfly"
+                    },
+                    {
+                        "name": "Militant Prototype",
+                        "ref": "Bestiary/Machine/Militant Prototype"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 460,
+                        "y": 161,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Wanderers Cave",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockwandererscave,[$canAccessBandicrash]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 7",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 764,
+                        "y": 115,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Wanderers Cave Depths",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockwandererscave,[$canAccessKuzaratFacility2]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 7",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 8",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 760,
+                        "y": 72,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Wanderer's Cave Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockwandererscave,[$canAccessKuzaratFacility2]"
+                ],
+                "sections": [
+                    {
+                        "name": "Frog-in-the-box",
+                        "ref": "Bestiary/Aquatic/Frog-in-the-box"
+                    },
+                    {
+                        "name": "Heal Dogoo",
+                        "ref": "Bestiary/Dogoo/Heal Dogoo"
+                    },
+                    {
+                        "name": "Crystal Golem",
+                        "ref": "Bestiary/Inorganic/Crystal Golem"
+                    },
+                    {
+                        "name": "Viral Crystal Golem",
+                        "ref": "Bestiary/Inorganic/Viral Crystal Golem"
+                    },
+                    {
+                        "name": "Ice Skeleton",
+                        "ref": "Bestiary/Ghost/Ice Skeleton"
+                    },
+                    {
+                        "name": "Dolphin",
+                        "ref": "Bestiary/Aquatic/Dolphin"
+                    },
+                    {
+                        "name": "Ice Boy",
+                        "ref": "Bestiary/Ghost/Ice Boy"
+                    },
+                    {
+                        "name": "Ice Girl",
+                        "ref": "Bestiary/Ghost/Ice Girl"
+                    },
+                    {
+                        "name": "Delinquent Cat",
+                        "ref": "Bestiary/Beast/Delinquent Cat"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Lastation",
+                        "x": 877,
+                        "y": 110,
+                        "size": 32
+                    }
+                ]
+            }
+        ]
+    }
+]

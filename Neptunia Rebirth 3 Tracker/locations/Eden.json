@@ -1,0 +1,811 @@
+[
+    {
+        "name": "Eden",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Duo R Ruins",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockduorruins,[$canAccessDuoRRuins]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 7",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Eden",
+                        "x": 453,
+                        "y": 140,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Duo R Ruins Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockduorruins,[$canAccessDuoRRuins]"
+                ],
+                "sections": [
+                    {
+                        "name": "Boxer Cat",
+                        "ref": "Bestiary/Beast/Boxer Cat"
+                    },
+                    {
+                        "name": "Skull",
+                        "ref": "Bestiary/Ghost/Skull"
+                    },
+                    {
+                        "name": "Modded DSTT",
+                        "ref": "Bestiary/Machine/Modded DSTT"
+                    },
+                    {
+                        "name": "Something Tree",
+                        "ref": "Bestiary/Plant/Something Tree"
+                    },
+                    {
+                        "name": "Viral Something Tree",
+                        "ref": "Bestiary/Plant/Viral Something Tree"
+                    },
+                    {
+                        "name": "Vanargandr",
+                        "ref": "Bestiary/Beast/Vanargandr"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Eden",
+                        "x": 532,
+                        "y": 142,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Extradimensional Space",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockextradimensionalspace,[$canAccessExtradimensionalSpace]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Eden",
+                        "x": 663,
+                        "y": 100,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Extradimensional Space Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockextradimensionalspace,[$canAccessExtradimensionalSpace]"
+                ],
+                "sections": [
+                    {
+                        "name": "Spotted Plum-met",
+                        "ref": "Bestiary/Inorganic/Spotted Plum-met"
+                    },
+                    {
+                        "name": "Terist",
+                        "ref": "Bestiary/Inorganic/Terist"
+                    },
+                    {
+                        "name": "Speckle",
+                        "ref": "Bestiary/Insect/Speckle"
+                    },
+                    {
+                        "name": "Viral Speckle",
+                        "ref": "Bestiary/Insect/Viral Speckle"
+                    },
+                    {
+                        "name": "Tera Hunk",
+                        "ref": "Bestiary/Data/Tera Hunk"
+                    },
+                    {
+                        "name": "Cerberus",
+                        "ref": "Bestiary/Beast/Cerberus"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Eden",
+                        "x": 771,
+                        "y": 100,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Graphic Pass",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockgraphicpass,[$canAccessGraphicPass]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Eden",
+                        "x": 148,
+                        "y": 133,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Graphic Pass Peak",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockgraphicpass,[$canAccessGraphicPass]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Eden",
+                        "x": 148,
+                        "y": 89,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Graphic Pass Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockgraphicpass,[$canAccessGraphicPass]"
+                ],
+                "sections": [
+                    {
+                        "name": "Tetrisi",
+                        "ref": "Bestiary/Inorganic/Tetrisi"
+                    },
+                    {
+                        "name": "Cass Trap",
+                        "ref": "Bestiary/Plant/Cass Trap"
+                    },
+                    {
+                        "name": "Old Death",
+                        "ref": "Bestiary/Data/Old Death"
+                    },
+                    {
+                        "name": "Nue",
+                        "ref": "Bestiary/Avian/Nue"
+                    },
+                    {
+                        "name": "Viral Nue",
+                        "ref": "Bestiary/Avian/Viral Nue"
+                    },
+                    {
+                        "name": "Orthros",
+                        "ref": "Bestiary/Beast/Orthros"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Eden",
+                        "x": 270,
+                        "y": 128,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Koagura Plateau",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockkoaguraplateau,[$canAccessKoaguraPlateau]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Eden",
+                        "x": 237,
+                        "y": 254,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Koagura Plateau Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockkoaguraplateau,[$canAccessKoaguraPlateau]"
+                ],
+                "sections": [
+                    {
+                        "name": "Orange Flower",
+                        "ref": "Bestiary/Plant/Orange Flower"
+                    },
+                    {
+                        "name": "Flower Fairy",
+                        "ref": "Bestiary/Plant/Flower Fairy"
+                    },
+                    {
+                        "name": "Viral Flower Fairy",
+                        "ref": "Bestiary/Plant/Viral Flower Fairy"
+                    },
+                    {
+                        "name": "Gray Wolf",
+                        "ref": "Bestiary/Beast/Gray Wolf"
+                    },
+                    {
+                        "name": "Viral Gray Wolf",
+                        "ref": "Bestiary/Beast/Viral Gray Wolf"
+                    },
+                    {
+                        "name": "Gyps",
+                        "ref": "Bestiary/Avian/Gyps"
+                    },
+                    {
+                        "name": "Viral Eerie Bird",
+                        "ref": "Bestiary/Avian/Viral Eerie Bird"
+                    },
+                    {
+                        "name": "Cerberus 2",
+                        "ref": "Bestiary/Beast/Cerberus 2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Eden",
+                        "x": 356,
+                        "y": 255,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Magma Cave",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockmagmacave,[$canAccessHanedaMountainRange]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Eden",
+                        "x": 887,
+                        "y": 153,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Magma Cave Depths",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockmagmacave,[$canAccessHanedaMountainRange]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Eden",
+                        "x": 887,
+                        "y": 104,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Magma Cave Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockmagmacave,[$canAccessHanedaMountainRange]"
+                ],
+                "sections": [
+                    {
+                        "name": "Magma Boy",
+                        "ref": "Bestiary/Ghost/Magma Boy"
+                    },
+                    {
+                        "name": "Magma Girl",
+                        "ref": "Bestiary/Ghost/Magma Girl"
+                    },
+                    {
+                        "name": "King Cardbird",
+                        "ref": "Bestiary/Avian/King Cardbird"
+                    },
+                    {
+                        "name": "Magma Crab",
+                        "ref": "Bestiary/Inorganic/Magma Crab"
+                    },
+                    {
+                        "name": "Viral Magma Crab",
+                        "ref": "Bestiary/Inorganic/Viral Magma Crab"
+                    },
+                    {
+                        "name": "Bincho",
+                        "ref": "Bestiary/Avian/Bincho"
+                    },
+                    {
+                        "name": "Flame Skeleton",
+                        "ref": "Bestiary/Ghost/Flame Skeleton"
+                    },
+                    {
+                        "name": "Rafflesia",
+                        "ref": "Bestiary/Plant/Rafflesia"
+                    },
+                    {
+                        "name": "Viral Rafflesia",
+                        "ref": "Bestiary/Plant/Viral Rafflesia"
+                    },
+                    {
+                        "name": "Dolichorhynchops",
+                        "ref": "Bestiary/Aquatic/Dolichorhynchops"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Eden",
+                        "x": 993,
+                        "y": 155,
+                        "size": 32
+                    }
+                ]
+            }
+        ]
+    }
+]

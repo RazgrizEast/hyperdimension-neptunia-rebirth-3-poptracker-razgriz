@@ -1,0 +1,117 @@
+{
+    "tracker_horizontal": {
+        "type": "container",
+        "background": "#00000000",
+        "content": {
+            "type": "dock",
+            "dropshadow": true,
+            "content": [
+                {
+                    "type": "dock",
+                    "dock": "bottom",
+                    "content": [
+                        {
+                            "type": "group",
+                            "header": "Characters, Weapons, and Armor",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "characters_grid"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "G.C. 2012",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "hyperdimension_grid"
+                            }
+                        },
+                                               {
+                            "type": "group",
+                            "header": "Planeptune",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "planeptune_grid"
+                            }
+                        },
+                                               {
+                            "type": "group",
+                            "header": "Lastation",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "lastation_grid"
+                            }
+                        },
+                                               {
+                            "type": "group",
+                            "header": "Lowee",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "lowee_grid"
+                            }
+                        },
+                                               {
+                            "type": "group",
+                            "header": "Leanbox",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "leanbox_grid"
+                            }
+                        },
+                                               {
+                            "type": "group",
+                            "header": "PC",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "pccontinent_grid"
+                            }
+                        },
+                                               {
+                            "type": "group",
+                            "header": "Eden",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "eden_grid"
+                            }
+                        },
+                                               {
+                            "type": "group",
+                            "header": "Hello",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "hellocontinent_grid"
+                            }
+                        },
+                                               {
+                            "type": "group",
+                            "header": "Items",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "items_grid"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "tabbed_maps_horizontal"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

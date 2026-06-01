@@ -1,0 +1,349 @@
+{
+  "tabbed_maps_horizontal": {
+    "type": "tabbed",
+    "tabs": [
+      {
+        "title": "Overworld",
+        "content": { "type": "map", "maps": ["Overworld"] }
+      },
+      {
+				"title": "G.C. 2012",
+				"content":{ "type": "tabbed", "tabs": [
+									{
+										"title": "Overview Hyperdimension",
+										"content":{ "type": "map", "maps":["Overview Hyperdimension"] }
+									},
+									{
+										"title": "Area Maps",
+										"content":{ "type": "tabbed", "tabs":[
+												{
+													"title": "Virtua Forest Safe Zone",
+													"content":{ "type": "map", "maps":["Virtua Forest Safe Zone"] }
+												}
+											]
+										}
+									}
+								]
+							}
+						},
+      {
+				"title": "Planeptune",
+				"content":{ "type": "tabbed", "tabs": [
+									{
+										"title": "Overview Planeptune",
+										"content":{ "type": "map", "maps":["Overview Planeptune"] }
+									},
+									{
+										"title": "Area Maps",
+										"content":{ "type": "tabbed", "tabs":[
+												{
+													"title": "Jet Set Range",
+													"content":{ "type": "map", "maps":["Jet Set Range"] }
+												}
+											]
+										}
+									}
+								]
+							}
+						},
+      {
+				"title": "Lastation",
+				"content":{ "type": "tabbed", "tabs": [
+									{
+										"title": "Overview Lastation",
+										"content":{ "type": "map", "maps":["Overview Lastation"] }
+									},
+									{
+										"title": "Area Maps",
+										"content":{ "type": "tabbed", "tabs":[
+												{
+													"title": "Jet Set Peak",
+													"content":{ "type": "map", "maps":["Jet Set Peak"] }
+												},
+												{
+													"title": "Wanderer's Cave",
+													"content":{ "type": "map", "maps":["Wanderer's Cave"] }
+												}
+											]
+										}
+									}
+								]
+							}
+						},
+      {
+				"title": "Lowee",
+				"content":{ "type": "tabbed", "tabs": [
+									{
+										"title": "Overview Lowee",
+										"content":{ "type": "map", "maps":["Overview Lowee"] }
+									},
+									{
+										"title": "Area Maps",
+										"content":{ "type": "tabbed", "tabs":[
+												{
+													"title": "Castle Chambers",
+													"content":{ "type": "map", "maps":["Castle Chambers"] }
+												}
+											]
+										}
+									}
+								]
+							}
+						},
+      {
+				"title": "Leanbox",
+				"content":{ "type": "tabbed", "tabs": [
+									{
+										"title": "Overview Leanbox",
+										"content":{ "type": "map", "maps":["Overview Leanbox"] }
+									},
+									{
+										"title": "Area Maps",
+										"content":{ "type": "tabbed", "tabs":[
+												{
+													"title": "Halo Forest",
+													"content":{ "type": "map", "maps":["Halo Forest"] }
+												}
+											]
+										}
+									}
+								]
+							}
+						},
+      {
+				"title": "PC Continent",
+				"content":{ "type": "tabbed", "tabs": [
+									{
+										"title": "Overview PC Continent",
+										"content":{ "type": "map", "maps":["Overview PC Continent"] }
+									},
+									{
+										"title": "Area Maps",
+										"content":{ "type": "tabbed", "tabs":[
+												{
+													"title": "Adaldik Forest",
+													"content":{ "type": "map", "maps":["Adaldik Forest"] }
+												},	
+												{
+													"title": "Pii Shii Game Factory",
+													"content":{ "type": "map", "maps":["Pii Shii Game Factory"] }
+												}
+											]
+										}
+									}
+								]
+							}
+						},
+      {
+				"title": "Eden",
+				"content":{ "type": "tabbed", "tabs": [
+									{
+										"title": "Overview Eden",
+										"content":{ "type": "map", "maps":["Overview Eden"] }
+									},
+									{
+										"title": "Area Maps",
+										"content":{ "type": "tabbed", "tabs":[
+												{
+													"title": "Duo R Ruins",
+													"content":{ "type": "map", "maps":["Duo R Ruins"] }
+												}
+											]
+										}
+									}
+								]
+							}
+						},
+      {
+				"title": "Hello Continent",
+				"content":{ "type": "tabbed", "tabs": [
+									{
+										"title": "Overview Hello Continent",
+										"content":{ "type": "map", "maps":["Overview Hello Continent"] }
+									},
+									{
+										"title": "Area Maps",
+										"content":{ "type": "tabbed", "tabs":[
+												{
+													"title": "Keraga Dimension",
+													"content":{ "type": "map", "maps":["Keraga Dimension"] }
+												}
+											]
+										}
+									}
+								]
+							}
+						}
+    ]
+  },
+
+  "tabbed_maps_vertical": {
+    "type": "tabbed",
+    "tabs": [
+      {
+        "title": "Overworld",
+        "content": { "type": "map", "maps": ["Overworld"] }
+      },
+      {
+				"title": "Hyperdimension",
+				"content":{ "type": "tabbed", "tabs": [
+									{
+										"title": "Overview Hyperdimension",
+										"content":{ "type": "map", "maps":["Overview Hyperdimension"] }
+									},
+									{
+										"title": "Area Maps",
+										"content":{ "type": "tabbed", "tabs":[
+												{
+													"title": "Virtua Forest Safe Zone",
+													"content":{ "type": "map", "maps":["Virtua Forest Safe Zone"] }
+												}
+											]
+										}
+									}
+								]
+							}
+						},
+      {
+				"title": "Planeptune",
+				"content":{ "type": "tabbed", "tabs": [
+									{
+										"title": "Overview Planeptune",
+										"content":{ "type": "map", "maps":["Overview Planeptune"] }
+									},
+									{
+										"title": "Area Maps",
+										"content":{ "type": "tabbed", "tabs":[
+												{
+													"title": "Jet Set Range",
+													"content":{ "type": "map", "maps":["Jet Set Range"] }
+												}
+											]
+										}
+									}
+								]
+							}
+						},
+      {
+				"title": "Lastation",
+				"content":{ "type": "tabbed", "tabs": [
+									{
+										"title": "Overview Lastation",
+										"content":{ "type": "map", "maps":["Overview Lastation"] }
+									},
+									{
+										"title": "Area Maps",
+										"content":{ "type": "tabbed", "tabs":[
+												{
+													"title": "Jet Set Peak",
+													"content":{ "type": "map", "maps":["Jet Set Peak"] }
+												}
+											]
+										}
+									}
+								]
+							}
+						},
+      {
+				"title": "Lowee",
+				"content":{ "type": "tabbed", "tabs": [
+									{
+										"title": "Overview Lowee",
+										"content":{ "type": "map", "maps":["Overview Lowee"] }
+									},
+									{
+										"title": "Area Maps",
+										"content":{ "type": "tabbed", "tabs":[
+												{
+													"title": "Castle Chambers",
+													"content":{ "type": "map", "maps":["Castle Chambers"] }
+												}
+											]
+										}
+									}
+								]
+							}
+						},
+      {
+				"title": "Leanbox",
+				"content":{ "type": "tabbed", "tabs": [
+									{
+										"title": "Overview Leanbox",
+										"content":{ "type": "map", "maps":["Overview Leanbox"] }
+									},
+									{
+										"title": "Area Maps",
+										"content":{ "type": "tabbed", "tabs":[
+												{
+													"title": "Halo Forest",
+													"content":{ "type": "map", "maps":["Halo Forest"] }
+												}
+											]
+										}
+									}
+								]
+							}
+						},
+      {
+				"title": "PC Continent",
+				"content":{ "type": "tabbed", "tabs": [
+									{
+										"title": "Overview PC Continent",
+										"content":{ "type": "map", "maps":["Overview PC Continent"] }
+									},
+									{
+										"title": "Area Maps",
+										"content":{ "type": "tabbed", "tabs":[
+												{
+													"title": "Pii Shii Game Factory",
+													"content":{ "type": "map", "maps":["Pii Shii Game Factory"] }
+												}
+											]
+										}
+									}
+								]
+							}
+						},
+      {
+				"title": "Eden",
+				"content":{ "type": "tabbed", "tabs": [
+									{
+										"title": "Overview Eden",
+										"content":{ "type": "map", "maps":["Overview Eden"] }
+									},
+									{
+										"title": "Area Maps",
+										"content":{ "type": "tabbed", "tabs":[
+												{
+													"title": "Duo R Ruins",
+													"content":{ "type": "map", "maps":["Duo R Ruins"] }
+												}
+											]
+										}
+									}
+								]
+							}
+						},
+      {
+				"title": "Hello Continent",
+				"content":{ "type": "tabbed", "tabs": [
+									{
+										"title": "Overview Hello Continent",
+										"content":{ "type": "map", "maps":["Overview Hello Continent"] }
+									},
+									{
+										"title": "Area Maps",
+										"content":{ "type": "tabbed", "tabs":[
+												{
+													"title": "Keraga Dimension",
+													"content":{ "type": "map", "maps":["Keraga Dimension"] }
+												}
+											]
+										}
+									}
+								]
+							}
+						}
+    ]
+  }
+}

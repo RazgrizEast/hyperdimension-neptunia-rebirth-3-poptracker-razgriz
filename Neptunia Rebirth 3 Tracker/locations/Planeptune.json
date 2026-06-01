@@ -1,0 +1,1324 @@
+[
+    {
+        "name": "Planeptune",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Digital Future Land",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockdigitalfutureland,[$canAccessDigitalFutureLand]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Planeptune",
+                        "x": 88,
+                        "y": 134,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Digital Future Depths",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockdigitalfutureland,[$canAccessDigitalFutureLand]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Planeptune",
+                        "x": 88,
+                        "y": 93,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Digital Future Land Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockdigitalfutureland,[$canAccessDigitalFutureLand]"
+                ],
+                "sections": [
+                    {
+                        "name": "Shampuru Loner",
+                        "ref": "Bestiary/Beast/Shampuru Loner"
+                    },
+                    {
+                        "name": "Dokidoki Sister",
+                        "ref": "Bestiary/Data/Dokidoki Sister"
+                    },
+                    {
+                        "name": "NP-02v",
+                        "ref": "Bestiary/Machine/NP-02v"
+                    },
+                    {
+                        "name": "Bug Butterfly",
+                        "ref": "Bestiary/Insect/Bug Butterfly"
+                    },
+                    {
+                        "name": "Wolf Blaze",
+                        "ref": "Bestiary/Beast/Wolf Blaze"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Planeptune",
+                        "x": 206,
+                        "y": 136,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Haneda Mountain Range",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockhanedamountainrange,[$canAccessHanedaMountainRange]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 7",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Planeptune",
+                        "x": 992,
+                        "y": 66,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Haneda Mountain Peak",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockhanedamountainrange,[$canAccessHanedaMountainRange]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Planeptune",
+                        "x": 894,
+                        "y": 66,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Haneda Mountain Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockhanedamountainrange,[$canAccessHanedaMountainRange]"
+                ],
+                "sections": [
+                    {
+                        "name": "Carroteer",
+                        "ref": "Bestiary/Plant/Carroteer"
+                    },
+                    {
+                        "name": "High Heal Dogoo",
+                        "ref": "Bestiary/Dogoo/High Heal Dogoo"
+                    },
+                    {
+                        "name": "Horsebird CAW",
+                        "ref": "Bestiary/Avian/Horsebird CAW"
+                    },
+                    {
+                        "name": "Wild Dog",
+                        "ref": "Bestiary/Beast/Wild Dog"
+                    },
+                    {
+                        "name": "Viral Wild Dog",
+                        "ref": "Bestiary/Beast/Viral Wild Dog"
+                    },
+                    {
+                        "name": "Fenrir Wolf",
+                        "ref": "Bestiary/Beast/Fenrir Wolf"
+                    },
+                    {
+                        "name": "Meow",
+                        "ref": "Bestiary/Beast/Meow"
+                    },
+                    {
+                        "name": "Dragon Warrior",
+                        "ref": "Bestiary/Dragon/Dragon Warrior"
+                    },
+                    {
+                        "name": "Viral Dragon Warrior",
+                        "ref": "Bestiary/Dragon/Viral Dragon Warrior"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Planeptune",
+                        "x": 1118,
+                        "y": 60,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Jet Set Range",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockjetsetrange,[$canAccessJetSetRange]",
+                    "dungeonunlockjetsetpeak,[$canAccessJetSetRange]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Planeptune",
+                        "x": 938,
+                        "y": 342,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Jet Set Range Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockjetsetrange,[$canAccessJetSetRange]",
+                    "dungeonunlockjetsetpeak,[$canAccessJetSetRange]"
+                ],
+                "sections": [
+                    {
+                        "name": "Cardbird",
+                        "ref": "Bestiary/Avian/Cardbird"
+                    },
+                    {
+                        "name": "Sunflowery",
+                        "ref": "Bestiary/Plant/Sunflowery"
+                    },
+                    {
+                        "name": "Pal Shell",
+                        "ref": "Bestiary/Inorganic/Pal Shell"
+                    },
+                    {
+                        "name": "Alraune",
+                        "ref": "Bestiary/Plant/Alraune"
+                    },
+                    {
+                        "name": "Viral Alraune",
+                        "ref": "Bestiary/Plant/Viral Alraune"
+                    },
+                    {
+                        "name": "Ancient Dragon",
+                        "ref": "Bestiary/Dragon/Ancient Dragon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Planeptune",
+                        "x": 1047,
+                        "y": 343,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Otori Cave",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockotoricave,[$canAccessOtoriCave]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 7",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 8",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Planeptune",
+                        "x": 559,
+                        "y": 155,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Otori Cave Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockotoricave,[$canAccessOtoriCave]"
+                ],
+                "sections": [
+                    {
+                        "name": "Aimable",
+                        "ref": "Bestiary/Plant/Aimable"
+                    },
+                    {
+                        "name": "Earth Lizard",
+                        "ref": "Bestiary/Dragon/Earth Lizard"
+                    },
+                    {
+                        "name": "Viral Earth Lizard",
+                        "ref": "Bestiary/Dragon/Viral Earth Lizard"
+                    },
+                    {
+                        "name": "Numb Dogoo",
+                        "ref": "Bestiary/Dogoo/Numb Dogoo"
+                    },
+                    {
+                        "name": "Missile Golem",
+                        "ref": "Bestiary/Inorganic/Missile Golem"
+                    },
+                    {
+                        "name": "Viral Missile Golem",
+                        "ref": "Bestiary/Inorganic/Viral Missile Golem"
+                    },
+                    {
+                        "name": "Thunderbird",
+                        "ref": "Bestiary/Avian/Thunderbird"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Planeptune",
+                        "x": 660,
+                        "y": 155,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Otori Forest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockotoriforest,[$canAccessVirtuaForestSafeZone]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 7",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 8",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Planeptune",
+                        "x": 781,
+                        "y": 454,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Otori Forest Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockotoriforest,[$canAccessVirtuaForestSafeZone]"
+                ],
+                "sections": [
+                    {
+                        "name": "Contracted Angel",
+                        "ref": "Bestiary/Ghost/Contracted Angel"
+                    },
+                    {
+                        "name": "Exhausted Jelly",
+                        "ref": "Bestiary/Dogoo/Exhausted Jelly"
+                    },
+                    {
+                        "name": "Sergeant Froggy",
+                        "ref": "Bestiary/Aquatic/Sergeant Froggy"
+                    },
+                    {
+                        "name": "Hikky",
+                        "ref": "Bestiary/Plant/Hikky"
+                    },
+                    {
+                        "name": "Viral Hikky",
+                        "ref": "Bestiary/Plant/Viral Hikky"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Planeptune",
+                        "x": 892,
+                        "y": 453,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Powerlevel Island",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockpowerlevelisland,[$canAccessPowerlevelIsland]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Planeptune",
+                        "x": 467,
+                        "y": 531,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Powerlevel Island Interior",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockpowerlevelisland,[$canAccessPowerlevelIsland]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 7",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Planeptune",
+                        "x": 469,
+                        "y": 484,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Powerlevel Island Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockpowerlevelisland,[$canAccessPowerlevelIsland]"
+                ],
+                "sections": [
+                    {
+                        "name": "Penguin",
+                        "ref": "Bestiary/Aquatic/Penguin"
+                    },
+                    {
+                        "name": "Ms. Bashful",
+                        "ref": "Bestiary/Ghost/Ms. Bashful"
+                    },
+                    {
+                        "name": "Bashful",
+                        "ref": "Bestiary/Ghost/Bashful"
+                    },
+                    {
+                        "name": "Sea Golem",
+                        "ref": "Bestiary/Inorganic/Sea Golem"
+                    },
+                    {
+                        "name": "Viral Sea Golem",
+                        "ref": "Bestiary/Inorganic/Viral Sea Golem"
+                    },
+                    {
+                        "name": "Mega Turtle",
+                        "ref": "Bestiary/Aquatic/Mega Turtle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Planeptune",
+                        "x": 597,
+                        "y": 529,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Zeca Ruins No.1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockzecaruinsno1,[$canAccessZecaRuinsNo1]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 7",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Planeptune",
+                        "x": 784,
+                        "y": 149,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Zeca Ruins No. 1 Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockzecaruinsno1,[$canAccessZecaRuinsNo1]"
+                ],
+                "sections": [
+                    {
+                        "name": "Pixelvader",
+                        "ref": "Bestiary/Vader/Pixelvader"
+                    },
+                    {
+                        "name": "Clyde",
+                        "ref": "Bestiary/Ghost/Clyde"
+                    },
+                    {
+                        "name": "Ms. Clyde",
+                        "ref": "Bestiary/Ghost/Ms. Clyde"
+                    },
+                    {
+                        "name": "Cutekitty",
+                        "ref": "Bestiary/Beast/Cutekitty"
+                    },
+                    {
+                        "name": "Contracted Angel",
+                        "ref": "Bestiary/Ghost/Contracted Angel"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Planeptune",
+                        "x": 883,
+                        "y": 153,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Zeca Ruins No.2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockzecaruinsno2,[$canAccessZecaRuinsNo2]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Planeptune",
+                        "x": 334,
+                        "y": 199,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Zeca Ruins No. 2 Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockzecaruinsno2,[$canAccessZecaRuinsNo2]"
+                ],
+                "sections": [
+                    {
+                        "name": "Normal Shampuru",
+                        "ref": "Bestiary/Beast/Normal Shampuru"
+                    },
+                    {
+                        "name": "Magical Shampuru",
+                        "ref": "Bestiary/Beast/Magical Shampuru"
+                    },
+                    {
+                        "name": "Buff Shampuru",
+                        "ref": "Bestiary/Beast/Buff Shampuru"
+                    },
+                    {
+                        "name": "Metal Dogoo",
+                        "ref": "Bestiary/Dogoo/Metal Dogoo"
+                    },
+                    {
+                        "name": "Dangerous Shampuru",
+                        "ref": "Bestiary/Beast/Dangerous Shampuru"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Planeptune",
+                        "x": 429,
+                        "y": 204,
+                        "size": 32
+                    }
+                ]
+            }
+        ]
+    }
+]

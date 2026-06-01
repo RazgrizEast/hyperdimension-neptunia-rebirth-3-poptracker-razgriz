@@ -1,0 +1,387 @@
+[
+    {
+        "name": "PC Continent",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Adaldik Forest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockadaldikforest,[$canAccessAdaldikForest]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview PC Continent",
+                        "x": 983,
+                        "y": 400,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Adaldik Forest Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockadaldikforest,[$canAccessAdaldikForest]"
+                ],
+                "sections": [
+                    {
+                        "name": "Boxbird",
+                        "ref": "Bestiary/Avian/Boxbird"
+                    },
+                    {
+                        "name": "Fetigal",
+                        "ref": "Bestiary/Data/Fetigal"
+                    },
+                    {
+                        "name": "Rukh",
+                        "ref": "Bestiary/Avian/Rukh"
+                    },
+                    {
+                        "name": "Viral Rukh",
+                        "ref": "Bestiary/Avian/Viral Rukh"
+                    },
+                    {
+                        "name": "Fairyfly",
+                        "ref": "Bestiary/Insect/Fairyfly"
+                    },
+                    {
+                        "name": "Viral Fairyfly",
+                        "ref": "Bestiary/Insect/Viral Fairyfly"
+                    },
+                    {
+                        "name": "Garuda",
+                        "ref": "Bestiary/Avian/Garuda"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview PC Continent",
+                        "x": 1097,
+                        "y": 403,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Do Temple",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockdotemple,[$canAccessDoTemple]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview PC Continent",
+                        "x": 392,
+                        "y": 411,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Do Temple Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockdotemple,[$canAccessDoTemple]"
+                ],
+                "sections": [
+                    {
+                        "name": "Dinosauroid",
+                        "ref": "Bestiary/Dragon/Dinosauroid"
+                    },
+                    {
+                        "name": "Viral Dinosauroid",
+                        "ref": "Bestiary/Dragon/Viral Dinosauroid"
+                    },
+                    {
+                        "name": "Shimamos Brother",
+                        "ref": "Bestiary/Data/Shimamos Brother"
+                    },
+                    {
+                        "name": "Promise Keeper",
+                        "ref": "Bestiary/Ghost/Promise Keeper"
+                    },
+                    {
+                        "name": "Suzaku",
+                        "ref": "Bestiary/Avian/Suzaku"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview PC Continent",
+                        "x": 495,
+                        "y": 404,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Pii Shii Game Factory",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockpiishiigamefactory,[$canAccessPiiShiiGameFactory]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview PC Continent",
+                        "x": 414,
+                        "y": 130,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Pii Shii Game Factory Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockpiishiigamefactory,[$canAccessPiiShiiGameFactory]"
+                ],
+                "sections": [
+                    {
+                        "name": "Tom",
+                        "ref": "Bestiary/Beast/Tom"
+                    },
+                    {
+                        "name": "Demon Spider",
+                        "ref": "Bestiary/Insect/Demon Spider"
+                    },
+                    {
+                        "name": "A2-i",
+                        "ref": "Bestiary/Machine/A2-i"
+                    },
+                    {
+                        "name": "Queen Spider",
+                        "ref": "Bestiary/Insect/Queen Spider"
+                    },
+                    {
+                        "name": "Tank Type-99",
+                        "ref": "Bestiary/Machine/Tank Type-99"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview PC Continent",
+                        "x": 545,
+                        "y": 133,
+                        "size": 32
+                    }
+                ]
+            }
+        ]
+    }
+]

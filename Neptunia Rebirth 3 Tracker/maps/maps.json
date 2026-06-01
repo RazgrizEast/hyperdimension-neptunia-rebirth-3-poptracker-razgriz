@@ -1,0 +1,116 @@
+[
+    {
+        "name": "Overworld",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/overworld.png"
+    },
+    {
+        "name": "Overview Hyperdimension",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/hyperdimension.png"
+    },
+    {
+        "name": "Overview Planeptune",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/planeptune.png"
+    },
+    {
+        "name": "Overview Lastation",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/lastation.png"
+    },
+    {
+        "name": "Overview Lowee",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/lowee.png"
+    },
+    {
+        "name": "Overview Leanbox",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/leanbox.png"
+    },
+    {
+        "name": "Overview PC Continent",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/pccontinent.png"
+    },
+    {
+        "name": "Overview Eden",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/eden.png"
+    },
+    {
+        "name": "Overview Hello Continent",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/hellocontinent.png"
+    },
+    {
+        "name": "Virtua Forest Safe Zone",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/virtuaforestsafezone.png"
+    },
+    {
+        "name": "Jet Set Range",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/jetsetrange.png"
+    },
+    {
+        "name": "Jet Set Peak",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/jetsetpeak.png"
+    },
+    {
+        "name": "Wanderer's Cave",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/wandererscave.png"
+    },
+    {
+        "name": "Castle Chambers",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/castlechambers.png"
+    },
+    {
+        "name": "Halo Forest",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/haloforest.png"
+    },
+    {
+        "name": "Pii Shii Game Factory",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/piishiigamefactory.png"
+    },
+    {
+        "name": "Duo R Ruins",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/duorruins.png"
+    },
+    {
+        "name": "Keraga Dimension",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/keragadimension.png"
+    },
+    {
+        "name": "Adaldik Forest",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/adaldikforest.png"
+    }
+]

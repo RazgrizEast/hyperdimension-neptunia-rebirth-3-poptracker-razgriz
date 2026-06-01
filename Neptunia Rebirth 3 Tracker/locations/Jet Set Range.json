@@ -1,0 +1,263 @@
+[
+    {
+        "name": "Jet Set Range",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Jet Set Range Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Jet Set Range - Gather 1",
+                        "ref": "Planeptune/Jet Set Range/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Jet Set Range",
+                    "x": 524,
+                    "y": 887,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Jet Set Range Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Jet Set Range - Gather 2",
+                        "ref": "Planeptune/Jet Set Range/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Jet Set Range",
+                    "x": 323,
+                    "y": 755,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Jet Set Range Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Jet Set Range - Gather 3",
+                        "ref": "Planeptune/Jet Set Range/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Jet Set Range",
+                    "x": 344,
+                    "y": 545,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Jet Set Range Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Jet Set Range - Gather 4",
+                        "ref": "Planeptune/Jet Set Range/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Jet Set Range",
+                    "x": 183,
+                    "y": 473,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Jet Set Range Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Jet Set Range - Gather 5",
+                        "ref": "Planeptune/Jet Set Range/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Jet Set Range",
+                    "x": 218,
+                    "y": 181,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Jet Set Range Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Jet Set Range - Treasure 1",
+                        "ref": "Planeptune/Jet Set Range/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Jet Set Range",
+                    "x": 445,
+                    "y": 661,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Jet Set Range Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Jet Set Range - Treasure 2",
+                        "ref": "Planeptune/Jet Set Range/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Jet Set Range",
+                    "x": 440,
+                    "y": 361,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Jet Set Range Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Jet Set Range - Treasure 3",
+                        "ref": "Planeptune/Jet Set Range/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Jet Set Range",
+                    "x": 58,
+                    "y": 400,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Jet Set Range Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Jet Set Range - Treasure 4",
+                        "ref": "Planeptune/Jet Set Range/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Jet Set Range",
+                    "x": 416,
+                    "y": 75,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Jet Set Range Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Cardbird",
+                        "ref": "Bestiary/Avian/Cardbird"
+                    },
+                    {
+                        "name": "Sunflowery",
+                        "ref": "Bestiary/Plant/Sunflowery"
+                    },
+                    {
+                        "name": "Pal Shell",
+                        "ref": "Bestiary/Inorganic/Pal Shell"
+                    },
+                    {
+                        "name": "Alraune",
+                        "ref": "Bestiary/Plant/Alraune"
+                    },
+                    {
+                        "name": "Viral Alraune",
+                        "ref": "Bestiary/Plant/Viral Alraune"
+                    },
+                    {
+                        "name": "Ancient Dragon",
+                        "ref": "Bestiary/Dragon/Ancient Dragon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Jet Set Range",
+                        "x": 146,
+                        "y": 759,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

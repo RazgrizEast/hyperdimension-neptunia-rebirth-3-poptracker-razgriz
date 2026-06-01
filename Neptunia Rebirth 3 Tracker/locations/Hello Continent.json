@@ -1,0 +1,462 @@
+[
+    {
+        "name": "Hello Continent",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Keraga Dimension",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockkeragadimension,[$canAccessKeragaDimension]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Hello Continent",
+                        "x": 189,
+                        "y": 419,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Keraga Dimension Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockkeragadimension,[$canAccessKeragaDimension]"
+                ],
+                "sections": [
+                    {
+                        "name": "Mega Spider",
+                        "ref": "Bestiary/Insect/Mega Spider"
+                    },
+                    {
+                        "name": "EDGE",
+                        "ref": "Bestiary/Machine/EDGE"
+                    },
+                    {
+                        "name": "Next-gen Bit",
+                        "ref": "Bestiary/Machine/Next-gen Bit"
+                    },
+                    {
+                        "name": "Bundodo Old Man",
+                        "ref": "Bestiary/Data/Bundodo Old Man"
+                    },
+                    {
+                        "name": "Cyber Dolphin",
+                        "ref": "Bestiary/Aquatic/Cyber Dolphin"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Hello Continent",
+                        "x": 327,
+                        "y": 418,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "So Shal Forest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlocksoshalforest,[$canAccessSoShalForest]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Hello Continent",
+                        "x": 954,
+                        "y": 123,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "So Shal Forest Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlocksoshalforest,[$canAccessSoShalForest]"
+                ],
+                "sections": [
+                    {
+                        "name": "Prince Boxbird",
+                        "ref": "Bestiary/Avian/Prince Boxbird"
+                    },
+                    {
+                        "name": "Paralyze Dogoo",
+                        "ref": "Bestiary/Dogoo/Paralyze Dogoo"
+                    },
+                    {
+                        "name": "Lizard Knight",
+                        "ref": "Bestiary/Dragon/Lizard Knight"
+                    },
+                    {
+                        "name": "Viral Lizard Knight",
+                        "ref": "Bestiary/Dragon/Viral Lizard Knight"
+                    },
+                    {
+                        "name": "Insatiable Tree",
+                        "ref": "Bestiary/Plant/Insatiable Tree"
+                    },
+                    {
+                        "name": "Viral Insatiable Tree",
+                        "ref": "Bestiary/Plant/Viral Insatiable Tree"
+                    },
+                    {
+                        "name": "1000-Year Old Dolphin",
+                        "ref": "Bestiary/Aquatic/1000-Year Old Dolphin"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Hello Continent",
+                        "x": 1064,
+                        "y": 123,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Suaho Mountain Range",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlocksuahomountainrange,[$canAccessSuahoMountainRange]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Hello Continent",
+                        "x": 958,
+                        "y": 270,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Suaho Mountain Peak",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlocksuahomountainrange,[$canAccessSuahoMountainRange]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Hello Continent",
+                        "x": 863,
+                        "y": 263,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Suaho Mountain Range Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlocksuahomountainrange,[$canAccessSuahoMountainRange]"
+                ],
+                "sections": [
+                    {
+                        "name": "Hyena",
+                        "ref": "Bestiary/Beast/Hyena"
+                    },
+                    {
+                        "name": "Viral Hyena",
+                        "ref": "Bestiary/Beast/Viral Hyena"
+                    },
+                    {
+                        "name": "Pinky",
+                        "ref": "Bestiary/Ghost/Pinky"
+                    },
+                    {
+                        "name": "Ms. Pinky",
+                        "ref": "Bestiary/Ghost/Ms. Pinky"
+                    },
+                    {
+                        "name": "Paradise Avian",
+                        "ref": "Bestiary/Avian/Paradise Avian"
+                    },
+                    {
+                        "name": "Viral Paradise Avian",
+                        "ref": "Bestiary/Avian/Viral Paradise Avian"
+                    },
+                    {
+                        "name": "Roc",
+                        "ref": "Bestiary/Avian/Roc"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Hello Continent",
+                        "x": 1080,
+                        "y": 264,
+                        "size": 32
+                    }
+                ]
+            }
+        ]
+    }
+]

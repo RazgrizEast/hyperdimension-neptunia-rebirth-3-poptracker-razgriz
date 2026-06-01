@@ -1,0 +1,49 @@
+{
+    "tracker_broadcast": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+      {
+        "type": "layout",
+        "key": "characters_grid"
+      },
+      {
+        "type": "layout",
+        "key": "hyperdimension_grid"
+      },
+      {
+        "type": "layout",
+        "key": "planeptune_grid"
+      },
+      {
+        "type": "layout",
+        "key": "lastation_grid"
+      },
+      {
+        "type": "layout",
+        "key": "lowee_grid"
+      },
+      {
+        "type": "layout",
+        "key": "leanbox_grid"
+      },
+      {
+        "type": "layout",
+        "key": "pccontinent_grid"
+      },
+      {
+        "type": "layout",
+        "key": "eden_grid"
+      },
+      {
+        "type": "layout",
+        "key": "hellocontinent_grid"
+      },
+      {
+        "type": "layout",
+        "key": "items_grid"
+      }
+    ]
+  }
+}

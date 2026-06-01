@@ -1,0 +1,192 @@
+{
+    "characters_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+      {
+            "type": "itemgrid",
+            "margin": "0,0",
+            "item_margin": "2,2",
+            "item_size": 64,
+            "rows": [
+                ["characterneptune", "characternepgear", "characterplutia", "characternoire", "characteruni", "characterblanc", "charactervert"],
+                ["neptuneprogressiveweapons", "nepgearprogressiveweapons", "plutiaprogressiveweapons", "noireprogressiveweapons", "uniprogressiveweapons", "blancprogressiveweapons", "vertprogressiveweapons"],
+                ["characterrom", "romprogressiveweapons", "characterram", "ramprogressiveweapons", "characterpeashy", "peashyprogressiveweapons", "progressivearmor"]
+        ]
+      }
+    ]
+  },
+      "hyperdimension_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+      {
+            "type": "itemgrid",
+            "margin": "0,0",
+            "item_margin": "2,2",
+            "item_size": 32,
+            "rows": [
+                ["dungeonunlockvirtuaforestsafezone", "dungeonunlockstationarea"],
+                ["dungeonunlockvirtuaforest", "dungeonunlockcitycenter"],
+                ["dungeonunlockunderinverse", "dungeonunlockplaneptunealley"]
+        ]
+      }
+    ]
+      },
+      "planeptune_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+      {
+            "type": "itemgrid",
+            "margin": "0,0",
+            "item_margin": "2,2",
+            "item_size": 32,
+            "rows": [
+                ["dungeonunlockotoriforest", "dungeonunlockjetsetrange"],
+                ["dungeonunlockzecaruinsno1", "dungeonunlockzecaruinsno2"],
+                ["dungeonunlockotoricave", "dungeonunlockhanedamountainrange"],
+                ["dungeonunlockpowerlevelisland", "dungeonunlockdigitalfutureland"]
+        ]
+      }
+    ]
+      },
+      "lastation_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+      {
+            "type": "itemgrid",
+            "margin": "0,0",
+            "item_margin": "2,2",
+            "item_size": 32,
+            "rows": [
+                ["dungeonunlockjetsetpeak", "dungeonunlockwandererscave"],
+                ["dungeonunlockbandicrash", "dungeonunlockkuzaratfacility1"],
+                ["dungeonunlocksoniwetlands", "dungeonunlockrudarmssewern"],
+                ["dungeonunlockgigomainentrance", "dungeonunlocknationalfactory"],
+                ["dungeonunlockpsdimension", "dungeonunlockanonydeathslab"],
+                ["dungeonunlockvidadimension"]
+        ]
+      }
+    ]
+      },
+      "lowee_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+      {
+            "type": "itemgrid",
+            "margin": "0,0",
+            "item_margin": "2,2",
+            "item_size": 32,
+            "rows": [
+                ["dungeonunlockloweecastleexterior", "dungeonunlockreloadgrasslands"],
+                ["dungeonunlockrudarmssewers", "dungeonunlockcastlechambers"],
+                ["dungeonunlockmines", "dungeonunlocklujiplateau"],
+                ["dungeonunlockmetroidshelter", "dungeonunlockarioplateau"],
+                ["dungeonunlockloweecastlenorthernspace"]
+        ]
+      }
+    ]
+      },
+      "leanbox_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+      {
+            "type": "itemgrid",
+            "margin": "0,0",
+            "item_margin": "2,2",
+            "item_size": 32,
+            "rows": [
+                ["dungeonunlockhaloforest", "dungeonunlockzegaforest"],
+                ["dungeonunlockkobabaruins", "dungeonunlocknekutokiforest"],
+                ["dungeonunlockemesmagmacave"]
+        ]
+      }
+    ]
+      },
+      "pccontinent_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+      {
+            "type": "itemgrid",
+            "margin": "0,0",
+            "item_margin": "2,2",
+            "item_size": 32,
+            "rows": [
+                ["dungeonunlockadaldikforest"],
+                ["dungeonunlockpiishiigamefactory"],
+                ["dungeonunlockdotemple"]
+        ]
+      }
+    ]
+      },
+      "eden_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+      {
+            "type": "itemgrid",
+            "margin": "0,0",
+            "item_margin": "2,2",
+            "item_size": 32,
+            "rows": [
+                ["dungeonunlockmagmacave"],
+                ["dungeonunlockgraphicpass"],
+                ["dungeonunlockextradimensionalspace"],
+                ["dungeonunlockduorruins"],
+                ["dungeonunlockkoaguraplateau"]
+        ]
+      }
+    ]
+      },
+      "hellocontinent_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+      {
+            "type": "itemgrid",
+            "margin": "0,0",
+            "item_margin": "2,2",
+            "item_size": 32,
+            "rows": [
+                ["dungeonunlocksuahomountainrange"],
+                ["dungeonunlockkeragadimension"],
+                ["dungeonunlocksoshalforest"]
+        ]
+      }
+    ]
+      },
+      "items_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+      {
+            "type": "itemgrid",
+            "margin": "0,0",
+            "item_margin": "2,2",
+            "item_size": 32,
+            "rows": [
+                ["nepspudding"],
+                ["ifsnotebook"],
+                ["compassyringe"],
+                ["peashysdrawing"],
+                ["stuffeddoll"]
+        ]
+      }
+    ]
+  }
+}

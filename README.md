@@ -30,3 +30,5 @@ most part, use the tracker manually to quickly glance at where you need to go.
 
 I also have not figured out how to keep monsters that are in more than one dungeon from showing as available if you
 only have access to one dungeon. Obviously, the dungeon you have is the one you need to go to.
+
+Also, thank you to Prin from the Archipelago Discord who helped make some of the item grid pixel art (which I tried to badly recolor)

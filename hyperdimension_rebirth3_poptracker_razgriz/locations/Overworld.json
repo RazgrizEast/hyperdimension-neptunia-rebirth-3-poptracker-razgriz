@@ -1,0 +1,4430 @@
+[
+    {
+        "name": "Overworld",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "True Rei Ryghts",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockcitycenter,nepspudding,stuffeddoll,peashysdrawing,ifsnotebook,compassyringe,[$canAccessCityCenter]"
+                ],
+                "sections": [
+                    {
+                        "name": "Victory",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 505,
+                        "y": 488,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Eden",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Duo R Ruins - Gather 1",
+                        "ref": "Eden/Duo R Ruins/Gather 1"
+                    },
+                    {
+                        "name": "Duo R Ruins - Gather 2",
+                        "ref": "Eden/Duo R Ruins/Gather 2"
+                    },
+                    {
+                        "name": "Duo R Ruins - Gather 3",
+                        "ref": "Eden/Duo R Ruins/Gather 3"
+                    },
+                    {
+                        "name": "Duo R Ruins - Gather 4",
+                        "ref": "Eden/Duo R Ruins/Gather 4"
+                    },
+                    {
+                        "name": "Duo R Ruins - Gather 5",
+                        "ref": "Eden/Duo R Ruins/Gather 5"
+                    },
+                    {
+                        "name": "Duo R Ruins - Gather 6",
+                        "ref": "Eden/Duo R Ruins/Gather 6"
+                    },
+                    {
+                        "name": "Duo R Ruins - Gather 7",
+                        "ref": "Eden/Duo R Ruins/Gather 7"
+                    },
+                    {
+                        "name": "Duo R Ruins - Treasure 1",
+                        "ref": "Eden/Duo R Ruins/Treasure 1"
+                    },
+                    {
+                        "name": "Duo R Ruins - Treasure 2",
+                        "ref": "Eden/Duo R Ruins/Treasure 2"
+                    },
+                    {
+                        "name": "Duo R Ruins - Treasure 3",
+                        "ref": "Eden/Duo R Ruins/Treasure 3"
+                    },
+                    {
+                        "name": "Duo R Ruins - Treasure 4",
+                        "ref": "Eden/Duo R Ruins/Treasure 4"
+                    },
+                    {
+                        "name": "Duo R Ruins - Treasure 5",
+                        "ref": "Eden/Duo R Ruins/Treasure 5"
+                    },
+                    {
+                        "name": "Duo R Ruins - Treasure 6",
+                        "ref": "Eden/Duo R Ruins/Treasure 6"
+                    },
+                    {
+                        "name": "Extradimensional Space - Gather 1",
+                        "ref": "Eden/Extradimensional Space/Gather 1"
+                    },
+                    {
+                        "name": "Extradimensional Space - Gather 2",
+                        "ref": "Eden/Extradimensional Space/Gather 2"
+                    },
+                    {
+                        "name": "Extradimensional Space - Gather 3",
+                        "ref": "Eden/Extradimensional Space/Gather 3"
+                    },
+                    {
+                        "name": "Extradimensional Space - Gather 4",
+                        "ref": "Eden/Extradimensional Space/Gather 4"
+                    },
+                    {
+                        "name": "Extradimensional Space - Gather 5",
+                        "ref": "Eden/Extradimensional Space/Gather 5"
+                    },
+                    {
+                        "name": "Extradimensional Space - Treasure 1",
+                        "ref": "Eden/Extradimensional Space/Treasure 1"
+                    },
+                    {
+                        "name": "Extradimensional Space - Treasure 2",
+                        "ref": "Eden/Extradimensional Space/Treasure 2"
+                    },
+                    {
+                        "name": "Extradimensional Space - Treasure 3",
+                        "ref": "Eden/Extradimensional Space/Treasure 3"
+                    },
+                    {
+                        "name": "Extradimensional Space - Treasure 4",
+                        "ref": "Eden/Extradimensional Space/Treasure 4"
+                    },
+                    {
+                        "name": "Extradimensional Space - Treasure 5",
+                        "ref": "Eden/Extradimensional Space/Treasure 5"
+                    },
+                    {
+                        "name": "Graphic Pass - Gather 1",
+                        "ref": "Eden/Graphic Pass/Gather 1"
+                    },
+                    {
+                        "name": "Graphic Pass - Gather 2",
+                        "ref": "Eden/Graphic Pass/Gather 2"
+                    },
+                    {
+                        "name": "Graphic Pass - Gather 3",
+                        "ref": "Eden/Graphic Pass/Gather 3"
+                    },
+                    {
+                        "name": "Graphic Pass - Gather 4",
+                        "ref": "Eden/Graphic Pass/Gather 4"
+                    },
+                    {
+                        "name": "Graphic Pass - Gather 5",
+                        "ref": "Eden/Graphic Pass/Gather 5"
+                    },
+                    {
+                        "name": "Graphic Pass - Gather 6",
+                        "ref": "Eden/Graphic Pass/Gather 6"
+                    },
+                    {
+                        "name": "Graphic Pass - Treasure 1",
+                        "ref": "Eden/Graphic Pass/Treasure 1"
+                    },
+                    {
+                        "name": "Graphic Pass - Treasure 2",
+                        "ref": "Eden/Graphic Pass/Treasure 2"
+                    },
+                    {
+                        "name": "Graphic Pass - Treasure 3",
+                        "ref": "Eden/Graphic Pass/Treasure 3"
+                    },
+                    {
+                        "name": "Graphic Pass - Treasure 4",
+                        "ref": "Eden/Graphic Pass/Treasure 4"
+                    },
+                    {
+                        "name": "Graphic Pass Peak - Gather 1",
+                        "ref": "Eden/Graphic Pass Peak/Gather 1"
+                    },
+                    {
+                        "name": "Graphic Pass Peak - Gather 2",
+                        "ref": "Eden/Graphic Pass Peak/Gather 2"
+                    },
+                    {
+                        "name": "Graphic Pass Peak - Gather 3",
+                        "ref": "Eden/Graphic Pass Peak/Gather 3"
+                    },
+                    {
+                        "name": "Graphic Pass Peak - Gather 4",
+                        "ref": "Eden/Graphic Pass Peak/Gather 4"
+                    },
+                    {
+                        "name": "Graphic Pass Peak - Gather 5",
+                        "ref": "Eden/Graphic Pass Peak/Gather 5"
+                    },
+                    {
+                        "name": "Graphic Pass Peak - Treasure 1",
+                        "ref": "Eden/Graphic Pass Peak/Treasure 1"
+                    },
+                    {
+                        "name": "Graphic Pass Peak - Treasure 2",
+                        "ref": "Eden/Graphic Pass Peak/Treasure 2"
+                    },
+                    {
+                        "name": "Graphic Pass Peak - Treasure 3",
+                        "ref": "Eden/Graphic Pass Peak/Treasure 3"
+                    },
+                    {
+                        "name": "Graphic Pass Peak - Treasure 4",
+                        "ref": "Eden/Graphic Pass Peak/Treasure 4"
+                    },
+                    {
+                        "name": "Graphic Pass Peak - Treasure 5",
+                        "ref": "Eden/Graphic Pass Peak/Treasure 5"
+                    },
+                    {
+                        "name": "Koagura Plateau - Gather 1",
+                        "ref": "Eden/Koagura Plateau/Gather 1"
+                    },
+                    {
+                        "name": "Koagura Plateau - Gather 2",
+                        "ref": "Eden/Koagura Plateau/Gather 2"
+                    },
+                    {
+                        "name": "Koagura Plateau - Gather 3",
+                        "ref": "Eden/Koagura Plateau/Gather 3"
+                    },
+                    {
+                        "name": "Koagura Plateau - Gather 4",
+                        "ref": "Eden/Koagura Plateau/Gather 4"
+                    },
+                    {
+                        "name": "Koagura Plateau - Gather 5",
+                        "ref": "Eden/Koagura Plateau/Gather 5"
+                    },
+                    {
+                        "name": "Koagura Plateau - Treasure 1",
+                        "ref": "Eden/Koagura Plateau/Treasure 1"
+                    },
+                    {
+                        "name": "Koagura Plateau - Treasure 2",
+                        "ref": "Eden/Koagura Plateau/Treasure 2"
+                    },
+                    {
+                        "name": "Koagura Plateau - Treasure 3",
+                        "ref": "Eden/Koagura Plateau/Treasure 3"
+                    },
+                    {
+                        "name": "Koagura Plateau - Treasure 4",
+                        "ref": "Eden/Koagura Plateau/Treasure 4"
+                    },
+                    {
+                        "name": "Koagura Plateau - Treasure 5",
+                        "ref": "Eden/Koagura Plateau/Treasure 5"
+                    },
+                    {
+                        "name": "Magma Cave - Gather 1",
+                        "ref": "Eden/Magma Cave/Gather 1"
+                    },
+                    {
+                        "name": "Magma Cave - Gather 2",
+                        "ref": "Eden/Magma Cave/Gather 2"
+                    },
+                    {
+                        "name": "Magma Cave - Gather 3",
+                        "ref": "Eden/Magma Cave/Gather 3"
+                    },
+                    {
+                        "name": "Magma Cave - Gather 4",
+                        "ref": "Eden/Magma Cave/Gather 4"
+                    },
+                    {
+                        "name": "Magma Cave - Gather 5",
+                        "ref": "Eden/Magma Cave/Gather 5"
+                    },
+                    {
+                        "name": "Magma Cave - Treasure 1",
+                        "ref": "Eden/Magma Cave/Treasure 1"
+                    },
+                    {
+                        "name": "Magma Cave - Treasure 2",
+                        "ref": "Eden/Magma Cave/Treasure 2"
+                    },
+                    {
+                        "name": "Magma Cave - Treasure 3",
+                        "ref": "Eden/Magma Cave/Treasure 3"
+                    },
+                    {
+                        "name": "Magma Cave - Treasure 4",
+                        "ref": "Eden/Magma Cave/Treasure 4"
+                    },
+                    {
+                        "name": "Magma Cave Depths - Gather 1",
+                        "ref": "Eden/Magma Cave Depths/Gather 1"
+                    },
+                    {
+                        "name": "Magma Cave Depths - Gather 2",
+                        "ref": "Eden/Magma Cave Depths/Gather 2"
+                    },
+                    {
+                        "name": "Magma Cave Depths - Gather 3",
+                        "ref": "Eden/Magma Cave Depths/Gather 3"
+                    },
+                    {
+                        "name": "Magma Cave Depths - Gather 4",
+                        "ref": "Eden/Magma Cave Depths/Gather 4"
+                    },
+                    {
+                        "name": "Magma Cave Depths - Gather 5",
+                        "ref": "Eden/Magma Cave Depths/Gather 5"
+                    },
+                    {
+                        "name": "Magma Cave Depths - Treasure 1",
+                        "ref": "Eden/Magma Cave Depths/Treasure 1"
+                    },
+                    {
+                        "name": "Magma Cave Depths - Treasure 2",
+                        "ref": "Eden/Magma Cave Depths/Treasure 2"
+                    },
+                    {
+                        "name": "Magma Cave Depths - Treasure 3",
+                        "ref": "Eden/Magma Cave Depths/Treasure 3"
+                    },
+                    {
+                        "name": "Magma Cave Depths - Treasure 4",
+                        "ref": "Eden/Magma Cave Depths/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 80,
+                        "y": 209,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Eden Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Boxer Cat",
+                        "ref": "Bestiary/Beast/Boxer Cat"
+                    },
+                    {
+                        "name": "Skull",
+                        "ref": "Bestiary/Ghost/Skull"
+                    },
+                    {
+                        "name": "Modded DSTT",
+                        "ref": "Bestiary/Machine/Modded DSTT"
+                    },
+                    {
+                        "name": "Something Tree",
+                        "ref": "Bestiary/Plant/Something Tree"
+                    },
+                    {
+                        "name": "Viral Something Tree",
+                        "ref": "Bestiary/Plant/Viral Something Tree"
+                    },
+                    {
+                        "name": "Vanargandr",
+                        "ref": "Bestiary/Beast/Vanargandr"
+                    },
+                    {
+                        "name": "Spotted Plum-met",
+                        "ref": "Bestiary/Inorganic/Spotted Plum-met"
+                    },
+                    {
+                        "name": "Terist",
+                        "ref": "Bestiary/Inorganic/Terist"
+                    },
+                    {
+                        "name": "Speckle",
+                        "ref": "Bestiary/Insect/Speckle"
+                    },
+                    {
+                        "name": "Viral Speckle",
+                        "ref": "Bestiary/Insect/Viral Speckle"
+                    },
+                    {
+                        "name": "Tera Hunk",
+                        "ref": "Bestiary/Data/Tera Hunk"
+                    },
+                    {
+                        "name": "Cerberus",
+                        "ref": "Bestiary/Beast/Cerberus"
+                    },
+                    {
+                        "name": "Tetrisi",
+                        "ref": "Bestiary/Inorganic/Tetrisi"
+                    },
+                    {
+                        "name": "Cass Trap",
+                        "ref": "Bestiary/Plant/Cass Trap"
+                    },
+                    {
+                        "name": "Old Death",
+                        "ref": "Bestiary/Data/Old Death"
+                    },
+                    {
+                        "name": "Nue",
+                        "ref": "Bestiary/Avian/Nue"
+                    },
+                    {
+                        "name": "Viral Nue",
+                        "ref": "Bestiary/Avian/Viral Nue"
+                    },
+                    {
+                        "name": "Orthros",
+                        "ref": "Bestiary/Beast/Orthros"
+                    },
+                    {
+                        "name": "Orange Flower",
+                        "ref": "Bestiary/Plant/Orange Flower"
+                    },
+                    {
+                        "name": "Flower Fairy",
+                        "ref": "Bestiary/Plant/Flower Fairy"
+                    },
+                    {
+                        "name": "Viral Flower Fairy",
+                        "ref": "Bestiary/Plant/Viral Flower Fairy"
+                    },
+                    {
+                        "name": "Gray Wolf",
+                        "ref": "Bestiary/Beast/Gray Wolf"
+                    },
+                    {
+                        "name": "Viral Gray Wolf",
+                        "ref": "Bestiary/Beast/Viral Gray Wolf"
+                    },
+                    {
+                        "name": "Gyps",
+                        "ref": "Bestiary/Avian/Gyps"
+                    },
+                    {
+                        "name": "Viral Eerie Bird",
+                        "ref": "Bestiary/Avian/Viral Eerie Bird"
+                    },
+                    {
+                        "name": "Cerberus 2",
+                        "ref": "Bestiary/Beast/Cerberus 2"
+                    },
+                    {
+                        "name": "Magma Boy",
+                        "ref": "Bestiary/Ghost/Magma Boy"
+                    },
+                    {
+                        "name": "Magma Girl",
+                        "ref": "Bestiary/Ghost/Magma Girl"
+                    },
+                    {
+                        "name": "King Cardbird",
+                        "ref": "Bestiary/Avian/King Cardbird"
+                    },
+                    {
+                        "name": "Magma Crab",
+                        "ref": "Bestiary/Inorganic/Magma Crab"
+                    },
+                    {
+                        "name": "Viral Magma Crab",
+                        "ref": "Bestiary/Inorganic/Viral Magma Crab"
+                    },
+                    {
+                        "name": "Bincho",
+                        "ref": "Bestiary/Avian/Bincho"
+                    },
+                    {
+                        "name": "Flame Skeleton",
+                        "ref": "Bestiary/Ghost/Flame Skeleton"
+                    },
+                    {
+                        "name": "Rafflesia",
+                        "ref": "Bestiary/Plant/Rafflesia"
+                    },
+                    {
+                        "name": "Viral Rafflesia",
+                        "ref": "Bestiary/Plant/Viral Rafflesia"
+                    },
+                    {
+                        "name": "Dolichorhynchops",
+                        "ref": "Bestiary/Aquatic/Dolichorhynchops"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 312,
+                        "y": 209,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Hello Continent",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Keraga Dimension - Gather 1",
+                        "ref": "Hello Continent/Keraga Dimension/Gather 1"
+                    },
+                    {
+                        "name": "Keraga Dimension - Gather 2",
+                        "ref": "Hello Continent/Keraga Dimension/Gather 2"
+                    },
+                    {
+                        "name": "Keraga Dimension - Gather 3",
+                        "ref": "Hello Continent/Keraga Dimension/Gather 3"
+                    },
+                    {
+                        "name": "Keraga Dimension - Gather 4",
+                        "ref": "Hello Continent/Keraga Dimension/Gather 4"
+                    },
+                    {
+                        "name": "Keraga Dimension - Gather 5",
+                        "ref": "Hello Continent/Keraga Dimension/Gather 5"
+                    },
+                    {
+                        "name": "Keraga Dimension - Treasure 1",
+                        "ref": "Hello Continent/Keraga Dimension/Treasure 1"
+                    },
+                    {
+                        "name": "Keraga Dimension - Treasure 2",
+                        "ref": "Hello Continent/Keraga Dimension/Treasure 2"
+                    },
+                    {
+                        "name": "Keraga Dimension - Treasure 3",
+                        "ref": "Hello Continent/Keraga Dimension/Treasure 3"
+                    },
+                    {
+                        "name": "Keraga Dimension - Treasure 4",
+                        "ref": "Hello Continent/Keraga Dimension/Treasure 4"
+                    },
+                    {
+                        "name": "Keraga Dimension - Treasure 5",
+                        "ref": "Hello Continent/Keraga Dimension/Treasure 5"
+                    },
+                    {
+                        "name": "So Shal Forest - Gather 1",
+                        "ref": "Hello Continent/So Shal Forest/Gather 1"
+                    },
+                    {
+                        "name": "So Shal Forest - Gather 2",
+                        "ref": "Hello Continent/So Shal Forest/Gather 2"
+                    },
+                    {
+                        "name": "So Shal Forest - Gather 3",
+                        "ref": "Hello Continent/So Shal Forest/Gather 3"
+                    },
+                    {
+                        "name": "So Shal Forest - Gather 4",
+                        "ref": "Hello Continent/So Shal Forest/Gather 4"
+                    },
+                    {
+                        "name": "So Shal Forest - Gather 5",
+                        "ref": "Hello Continent/So Shal Forest/Gather 5"
+                    },
+                    {
+                        "name": "So Shal Forest - Treasure 1",
+                        "ref": "Hello Continent/So Shal Forest/Treasure 1"
+                    },
+                    {
+                        "name": "So Shal Forest - Treasure 2",
+                        "ref": "Hello Continent/So Shal Forest/Treasure 2"
+                    },
+                    {
+                        "name": "So Shal Forest - Treasure 3",
+                        "ref": "Hello Continent/So Shal Forest/Treasure 3"
+                    },
+                    {
+                        "name": "So Shal Forest - Treasure 4",
+                        "ref": "Hello Continent/So Shal Forest/Treasure 4"
+                    },
+                    {
+                        "name": "So Shal Forest - Treasure 5",
+                        "ref": "Hello Continent/So Shal Forest/Treasure 5"
+                    },
+                    {
+                        "name": "Suaho Mountain Range - Gather 1",
+                        "ref": "Hello Continent/Suaho Mountain Range/Gather 1"
+                    },
+                    {
+                        "name": "Suaho Mountain Range - Gather 2",
+                        "ref": "Hello Continent/Suaho Mountain Range/Gather 2"
+                    },
+                    {
+                        "name": "Suaho Mountain Range - Gather 3",
+                        "ref": "Hello Continent/Suaho Mountain Range/Gather 3"
+                    },
+                    {
+                        "name": "Suaho Mountain Range - Gather 4",
+                        "ref": "Hello Continent/Suaho Mountain Range/Gather 4"
+                    },
+                    {
+                        "name": "Suaho Mountain Range - Gather 5",
+                        "ref": "Hello Continent/Suaho Mountain Range/Gather 5"
+                    },
+                    {
+                        "name": "Suaho Mountain Range - Gather 6",
+                        "ref": "Hello Continent/Suaho Mountain Range/Gather 6"
+                    },
+                    {
+                        "name": "Suaho Mountain Range - Treasure 1",
+                        "ref": "Hello Continent/Suaho Mountain Range/Treasure 1"
+                    },
+                    {
+                        "name": "Suaho Mountain Range - Treasure 2",
+                        "ref": "Hello Continent/Suaho Mountain Range/Treasure 2"
+                    },
+                    {
+                        "name": "Suaho Mountain Range - Treasure 3",
+                        "ref": "Hello Continent/Suaho Mountain Range/Treasure 3"
+                    },
+                    {
+                        "name": "Suaho Mountain Range - Treasure 4",
+                        "ref": "Hello Continent/Suaho Mountain Range/Treasure 4"
+                    },
+                    {
+                        "name": "Suaho Mountain Peak - Gather 1",
+                        "ref": "Hello Continent/Suaho Mountain Peak/Gather 1"
+                    },
+                    {
+                        "name": "Suaho Mountain Peak - Gather 2",
+                        "ref": "Hello Continent/Suaho Mountain Peak/Gather 2"
+                    },
+                    {
+                        "name": "Suaho Mountain Peak - Gather 3",
+                        "ref": "Hello Continent/Suaho Mountain Peak/Gather 3"
+                    },
+                    {
+                        "name": "Suaho Mountain Peak - Gather 4",
+                        "ref": "Hello Continent/Suaho Mountain Peak/Gather 4"
+                    },
+                    {
+                        "name": "Suaho Mountain Peak - Gather 5",
+                        "ref": "Hello Continent/Suaho Mountain Peak/Gather 5"
+                    },
+                    {
+                        "name": "Suaho Mountain Peak - Treasure 1",
+                        "ref": "Hello Continent/Suaho Mountain Peak/Treasure 1"
+                    },
+                    {
+                        "name": "Suaho Mountain Peak - Treasure 2",
+                        "ref": "Hello Continent/Suaho Mountain Peak/Treasure 2"
+                    },
+                    {
+                        "name": "Suaho Mountain Peak - Treasure 3",
+                        "ref": "Hello Continent/Suaho Mountain Peak/Treasure 3"
+                    },
+                    {
+                        "name": "Suaho Mountain Peak - Treasure 4",
+                        "ref": "Hello Continent/Suaho Mountain Peak/Treasure 4"
+                    },
+                    {
+                        "name": "Suaho Mountain Peak - Treasure 5",
+                        "ref": "Hello Continent/Suaho Mountain Peak/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 82,
+                        "y": 748,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Hello Continent Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mega Spider",
+                        "ref": "Bestiary/Insect/Mega Spider"
+                    },
+                    {
+                        "name": "EDGE",
+                        "ref": "Bestiary/Machine/EDGE"
+                    },
+                    {
+                        "name": "Next-gen Bit",
+                        "ref": "Bestiary/Machine/Next-gen Bit"
+                    },
+                    {
+                        "name": "Bundodo Old Man",
+                        "ref": "Bestiary/Data/Bundodo Old Man"
+                    },
+                    {
+                        "name": "Cyber Dolphin",
+                        "ref": "Bestiary/Aquatic/Cyber Dolphin"
+                    },
+                    {
+                        "name": "Prince Boxbird",
+                        "ref": "Bestiary/Avian/Prince Boxbird"
+                    },
+                    {
+                        "name": "Paralyze Dogoo",
+                        "ref": "Bestiary/Dogoo/Paralyze Dogoo"
+                    },
+                    {
+                        "name": "Lizard Knight",
+                        "ref": "Bestiary/Dragon/Lizard Knight"
+                    },
+                    {
+                        "name": "Viral Lizard Knight",
+                        "ref": "Bestiary/Dragon/Viral Lizard Knight"
+                    },
+                    {
+                        "name": "Insatiable Tree",
+                        "ref": "Bestiary/Plant/Insatiable Tree"
+                    },
+                    {
+                        "name": "Viral Insatiable Tree",
+                        "ref": "Bestiary/Plant/Viral Insatiable Tree"
+                    },
+                    {
+                        "name": "1000-Year Old Dolphin",
+                        "ref": "Bestiary/Aquatic/1000-Year Old Dolphin"
+                    },
+                    {
+                        "name": "Hyena",
+                        "ref": "Bestiary/Beast/Hyena"
+                    },
+                    {
+                        "name": "Viral Hyena",
+                        "ref": "Bestiary/Beast/Viral Hyena"
+                    },
+                    {
+                        "name": "Pinky",
+                        "ref": "Bestiary/Ghost/Pinky"
+                    },
+                    {
+                        "name": "Ms. Pinky",
+                        "ref": "Bestiary/Ghost/Ms. Pinky"
+                    },
+                    {
+                        "name": "Paradise Avian",
+                        "ref": "Bestiary/Avian/Paradise Avian"
+                    },
+                    {
+                        "name": "Viral Paradise Avian",
+                        "ref": "Bestiary/Avian/Viral Paradise Avian"
+                    },
+                    {
+                        "name": "Roc",
+                        "ref": "Bestiary/Avian/Roc"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 311,
+                        "y": 748,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Hyperdimension",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "City Center - Gather 1",
+                        "ref": "Hyperdimension/City Center/Gather 1"
+                    },
+                    {
+                        "name": "City Center - Gather 2",
+                        "ref": "Hyperdimension/City Center/Gather 2"
+                    },
+                    {
+                        "name": "City Center - Gather 3",
+                        "ref": "Hyperdimension/City Center/Gather 3"
+                    },
+                    {
+                        "name": "City Center - Gather 4",
+                        "ref": "Hyperdimension/City Center/Gather 4"
+                    },
+                    {
+                        "name": "City Center - Gather 5",
+                        "ref": "Hyperdimension/City Center/Gather 5"
+                    },
+                    {
+                        "name": "City Center - Treasure 1",
+                        "ref": "Hyperdimension/City Center/Treasure 1"
+                    },
+                    {
+                        "name": "City Center - Treasure 2",
+                        "ref": "Hyperdimension/City Center/Treasure 2"
+                    },
+                    {
+                        "name": "City Center - Treasure 3",
+                        "ref": "Hyperdimension/City Center/Treasure 3"
+                    },
+                    {
+                        "name": "City Center - Treasure 4",
+                        "ref": "Hyperdimension/City Center/Treasure 4"
+                    },
+                    {
+                        "name": "City Center - Treasure 5",
+                        "ref": "Hyperdimension/City Center/Treasure 5"
+                    },
+                    {
+                        "name": "Planeptune Alley - Gather 1",
+                        "ref": "Hyperdimension/Planeptune Alley/Gather 1"
+                    },
+                    {
+                        "name": "Planeptune Alley - Gather 2",
+                        "ref": "Hyperdimension/Planeptune Alley/Gather 2"
+                    },
+                    {
+                        "name": "Planeptune Alley - Gather 3",
+                        "ref": "Hyperdimension/Planeptune Alley/Gather 3"
+                    },
+                    {
+                        "name": "Planeptune Alley - Gather 4",
+                        "ref": "Hyperdimension/Planeptune Alley/Gather 4"
+                    },
+                    {
+                        "name": "Planeptune Alley - Gather 5",
+                        "ref": "Hyperdimension/Planeptune Alley/Gather 5"
+                    },
+                    {
+                        "name": "Planeptune Alley - Treasure 1",
+                        "ref": "Hyperdimension/Planeptune Alley/Treasure 1"
+                    },
+                    {
+                        "name": "Planeptune Alley - Treasure 2",
+                        "ref": "Hyperdimension/Planeptune Alley/Treasure 2"
+                    },
+                    {
+                        "name": "Planeptune Alley - Treasure 3",
+                        "ref": "Hyperdimension/Planeptune Alley/Treasure 3"
+                    },
+                    {
+                        "name": "Planeptune Alley - Treasure 4",
+                        "ref": "Hyperdimension/Planeptune Alley/Treasure 4"
+                    },
+                    {
+                        "name": "Station Area - Gather 1",
+                        "ref": "Hyperdimension/Station Area/Gather 1"
+                    },
+                    {
+                        "name": "Station Area - Gather 2",
+                        "ref": "Hyperdimension/Station Area/Gather 2"
+                    },
+                    {
+                        "name": "Station Area - Gather 3",
+                        "ref": "Hyperdimension/Station Area/Gather 3"
+                    },
+                    {
+                        "name": "Station Area - Gather 4",
+                        "ref": "Hyperdimension/Station Area/Gather 4"
+                    },
+                    {
+                        "name": "Station Area - Gather 5",
+                        "ref": "Hyperdimension/Station Area/Gather 5"
+                    },
+                    {
+                        "name": "Station Area - Gather 6",
+                        "ref": "Hyperdimension/Station Area/Gather 6"
+                    },
+                    {
+                        "name": "Station Area - Treasure 1",
+                        "ref": "Hyperdimension/Station Area/Treasure 1"
+                    },
+                    {
+                        "name": "Station Area - Treasure 2",
+                        "ref": "Hyperdimension/Station Area/Treasure 2"
+                    },
+                    {
+                        "name": "Station Area - Treasure 3",
+                        "ref": "Hyperdimension/Station Area/Treasure 3"
+                    },
+                    {
+                        "name": "Station Area - Treasure 4",
+                        "ref": "Hyperdimension/Station Area/Treasure 4"
+                    },
+                    {
+                        "name": "Under Inverse - Gather 1",
+                        "ref": "Hyperdimension/Under Inverse/Gather 1"
+                    },
+                    {
+                        "name": "Under Inverse - Gather 2",
+                        "ref": "Hyperdimension/Under Inverse/Gather 2"
+                    },
+                    {
+                        "name": "Under Inverse - Gather 3",
+                        "ref": "Hyperdimension/Under Inverse/Gather 3"
+                    },
+                    {
+                        "name": "Under Inverse - Gather 4",
+                        "ref": "Hyperdimension/Under Inverse/Gather 4"
+                    },
+                    {
+                        "name": "Under Inverse - Gather 5",
+                        "ref": "Hyperdimension/Under Inverse/Gather 5"
+                    },
+                    {
+                        "name": "Under Inverse - Treasure 1",
+                        "ref": "Hyperdimension/Under Inverse/Treasure 1"
+                    },
+                    {
+                        "name": "Under Inverse - Treasure 2",
+                        "ref": "Hyperdimension/Under Inverse/Treasure 2"
+                    },
+                    {
+                        "name": "Under Inverse - Treasure 3",
+                        "ref": "Hyperdimension/Under Inverse/Treasure 3"
+                    },
+                    {
+                        "name": "Under Inverse - Treasure 4",
+                        "ref": "Hyperdimension/Under Inverse/Treasure 4"
+                    },
+                    {
+                        "name": "Under Inverse Depths - Gather 1",
+                        "ref": "Hyperdimension/Under Inverse Depths/Gather 1"
+                    },
+                    {
+                        "name": "Under Inverse Depths - Gather 2",
+                        "ref": "Hyperdimension/Under Inverse Depths/Gather 2"
+                    },
+                    {
+                        "name": "Under Inverse Depths - Gather 3",
+                        "ref": "Hyperdimension/Under Inverse Depths/Gather 3"
+                    },
+                    {
+                        "name": "Under Inverse Depths - Gather 4",
+                        "ref": "Hyperdimension/Under Inverse Depths/Gather 4"
+                    },
+                    {
+                        "name": "Under Inverse Depths - Gather 5",
+                        "ref": "Hyperdimension/Under Inverse Depths/Gather 5"
+                    },
+                    {
+                        "name": "Under Inverse Depths - Gather 6",
+                        "ref": "Hyperdimension/Under Inverse Depths/Gather 6"
+                    },
+                    {
+                        "name": "Under Inverse Depths - Gather 7",
+                        "ref": "Hyperdimension/Under Inverse Depths/Gather 7"
+                    },
+                    {
+                        "name": "Under Inverse Depths - Treasure 1",
+                        "ref": "Hyperdimension/Under Inverse Depths/Treasure 1"
+                    },
+                    {
+                        "name": "Under Inverse Depths - Treasure 2",
+                        "ref": "Hyperdimension/Under Inverse Depths/Treasure 2"
+                    },
+                    {
+                        "name": "Under Inverse Depths - Treasure 3",
+                        "ref": "Hyperdimension/Under Inverse Depths/Treasure 3"
+                    },
+                    {
+                        "name": "Under Inverse Depths - Treasure 4",
+                        "ref": "Hyperdimension/Under Inverse Depths/Treasure 4"
+                    },
+                    {
+                        "name": "Virtua Forest - Gather 1",
+                        "ref": "Hyperdimension/Virtua Forest/Gather 1"
+                    },
+                    {
+                        "name": "Virtua Forest - Gather 2",
+                        "ref": "Hyperdimension/Virtua Forest/Gather 2"
+                    },
+                    {
+                        "name": "Virtua Forest - Gather 3",
+                        "ref": "Hyperdimension/Virtua Forest/Gather 3"
+                    },
+                    {
+                        "name": "Virtua Forest - Gather 4",
+                        "ref": "Hyperdimension/Virtua Forest/Gather 4"
+                    },
+                    {
+                        "name": "Virtua Forest - Gather 5",
+                        "ref": "Hyperdimension/Virtua Forest/Gather 5"
+                    },
+                    {
+                        "name": "Virtua Forest - Treasure 1",
+                        "ref": "Hyperdimension/Virtua Forest/Treasure 1"
+                    },
+                    {
+                        "name": "Virtua Forest - Treasure 2",
+                        "ref": "Hyperdimension/Virtua Forest/Treasure 2"
+                    },
+                    {
+                        "name": "Virtua Forest - Treasure 3",
+                        "ref": "Hyperdimension/Virtua Forest/Treasure 3"
+                    },
+                    {
+                        "name": "Virtua Forest - Treasure 4",
+                        "ref": "Hyperdimension/Virtua Forest/Treasure 4"
+                    },
+                    {
+                        "name": "Virtua Forest - Treasure 5",
+                        "ref": "Hyperdimension/Virtua Forest/Treasure 5"
+                    },
+                    {
+                        "name": "Virtua Forest Depths - Gather 1",
+                        "ref": "Hyperdimension/Virtua Forest Depths/Gather 1"
+                    },
+                    {
+                        "name": "Virtua Forest Depths - Gather 2",
+                        "ref": "Hyperdimension/Virtua Forest Depths/Gather 2"
+                    },
+                    {
+                        "name": "Virtua Forest Depths - Gather 3",
+                        "ref": "Hyperdimension/Virtua Forest Depths/Gather 3"
+                    },
+                    {
+                        "name": "Virtua Forest Depths - Gather 4",
+                        "ref": "Hyperdimension/Virtua Forest Depths/Gather 4"
+                    },
+                    {
+                        "name": "Virtua Forest Depths - Gather 5",
+                        "ref": "Hyperdimension/Virtua Forest Depths/Gather 5"
+                    },
+                    {
+                        "name": "Virtua Forest Depths - Treasure 1",
+                        "ref": "Hyperdimension/Virtua Forest Depths/Treasure 1"
+                    },
+                    {
+                        "name": "Virtua Forest Depths - Treasure 2",
+                        "ref": "Hyperdimension/Virtua Forest Depths/Treasure 2"
+                    },
+                    {
+                        "name": "Virtua Forest Depths - Treasure 3",
+                        "ref": "Hyperdimension/Virtua Forest Depths/Treasure 3"
+                    },
+                    {
+                        "name": "Virtua Forest Depths - Treasure 4",
+                        "ref": "Hyperdimension/Virtua Forest Depths/Treasure 4"
+                    },
+                    {
+                        "name": "Virtua Forest Depths - Treasure 5",
+                        "ref": "Hyperdimension/Virtua Forest Depths/Treasure 5"
+                    },
+                    {
+                        "name": "Virtua Forest Safe Zone - Gather 1",
+                        "ref": "Hyperdimension/Virtua Forest Safe Zone/Gather 1"
+                    },
+                    {
+                        "name": "Virtua Forest Safe Zone - Gather 2",
+                        "ref": "Hyperdimension/Virtua Forest Safe Zone/Gather 2"
+                    },
+                    {
+                        "name": "Virtua Forest Safe Zone - Gather 3",
+                        "ref": "Hyperdimension/Virtua Forest Safe Zone/Gather 3"
+                    },
+                    {
+                        "name": "Virtua Forest Safe Zone - Gather 4",
+                        "ref": "Hyperdimension/Virtua Forest Safe Zone/Gather 4"
+                    },
+                    {
+                        "name": "Virtua Forest Safe Zone - Gather 5",
+                        "ref": "Hyperdimension/Virtua Forest Safe Zone/Gather 5"
+                    },
+                    {
+                        "name": "Virtua Forest Safe Zone - Gather 6",
+                        "ref": "Hyperdimension/Virtua Forest Safe Zone/Gather 6"
+                    },
+                    {
+                        "name": "Virtua Forest Safe Zone - Gather 7",
+                        "ref": "Hyperdimension/Virtua Forest Safe Zone/Gather 7"
+                    },
+                    {
+                        "name": "Virtua Forest Safe Zone - Treasure 1",
+                        "ref": "Hyperdimension/Virtua Forest Safe Zone/Treasure 1"
+                    },
+                    {
+                        "name": "Virtua Forest Safe Zone - Treasure 2",
+                        "ref": "Hyperdimension/Virtua Forest Safe Zone/Treasure 2"
+                    },
+                    {
+                        "name": "Virtua Forest Safe Zone - Treasure 3",
+                        "ref": "Hyperdimension/Virtua Forest Safe Zone/Treasure 3"
+                    },
+                    {
+                        "name": "Virtua Forest Safe Zone - Treasure 4",
+                        "ref": "Hyperdimension/Virtua Forest Safe Zone/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1125,
+                        "y": 601,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Hyperdimension Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Numbing Spider",
+                        "ref": "Bestiary/Insect/Numbing Spider"
+                    },
+                    {
+                        "name": "R-4 Custom",
+                        "ref": "Bestiary/Machine/R-4 Custom"
+                    },
+                    {
+                        "name": "Promise Ring",
+                        "ref": "Bestiary/Ghost/Promise Ring"
+                    },
+                    {
+                        "name": "High Lizard",
+                        "ref": "Bestiary/Dragon/High Lizard"
+                    },
+                    {
+                        "name": "Viral High Lizard",
+                        "ref": "Bestiary/Dragon/Viral High Lizard"
+                    },
+                    {
+                        "name": "Crescent Dragon",
+                        "ref": "Bestiary/Dragon/Crescent Dragon"
+                    },
+                    {
+                        "name": "Death Boy",
+                        "ref": "Bestiary/Ghost/Death Boy"
+                    },
+                    {
+                        "name": "Death Girl",
+                        "ref": "Bestiary/Ghost/Death Girl"
+                    },
+                    {
+                        "name": "Dragonia",
+                        "ref": "Bestiary/Dragon/Dragonia"
+                    },
+                    {
+                        "name": "Viral Dragonia",
+                        "ref": "Bestiary/Dragon/Viral Dragonia"
+                    },
+                    {
+                        "name": "ASIC Remnants",
+                        "ref": "Bestiary/Humanoid/ASIC Remnants"
+                    },
+                    {
+                        "name": "Dominance Machine",
+                        "ref": "Bestiary/Machine/Dominance Machine"
+                    },
+                    {
+                        "name": "Bit",
+                        "ref": "Bestiary/Machine/Bit"
+                    },
+                    {
+                        "name": "Deus Man",
+                        "ref": "Bestiary/Data/Deus Man"
+                    },
+                    {
+                        "name": "M-3",
+                        "ref": "Bestiary/Machine/M-3"
+                    },
+                    {
+                        "name": "Dogone",
+                        "ref": "Bestiary/Inorganic/Dogone"
+                    },
+                    {
+                        "name": "Blaze Boy",
+                        "ref": "Bestiary/Ghost/Blaze Boy"
+                    },
+                    {
+                        "name": "Blaze Girl",
+                        "ref": "Bestiary/Ghost/Blaze Girl"
+                    },
+                    {
+                        "name": "Blaze Golem",
+                        "ref": "Bestiary/Inorganic/Blaze Golem"
+                    },
+                    {
+                        "name": "Viral Blaze Golem",
+                        "ref": "Bestiary/Inorganic/Viral Blaze Golem"
+                    },
+                    {
+                        "name": "Volcano Turtle",
+                        "ref": "Bestiary/Aquatic/Volcano Turtle"
+                    },
+                    {
+                        "name": "Invader",
+                        "ref": "Bestiary/Vader/Invader"
+                    },
+                    {
+                        "name": "Jellyfish Dogoo",
+                        "ref": "Bestiary/Dogoo/Jellyfish Dogoo"
+                    },
+                    {
+                        "name": "Forest Guardian",
+                        "ref": "Bestiary/Beast/Forest Guardian"
+                    },
+                    {
+                        "name": "Viral Forest Guardian",
+                        "ref": "Bestiary/Beast/Viral Forest Guardian"
+                    },
+                    {
+                        "name": "Sentientree",
+                        "ref": "Bestiary/Plant/Sentientree"
+                    },
+                    {
+                        "name": "Viral Sentientree",
+                        "ref": "Bestiary/Plant/Viral Sentientree"
+                    },
+                    {
+                        "name": "Forest Lord",
+                        "ref": "Bestiary/Beast/Forest Lord"
+                    },
+                    {
+                        "name": "Dogoo",
+                        "ref": "Bestiary/Dogoo/Dogoo"
+                    },
+                    {
+                        "name": "Tulip",
+                        "ref": "Bestiary/Plant/Tulip"
+                    },
+                    {
+                        "name": "Coin Man",
+                        "ref": "Bestiary/Inorganic/Coin Man"
+                    },
+                    {
+                        "name": "Lizard Man",
+                        "ref": "Bestiary/Dragon/Lizard Man"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1125,
+                        "y": 700,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Lastation",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Anonydeaths Lab - Gather 1",
+                        "ref": "Lastation/Anonydeaths Lab/Gather 1"
+                    },
+                    {
+                        "name": "Anonydeaths Lab - Gather 2",
+                        "ref": "Lastation/Anonydeaths Lab/Gather 2"
+                    },
+                    {
+                        "name": "Anonydeaths Lab - Gather 3",
+                        "ref": "Lastation/Anonydeaths Lab/Gather 3"
+                    },
+                    {
+                        "name": "Anonydeaths Lab - Gather 4",
+                        "ref": "Lastation/Anonydeaths Lab/Gather 4"
+                    },
+                    {
+                        "name": "Anonydeaths Lab - Gather 5",
+                        "ref": "Lastation/Anonydeaths Lab/Gather 5"
+                    },
+                    {
+                        "name": "Anonydeaths Lab - Gather 6",
+                        "ref": "Lastation/Anonydeaths Lab/Gather 6"
+                    },
+                    {
+                        "name": "Anonydeaths Lab - Gather 7",
+                        "ref": "Lastation/Anonydeaths Lab/Gather 7"
+                    },
+                    {
+                        "name": "Anonydeaths Lab - Treasure 1",
+                        "ref": "Lastation/Anonydeaths Lab/Treasure 1"
+                    },
+                    {
+                        "name": "Anonydeaths Lab - Treasure 2",
+                        "ref": "Lastation/Anonydeaths Lab/Treasure 2"
+                    },
+                    {
+                        "name": "Anonydeaths Lab - Treasure 3",
+                        "ref": "Lastation/Anonydeaths Lab/Treasure 3"
+                    },
+                    {
+                        "name": "Anonydeaths Lab - Treasure 4",
+                        "ref": "Lastation/Anonydeaths Lab/Treasure 4"
+                    },
+                    {
+                        "name": "Anonydeaths Lab - Treasure 5",
+                        "ref": "Lastation/Anonydeaths Lab/Treasure 5"
+                    },
+                    {
+                        "name": "Anonydeaths Lab Depths - Gather 1",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Gather 1"
+                    },
+                    {
+                        "name": "Anonydeaths Lab Depths - Gather 2",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Gather 2"
+                    },
+                    {
+                        "name": "Anonydeaths Lab Depths - Gather 3",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Gather 3"
+                    },
+                    {
+                        "name": "Anonydeaths Lab Depths - Gather 4",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Gather 4"
+                    },
+                    {
+                        "name": "Anonydeaths Lab Depths - Gather 5",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Gather 5"
+                    },
+                    {
+                        "name": "Anonydeaths Lab Depths - Gather 6",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Gather 6"
+                    },
+                    {
+                        "name": "Anonydeaths Lab Depths - Gather 7",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Gather 7"
+                    },
+                    {
+                        "name": "Anonydeaths Lab Depths - Treasure 1",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Treasure 1"
+                    },
+                    {
+                        "name": "Anonydeaths Lab Depths - Treasure 2",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Treasure 2"
+                    },
+                    {
+                        "name": "Anonydeaths Lab Depths - Treasure 3",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Treasure 3"
+                    },
+                    {
+                        "name": "Anonydeaths Lab Depths - Treasure 4",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Treasure 4"
+                    },
+                    {
+                        "name": "Anonydeaths Lab Depths - Treasure 5",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Treasure 5"
+                    },
+                    {
+                        "name": "Anonydeaths Lab Depths - Treasure 6",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Treasure 6"
+                    },
+                    {
+                        "name": "Bandicrash - Gather 1",
+                        "ref": "Lastation/Bandicrash/Gather 1"
+                    },
+                    {
+                        "name": "Bandicrash - Gather 2",
+                        "ref": "Lastation/Bandicrash/Gather 2"
+                    },
+                    {
+                        "name": "Bandicrash - Gather 3",
+                        "ref": "Lastation/Bandicrash/Gather 3"
+                    },
+                    {
+                        "name": "Bandicrash - Gather 4",
+                        "ref": "Lastation/Bandicrash/Gather 4"
+                    },
+                    {
+                        "name": "Bandicrash - Gather 5",
+                        "ref": "Lastation/Bandicrash/Gather 5"
+                    },
+                    {
+                        "name": "Bandicrash - Treasure 1",
+                        "ref": "Lastation/Bandicrash/Treasure 1"
+                    },
+                    {
+                        "name": "Bandicrash - Treasure 2",
+                        "ref": "Lastation/Bandicrash/Treasure 2"
+                    },
+                    {
+                        "name": "Bandicrash - Treasure 3",
+                        "ref": "Lastation/Bandicrash/Treasure 3"
+                    },
+                    {
+                        "name": "Bandicrash - Treasure 4",
+                        "ref": "Lastation/Bandicrash/Treasure 4"
+                    },
+                    {
+                        "name": "Bandicrash - Treasure 5",
+                        "ref": "Lastation/Bandicrash/Treasure 5"
+                    },
+                    {
+                        "name": "Gigo Main Entrance - Gather 1",
+                        "ref": "Lastation/Gigo Main Entrance/Gather 1"
+                    },
+                    {
+                        "name": "Gigo Main Entrance - Gather 2",
+                        "ref": "Lastation/Gigo Main Entrance/Gather 2"
+                    },
+                    {
+                        "name": "Gigo Main Entrance - Gather 3",
+                        "ref": "Lastation/Gigo Main Entrance/Gather 3"
+                    },
+                    {
+                        "name": "Gigo Main Entrance - Gather 4",
+                        "ref": "Lastation/Gigo Main Entrance/Gather 4"
+                    },
+                    {
+                        "name": "Gigo Main Entrance - Gather 5",
+                        "ref": "Lastation/Gigo Main Entrance/Gather 5"
+                    },
+                    {
+                        "name": "Gigo Main Entrance - Treasure 1",
+                        "ref": "Lastation/Gigo Main Entrance/Treasure 1"
+                    },
+                    {
+                        "name": "Gigo Main Entrance - Treasure 2",
+                        "ref": "Lastation/Gigo Main Entrance/Treasure 2"
+                    },
+                    {
+                        "name": "Gigo Main Entrance - Treasure 3",
+                        "ref": "Lastation/Gigo Main Entrance/Treasure 3"
+                    },
+                    {
+                        "name": "Gigo Main Entrance - Treasure 4",
+                        "ref": "Lastation/Gigo Main Entrance/Treasure 4"
+                    },
+                    {
+                        "name": "Gigo Main Entrance - Treasure 5",
+                        "ref": "Lastation/Gigo Main Entrance/Treasure 5"
+                    },
+                    {
+                        "name": "Gigo Depths - Gather 1",
+                        "ref": "Lastation/Gigo Depths/Gather 1"
+                    },
+                    {
+                        "name": "Gigo Depths - Gather 2",
+                        "ref": "Lastation/Gigo Depths/Gather 2"
+                    },
+                    {
+                        "name": "Gigo Depths - Gather 3",
+                        "ref": "Lastation/Gigo Depths/Gather 3"
+                    },
+                    {
+                        "name": "Gigo Depths - Gather 4",
+                        "ref": "Lastation/Gigo Depths/Gather 4"
+                    },
+                    {
+                        "name": "Gigo Depths - Gather 5",
+                        "ref": "Lastation/Gigo Depths/Gather 5"
+                    },
+                    {
+                        "name": "Gigo Depths - Treasure 1",
+                        "ref": "Lastation/Gigo Depths/Treasure 1"
+                    },
+                    {
+                        "name": "Gigo Depths - Treasure 2",
+                        "ref": "Lastation/Gigo Depths/Treasure 2"
+                    },
+                    {
+                        "name": "Gigo Depths - Treasure 3",
+                        "ref": "Lastation/Gigo Depths/Treasure 3"
+                    },
+                    {
+                        "name": "Gigo Depths - Treasure 4",
+                        "ref": "Lastation/Gigo Depths/Treasure 4"
+                    },
+                    {
+                        "name": "Gigo Depths - Treasure 5",
+                        "ref": "Lastation/Gigo Depths/Treasure 5"
+                    },
+                    {
+                        "name": "Jet Set Peak - Gather 1",
+                        "ref": "Lastation/Jet Set Peak/Gather 1"
+                    },
+                    {
+                        "name": "Jet Set Peak - Gather 2",
+                        "ref": "Lastation/Jet Set Peak/Gather 2"
+                    },
+                    {
+                        "name": "Jet Set Peak - Gather 3",
+                        "ref": "Lastation/Jet Set Peak/Gather 3"
+                    },
+                    {
+                        "name": "Jet Set Peak - Gather 4",
+                        "ref": "Lastation/Jet Set Peak/Gather 4"
+                    },
+                    {
+                        "name": "Jet Set Peak - Gather 5",
+                        "ref": "Lastation/Jet Set Peak/Gather 5"
+                    },
+                    {
+                        "name": "Jet Set Peak - Treasure 1",
+                        "ref": "Lastation/Jet Set Peak/Treasure 1"
+                    },
+                    {
+                        "name": "Jet Set Peak - Treasure 2",
+                        "ref": "Lastation/Jet Set Peak/Treasure 2"
+                    },
+                    {
+                        "name": "Jet Set Peak - Treasure 3",
+                        "ref": "Lastation/Jet Set Peak/Treasure 3"
+                    },
+                    {
+                        "name": "Jet Set Peak - Treasure 4",
+                        "ref": "Lastation/Jet Set Peak/Treasure 4"
+                    },
+                    {
+                        "name": "Jet Set Peak - Treasure 5",
+                        "ref": "Lastation/Jet Set Peak/Treasure 5"
+                    },
+                    {
+                        "name": "Kuzarat Facility 1 - Gather 1",
+                        "ref": "Lastation/Kuzarat Facility 1/Gather 1"
+                    },
+                    {
+                        "name": "Kuzarat Facility 1 - Gather 2",
+                        "ref": "Lastation/Kuzarat Facility 1/Gather 2"
+                    },
+                    {
+                        "name": "Kuzarat Facility 1 - Gather 3",
+                        "ref": "Lastation/Kuzarat Facility 1/Gather 3"
+                    },
+                    {
+                        "name": "Kuzarat Facility 1 - Gather 4",
+                        "ref": "Lastation/Kuzarat Facility 1/Gather 4"
+                    },
+                    {
+                        "name": "Kuzarat Facility 1 - Gather 5",
+                        "ref": "Lastation/Kuzarat Facility 1/Gather 5"
+                    },
+                    {
+                        "name": "Kuzarat Facility 1 - Gather 6",
+                        "ref": "Lastation/Kuzarat Facility 1/Gather 6"
+                    },
+                    {
+                        "name": "Kuzarat Facility 1 - Gather 7",
+                        "ref": "Lastation/Kuzarat Facility 1/Gather 7"
+                    },
+                    {
+                        "name": "Kuzarat Facility 1 - Treasure 1",
+                        "ref": "Lastation/Kuzarat Facility 1/Treasure 1"
+                    },
+                    {
+                        "name": "Kuzarat Facility 1 - Treasure 2",
+                        "ref": "Lastation/Kuzarat Facility 1/Treasure 2"
+                    },
+                    {
+                        "name": "Kuzarat Facility 1 - Treasure 3",
+                        "ref": "Lastation/Kuzarat Facility 1/Treasure 3"
+                    },
+                    {
+                        "name": "Kuzarat Facility 1 - Treasure 4",
+                        "ref": "Lastation/Kuzarat Facility 1/Treasure 4"
+                    },
+                    {
+                        "name": "Kuzarat Facility 1 - Treasure 5",
+                        "ref": "Lastation/Kuzarat Facility 1/Treasure 5"
+                    },
+                    {
+                        "name": "Kuzarat Facility 2 - Gather 1",
+                        "ref": "Lastation/Kuzarat Facility 2/Gather 1"
+                    },
+                    {
+                        "name": "Kuzarat Facility 2 - Gather 2",
+                        "ref": "Lastation/Kuzarat Facility 2/Gather 2"
+                    },
+                    {
+                        "name": "Kuzarat Facility 2 - Gather 3",
+                        "ref": "Lastation/Kuzarat Facility 2/Gather 3"
+                    },
+                    {
+                        "name": "Kuzarat Facility 2 - Gather 4",
+                        "ref": "Lastation/Kuzarat Facility 2/Gather 4"
+                    },
+                    {
+                        "name": "Kuzarat Facility 2 - Gather 5",
+                        "ref": "Lastation/Kuzarat Facility 2/Gather 5"
+                    },
+                    {
+                        "name": "Kuzarat Facility 2 - Gather 6",
+                        "ref": "Lastation/Kuzarat Facility 2/Gather 6"
+                    },
+                    {
+                        "name": "Kuzarat Facility 2 - Gather 7",
+                        "ref": "Lastation/Kuzarat Facility 2/Gather 7"
+                    },
+                    {
+                        "name": "Kuzarat Facility 2 - Treasure 1",
+                        "ref": "Lastation/Kuzarat Facility 2/Treasure 1"
+                    },
+                    {
+                        "name": "Kuzarat Facility 2 - Treasure 2",
+                        "ref": "Lastation/Kuzarat Facility 2/Treasure 2"
+                    },
+                    {
+                        "name": "Kuzarat Facility 2 - Treasure 3",
+                        "ref": "Lastation/Kuzarat Facility 2/Treasure 3"
+                    },
+                    {
+                        "name": "Kuzarat Facility 2 - Treasure 4",
+                        "ref": "Lastation/Kuzarat Facility 2/Treasure 4"
+                    },
+                    {
+                        "name": "Kuzarat Facility 2 - Treasure 5",
+                        "ref": "Lastation/Kuzarat Facility 2/Treasure 5"
+                    },
+                    {
+                        "name": "Kuzarat Facility 2 - Treasure 6",
+                        "ref": "Lastation/Kuzarat Facility 2/Treasure 6"
+                    },
+                    {
+                        "name": "National Factory - Gather 1",
+                        "ref": "Lastation/National Factory/Gather 1"
+                    },
+                    {
+                        "name": "National Factory - Gather 2",
+                        "ref": "Lastation/National Factory/Gather 2"
+                    },
+                    {
+                        "name": "National Factory - Gather 3",
+                        "ref": "Lastation/National Factory/Gather 3"
+                    },
+                    {
+                        "name": "National Factory - Gather 4",
+                        "ref": "Lastation/National Factory/Gather 4"
+                    },
+                    {
+                        "name": "National Factory - Gather 5",
+                        "ref": "Lastation/National Factory/Gather 5"
+                    },
+                    {
+                        "name": "National Factory - Treasure 1",
+                        "ref": "Lastation/National Factory/Treasure 1"
+                    },
+                    {
+                        "name": "National Factory - Treasure 2",
+                        "ref": "Lastation/National Factory/Treasure 2"
+                    },
+                    {
+                        "name": "National Factory - Treasure 3",
+                        "ref": "Lastation/National Factory/Treasure 3"
+                    },
+                    {
+                        "name": "National Factory - Treasure 4",
+                        "ref": "Lastation/National Factory/Treasure 4"
+                    },
+                    {
+                        "name": "PS Dimension - Gather 1",
+                        "ref": "Lastation/PS Dimension/Gather 1"
+                    },
+                    {
+                        "name": "PS Dimension - Gather 2",
+                        "ref": "Lastation/PS Dimension/Gather 2"
+                    },
+                    {
+                        "name": "PS Dimension - Gather 3",
+                        "ref": "Lastation/PS Dimension/Gather 3"
+                    },
+                    {
+                        "name": "PS Dimension - Gather 4",
+                        "ref": "Lastation/PS Dimension/Gather 4"
+                    },
+                    {
+                        "name": "PS Dimension - Gather 5",
+                        "ref": "Lastation/PS Dimension/Gather 5"
+                    },
+                    {
+                        "name": "PS Dimension - Treasure 1",
+                        "ref": "Lastation/PS Dimension/Treasure 1"
+                    },
+                    {
+                        "name": "PS Dimension - Treasure 2",
+                        "ref": "Lastation/PS Dimension/Treasure 2"
+                    },
+                    {
+                        "name": "PS Dimension - Treasure 3",
+                        "ref": "Lastation/PS Dimension/Treasure 3"
+                    },
+                    {
+                        "name": "PS Dimension - Treasure 4",
+                        "ref": "Lastation/PS Dimension/Treasure 4"
+                    },
+                    {
+                        "name": "PS Dimension - Treasure 5",
+                        "ref": "Lastation/PS Dimension/Treasure 5"
+                    },
+                    {
+                        "name": "PS Dimension - Treasure 6",
+                        "ref": "Lastation/PS Dimension/Treasure 6"
+                    },
+                    {
+                        "name": "Rud Arms Sewer N. - Gather 1",
+                        "ref": "Lastation/Rud Arms Sewer N./Gather 1"
+                    },
+                    {
+                        "name": "Rud Arms Sewer N. - Gather 2",
+                        "ref": "Lastation/Rud Arms Sewer N./Gather 2"
+                    },
+                    {
+                        "name": "Rud Arms Sewer N. - Gather 3",
+                        "ref": "Lastation/Rud Arms Sewer N./Gather 3"
+                    },
+                    {
+                        "name": "Rud Arms Sewer N. - Gather 4",
+                        "ref": "Lastation/Rud Arms Sewer N./Gather 4"
+                    },
+                    {
+                        "name": "Rud Arms Sewer N. - Gather 5",
+                        "ref": "Lastation/Rud Arms Sewer N./Gather 5"
+                    },
+                    {
+                        "name": "Rud Arms Sewer N. - Gather 6",
+                        "ref": "Lastation/Rud Arms Sewer N./Gather 6"
+                    },
+                    {
+                        "name": "Rud Arms Sewer N. - Treasure 1",
+                        "ref": "Lastation/Rud Arms Sewer N./Treasure 1"
+                    },
+                    {
+                        "name": "Rud Arms Sewer N. - Treasure 2",
+                        "ref": "Lastation/Rud Arms Sewer N./Treasure 2"
+                    },
+                    {
+                        "name": "Rud Arms Sewer N. - Treasure 3",
+                        "ref": "Lastation/Rud Arms Sewer N./Treasure 3"
+                    },
+                    {
+                        "name": "Rud Arms Sewer N. - Treasure 4",
+                        "ref": "Lastation/Rud Arms Sewer N./Treasure 4"
+                    },
+                    {
+                        "name": "Rud Arms Sewer N. - Treasure 5",
+                        "ref": "Lastation/Rud Arms Sewer N./Treasure 5"
+                    },
+                    {
+                        "name": "Soni Wetlands - Gather 1",
+                        "ref": "Lastation/Soni Wetlands/Gather 1"
+                    },
+                    {
+                        "name": "Soni Wetlands - Gather 2",
+                        "ref": "Lastation/Soni Wetlands/Gather 2"
+                    },
+                    {
+                        "name": "Soni Wetlands - Gather 3",
+                        "ref": "Lastation/Soni Wetlands/Gather 3"
+                    },
+                    {
+                        "name": "Soni Wetlands - Gather 4",
+                        "ref": "Lastation/Soni Wetlands/Gather 4"
+                    },
+                    {
+                        "name": "Soni Wetlands - Gather 5",
+                        "ref": "Lastation/Soni Wetlands/Gather 5"
+                    },
+                    {
+                        "name": "Soni Wetlands - Gather 6",
+                        "ref": "Lastation/Soni Wetlands/Gather 6"
+                    },
+                    {
+                        "name": "Soni Wetlands - Treasure 1",
+                        "ref": "Lastation/Soni Wetlands/Treasure 1"
+                    },
+                    {
+                        "name": "Soni Wetlands - Treasure 2",
+                        "ref": "Lastation/Soni Wetlands/Treasure 2"
+                    },
+                    {
+                        "name": "Soni Wetlands - Treasure 3",
+                        "ref": "Lastation/Soni Wetlands/Treasure 3"
+                    },
+                    {
+                        "name": "Soni Wetlands - Treasure 4",
+                        "ref": "Lastation/Soni Wetlands/Treasure 4"
+                    },
+                    {
+                        "name": "Soni Wetlands - Treasure 5",
+                        "ref": "Lastation/Soni Wetlands/Treasure 5"
+                    },
+                    {
+                        "name": "Soni Wetlands - Treasure 6",
+                        "ref": "Lastation/Soni Wetlands/Treasure 6"
+                    },
+                    {
+                        "name": "Vida Dimension - Gather 1",
+                        "ref": "Lastation/Vida Dimension/Gather 1"
+                    },
+                    {
+                        "name": "Vida Dimension - Gather 2",
+                        "ref": "Lastation/Vida Dimension/Gather 2"
+                    },
+                    {
+                        "name": "Vida Dimension - Gather 3",
+                        "ref": "Lastation/Vida Dimension/Gather 3"
+                    },
+                    {
+                        "name": "Vida Dimension - Gather 4",
+                        "ref": "Lastation/Vida Dimension/Gather 4"
+                    },
+                    {
+                        "name": "Vida Dimension - Gather 5",
+                        "ref": "Lastation/Vida Dimension/Gather 5"
+                    },
+                    {
+                        "name": "Vida Dimension - Treasure 1",
+                        "ref": "Lastation/Vida Dimension/Treasure 1"
+                    },
+                    {
+                        "name": "Vida Dimension - Treasure 2",
+                        "ref": "Lastation/Vida Dimension/Treasure 2"
+                    },
+                    {
+                        "name": "Vida Dimension - Treasure 3",
+                        "ref": "Lastation/Vida Dimension/Treasure 3"
+                    },
+                    {
+                        "name": "Vida Dimension - Treasure 4",
+                        "ref": "Lastation/Vida Dimension/Treasure 4"
+                    },
+                    {
+                        "name": "Vida Dimension - Treasure 5",
+                        "ref": "Lastation/Vida Dimension/Treasure 5"
+                    },
+                    {
+                        "name": "Wanderers Cave - Gather 1",
+                        "ref": "Lastation/Wanderers Cave/Gather 1"
+                    },
+                    {
+                        "name": "Wanderers Cave - Gather 2",
+                        "ref": "Lastation/Wanderers Cave/Gather 2"
+                    },
+                    {
+                        "name": "Wanderers Cave - Gather 3",
+                        "ref": "Lastation/Wanderers Cave/Gather 3"
+                    },
+                    {
+                        "name": "Wanderers Cave - Gather 4",
+                        "ref": "Lastation/Wanderers Cave/Gather 4"
+                    },
+                    {
+                        "name": "Wanderers Cave - Gather 5",
+                        "ref": "Lastation/Wanderers Cave/Gather 5"
+                    },
+                    {
+                        "name": "Wanderers Cave - Gather 6",
+                        "ref": "Lastation/Wanderers Cave/Gather 6"
+                    },
+                    {
+                        "name": "Wanderers Cave - Gather 7",
+                        "ref": "Lastation/Wanderers Cave/Gather 7"
+                    },
+                    {
+                        "name": "Wanderers Cave - Treasure 1",
+                        "ref": "Lastation/Wanderers Cave/Treasure 1"
+                    },
+                    {
+                        "name": "Wanderers Cave - Treasure 2",
+                        "ref": "Lastation/Wanderers Cave/Treasure 2"
+                    },
+                    {
+                        "name": "Wanderers Cave - Treasure 3",
+                        "ref": "Lastation/Wanderers Cave/Treasure 3"
+                    },
+                    {
+                        "name": "Wanderers Cave - Treasure 4",
+                        "ref": "Lastation/Wanderers Cave/Treasure 4"
+                    },
+                    {
+                        "name": "Wanderers Cave - Treasure 5",
+                        "ref": "Lastation/Wanderers Cave/Treasure 5"
+                    },
+                    {
+                        "name": "Wanderers Cave Depths - Gather 1",
+                        "ref": "Lastation/Wanderers Cave Depths/Gather 1"
+                    },
+                    {
+                        "name": "Wanderers Cave Depths - Gather 2",
+                        "ref": "Lastation/Wanderers Cave Depths/Gather 2"
+                    },
+                    {
+                        "name": "Wanderers Cave Depths - Gather 3",
+                        "ref": "Lastation/Wanderers Cave Depths/Gather 3"
+                    },
+                    {
+                        "name": "Wanderers Cave Depths - Gather 4",
+                        "ref": "Lastation/Wanderers Cave Depths/Gather 4"
+                    },
+                    {
+                        "name": "Wanderers Cave Depths - Gather 5",
+                        "ref": "Lastation/Wanderers Cave Depths/Gather 5"
+                    },
+                    {
+                        "name": "Wanderers Cave Depths - Gather 6",
+                        "ref": "Lastation/Wanderers Cave Depths/Gather 6"
+                    },
+                    {
+                        "name": "Wanderers Cave Depths - Gather 7",
+                        "ref": "Lastation/Wanderers Cave Depths/Gather 7"
+                    },
+                    {
+                        "name": "Wanderers Cave Depths - Gather 8",
+                        "ref": "Lastation/Wanderers Cave Depths/Gather 8"
+                    },
+                    {
+                        "name": "Wanderers Cave Depths - Treasure 1",
+                        "ref": "Lastation/Wanderers Cave Depths/Treasure 1"
+                    },
+                    {
+                        "name": "Wanderers Cave Depths - Treasure 2",
+                        "ref": "Lastation/Wanderers Cave Depths/Treasure 2"
+                    },
+                    {
+                        "name": "Wanderers Cave Depths - Treasure 3",
+                        "ref": "Lastation/Wanderers Cave Depths/Treasure 3"
+                    },
+                    {
+                        "name": "Wanderers Cave Depths - Treasure 4",
+                        "ref": "Lastation/Wanderers Cave Depths/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 881,
+                        "y": 493,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Lastation Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Blue Sun",
+                        "ref": "Bestiary/Plant/Blue Sun"
+                    },
+                    {
+                        "name": "Ganglord Panther",
+                        "ref": "Bestiary/Beast/Ganglord Panther"
+                    },
+                    {
+                        "name": "EDGE",
+                        "ref": "Bestiary/Machine/EDGE"
+                    },
+                    {
+                        "name": "Panzer",
+                        "ref": "Bestiary/Machine/Panzer"
+                    },
+                    {
+                        "name": "Next-gen Bit",
+                        "ref": "Bestiary/Machine/Next-gen Bit"
+                    },
+                    {
+                        "name": "Bundodo Old Man",
+                        "ref": "Bestiary/Data/Bundodo Old Man"
+                    },
+                    {
+                        "name": "Terits",
+                        "ref": "Bestiary/Inorganic/Terits"
+                    },
+                    {
+                        "name": "Spider",
+                        "ref": "Bestiary/Insect/Spider"
+                    },
+                    {
+                        "name": "Plum-met",
+                        "ref": "Bestiary/Inorganic/Plum-met"
+                    },
+                    {
+                        "name": "Tokimeki Sister",
+                        "ref": "Bestiary/Data/Tokimeki Sister"
+                    },
+                    {
+                        "name": "Phoenix",
+                        "ref": "Bestiary/Avian/Phoenix"
+                    },
+                    {
+                        "name": "Kupokitty",
+                        "ref": "Bestiary/Beast/Kupokitty"
+                    },
+                    {
+                        "name": "Radisher",
+                        "ref": "Bestiary/Plant/Radisher"
+                    },
+                    {
+                        "name": "Swallowtail",
+                        "ref": "Bestiary/Insect/Swallowtail"
+                    },
+                    {
+                        "name": "Viral Swallowtail",
+                        "ref": "Bestiary/Insect/Viral Swallowtail"
+                    },
+                    {
+                        "name": "Horsebird",
+                        "ref": "Bestiary/Avian/Horsebird"
+                    },
+                    {
+                        "name": "King Crab",
+                        "ref": "Bestiary/Aquatic/King Crab"
+                    },
+                    {
+                        "name": "Malvader",
+                        "ref": "Bestiary/Vader/Malvader"
+                    },
+                    {
+                        "name": "SHDC",
+                        "ref": "Bestiary/Machine/SHDC"
+                    },
+                    {
+                        "name": "Pal Shell",
+                        "ref": "Bestiary/Inorganic/Pal Shell"
+                    },
+                    {
+                        "name": "Shoebill",
+                        "ref": "Bestiary/Avian/Shoebill"
+                    },
+                    {
+                        "name": "Viral Shoebill",
+                        "ref": "Bestiary/Avian/Viral Shoebill"
+                    },
+                    {
+                        "name": "Fungus",
+                        "ref": "Bestiary/Plant/Fungus"
+                    },
+                    {
+                        "name": "Alraune",
+                        "ref": "Bestiary/Plant/Alraune"
+                    },
+                    {
+                        "name": "Viral Alraune",
+                        "ref": "Bestiary/Plant/Viral Alraune"
+                    },
+                    {
+                        "name": "Ancient Dragon",
+                        "ref": "Bestiary/Dragon/Ancient Dragon"
+                    },
+                    {
+                        "name": "Poxvader",
+                        "ref": "Bestiary/Vader/Poxvader"
+                    },
+                    {
+                        "name": "Custom Bit",
+                        "ref": "Bestiary/Machine/Custom Bit"
+                    },
+                    {
+                        "name": "Healing Dogoo",
+                        "ref": "Bestiary/Dogoo/Healing Dogoo"
+                    },
+                    {
+                        "name": "R-4",
+                        "ref": "Bestiary/Machine/R-4"
+                    },
+                    {
+                        "name": "R4i-SDHC",
+                        "ref": "Bestiary/Machine/R4i-SDHC"
+                    },
+                    {
+                        "name": "Matango",
+                        "ref": "Bestiary/Plant/Matango"
+                    },
+                    {
+                        "name": "Created Soldier",
+                        "ref": "Bestiary/Humanoid/Created Soldier"
+                    },
+                    {
+                        "name": "High Bit Custom",
+                        "ref": "Bestiary/Machine/High Bit Custom"
+                    },
+                    {
+                        "name": "Inky",
+                        "ref": "Bestiary/Ghost/Inky"
+                    },
+                    {
+                        "name": "Ms. Inky",
+                        "ref": "Bestiary/Ghost/Ms. Inky"
+                    },
+                    {
+                        "name": "DSTT",
+                        "ref": "Bestiary/Machine/DSTT"
+                    },
+                    {
+                        "name": "Heavy Tank",
+                        "ref": "Bestiary/Machine/Heavy Tank"
+                    },
+                    {
+                        "name": "Plam-met",
+                        "ref": "Bestiary/Inorganic/Plam-met"
+                    },
+                    {
+                        "name": "High Heal Dogoo",
+                        "ref": "Bestiary/Dogoo/High Heal Dogoo"
+                    },
+                    {
+                        "name": "Cuberial",
+                        "ref": "Bestiary/Ghost/Cuberial"
+                    },
+                    {
+                        "name": "Dragon Warrior",
+                        "ref": "Bestiary/Dragon/Dragon Warrior"
+                    },
+                    {
+                        "name": "Viral Dragon Warrior",
+                        "ref": "Bestiary/Dragon/Viral Dragon Warrior"
+                    },
+                    {
+                        "name": "Giant Dogoo",
+                        "ref": "Bestiary/Dogoo/Giant Dogoo"
+                    },
+                    {
+                        "name": "Cold Boy",
+                        "ref": "Bestiary/Ghost/Cold Boy"
+                    },
+                    {
+                        "name": "Cold Girl",
+                        "ref": "Bestiary/Ghost/Cold Girl"
+                    },
+                    {
+                        "name": "Magic Stone",
+                        "ref": "Bestiary/Inorganic/Magic Stone"
+                    },
+                    {
+                        "name": "Ice Golem",
+                        "ref": "Bestiary/Inorganic/Ice Golem"
+                    },
+                    {
+                        "name": "Viral Ice Golem",
+                        "ref": "Bestiary/Inorganic/Viral Ice Golem"
+                    },
+                    {
+                        "name": "Elemental Dragon",
+                        "ref": "Bestiary/Dragon/Elemental Dragon"
+                    },
+                    {
+                        "name": "Lean Tuna",
+                        "ref": "Bestiary/Beast/Lean Tuna"
+                    },
+                    {
+                        "name": "Heavy Dragoon",
+                        "ref": "Bestiary/Dragon/Heavy Dragoon"
+                    },
+                    {
+                        "name": "Viral Heavy Dragoon",
+                        "ref": "Bestiary/Dragon/Viral Heavy Dragoon"
+                    },
+                    {
+                        "name": "Nidhogg",
+                        "ref": "Bestiary/Dragon/Nidhogg"
+                    },
+                    {
+                        "name": "King Boxbird",
+                        "ref": "Bestiary/Avian/King Boxbird"
+                    },
+                    {
+                        "name": "Autonomous Artillery",
+                        "ref": "Bestiary/Machine/Autonomous Artillery"
+                    },
+                    {
+                        "name": "Alfred",
+                        "ref": "Bestiary/Plant/Alfred"
+                    },
+                    {
+                        "name": "Cyberfly",
+                        "ref": "Bestiary/Insect/Cyberfly"
+                    },
+                    {
+                        "name": "Viral Cyberfly",
+                        "ref": "Bestiary/Insect/Viral Cyberfly"
+                    },
+                    {
+                        "name": "Militant Prototype",
+                        "ref": "Bestiary/Machine/Militant Prototype"
+                    },
+                    {
+                        "name": "Frog-in-the-box",
+                        "ref": "Bestiary/Aquatic/Frog-in-the-box"
+                    },
+                    {
+                        "name": "Heal Dogoo",
+                        "ref": "Bestiary/Dogoo/Heal Dogoo"
+                    },
+                    {
+                        "name": "Crystal Golem",
+                        "ref": "Bestiary/Inorganic/Crystal Golem"
+                    },
+                    {
+                        "name": "Viral Crystal Golem",
+                        "ref": "Bestiary/Inorganic/Viral Crystal Golem"
+                    },
+                    {
+                        "name": "Ice Skeleton",
+                        "ref": "Bestiary/Ghost/Ice Skeleton"
+                    },
+                    {
+                        "name": "Dolphin",
+                        "ref": "Bestiary/Aquatic/Dolphin"
+                    },
+                    {
+                        "name": "Ice Boy",
+                        "ref": "Bestiary/Ghost/Ice Boy"
+                    },
+                    {
+                        "name": "Ice Girl",
+                        "ref": "Bestiary/Ghost/Ice Girl"
+                    },
+                    {
+                        "name": "Delinquent Cat",
+                        "ref": "Bestiary/Beast/Delinquent Cat"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1103,
+                        "y": 493,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Leanbox",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "EM ES Magma Cave - Gather 1",
+                        "ref": "Leanbox/EM ES Magma Cave/Gather 1"
+                    },
+                    {
+                        "name": "EM ES Magma Cave - Gather 2",
+                        "ref": "Leanbox/EM ES Magma Cave/Gather 2"
+                    },
+                    {
+                        "name": "EM ES Magma Cave - Gather 3",
+                        "ref": "Leanbox/EM ES Magma Cave/Gather 3"
+                    },
+                    {
+                        "name": "EM ES Magma Cave - Gather 4",
+                        "ref": "Leanbox/EM ES Magma Cave/Gather 4"
+                    },
+                    {
+                        "name": "EM ES Magma Cave - Gather 5",
+                        "ref": "Leanbox/EM ES Magma Cave/Gather 5"
+                    },
+                    {
+                        "name": "EM ES Magma Cave - Treasure 1",
+                        "ref": "Leanbox/EM ES Magma Cave/Treasure 1"
+                    },
+                    {
+                        "name": "EM ES Magma Cave - Treasure 2",
+                        "ref": "Leanbox/EM ES Magma Cave/Treasure 2"
+                    },
+                    {
+                        "name": "EM ES Magma Cave - Treasure 3",
+                        "ref": "Leanbox/EM ES Magma Cave/Treasure 3"
+                    },
+                    {
+                        "name": "EM ES Magma Cave - Treasure 4",
+                        "ref": "Leanbox/EM ES Magma Cave/Treasure 4"
+                    },
+                    {
+                        "name": "EM ES Magma Cave Depths - Gather 1",
+                        "ref": "Leanbox/EM ES Magma Cave Depths/Gather 1"
+                    },
+                    {
+                        "name": "EM ES Magma Cave Depths - Gather 2",
+                        "ref": "Leanbox/EM ES Magma Cave Depths/Gather 2"
+                    },
+                    {
+                        "name": "EM ES Magma Cave Depths - Gather 3",
+                        "ref": "Leanbox/EM ES Magma Cave Depths/Gather 3"
+                    },
+                    {
+                        "name": "EM ES Magma Cave Depths - Gather 4",
+                        "ref": "Leanbox/EM ES Magma Cave Depths/Gather 4"
+                    },
+                    {
+                        "name": "EM ES Magma Cave Depths - Gather 5",
+                        "ref": "Leanbox/EM ES Magma Cave Depths/Gather 5"
+                    },
+                    {
+                        "name": "EM ES Magma Cave Depths - Gather 6",
+                        "ref": "Leanbox/EM ES Magma Cave Depths/Gather 6"
+                    },
+                    {
+                        "name": "EM ES Magma Cave Depths - Gather 7",
+                        "ref": "Leanbox/EM ES Magma Cave Depths/Gather 7"
+                    },
+                    {
+                        "name": "EM ES Magma Cave Depths - Treasure 1",
+                        "ref": "Leanbox/EM ES Magma Cave Depths/Treasure 1"
+                    },
+                    {
+                        "name": "EM ES Magma Cave Depths - Treasure 2",
+                        "ref": "Leanbox/EM ES Magma Cave Depths/Treasure 2"
+                    },
+                    {
+                        "name": "EM ES Magma Cave Depths - Treasure 3",
+                        "ref": "Leanbox/EM ES Magma Cave Depths/Treasure 3"
+                    },
+                    {
+                        "name": "EM ES Magma Cave Depths - Treasure 4",
+                        "ref": "Leanbox/EM ES Magma Cave Depths/Treasure 4"
+                    },
+                    {
+                        "name": "Halo Forest - Gather 1",
+                        "ref": "Leanbox/Halo Forest/Gather 1"
+                    },
+                    {
+                        "name": "Halo Forest - Gather 2",
+                        "ref": "Leanbox/Halo Forest/Gather 2"
+                    },
+                    {
+                        "name": "Halo Forest - Gather 3",
+                        "ref": "Leanbox/Halo Forest/Gather 3"
+                    },
+                    {
+                        "name": "Halo Forest - Gather 4",
+                        "ref": "Leanbox/Halo Forest/Gather 4"
+                    },
+                    {
+                        "name": "Halo Forest - Gather 5",
+                        "ref": "Leanbox/Halo Forest/Gather 5"
+                    },
+                    {
+                        "name": "Halo Forest - Treasure 1",
+                        "ref": "Leanbox/Halo Forest/Treasure 1"
+                    },
+                    {
+                        "name": "Halo Forest - Treasure 2",
+                        "ref": "Leanbox/Halo Forest/Treasure 2"
+                    },
+                    {
+                        "name": "Halo Forest - Treasure 3",
+                        "ref": "Leanbox/Halo Forest/Treasure 3"
+                    },
+                    {
+                        "name": "Halo Forest - Treasure 4",
+                        "ref": "Leanbox/Halo Forest/Treasure 4"
+                    },
+                    {
+                        "name": "Halo Forest - Treasure 5",
+                        "ref": "Leanbox/Halo Forest/Treasure 5"
+                    },
+                    {
+                        "name": "Kobaba Ruins - Gather 1",
+                        "ref": "Leanbox/Kobaba Ruins/Gather 1"
+                    },
+                    {
+                        "name": "Kobaba Ruins - Gather 2",
+                        "ref": "Leanbox/Kobaba Ruins/Gather 2"
+                    },
+                    {
+                        "name": "Kobaba Ruins - Gather 3",
+                        "ref": "Leanbox/Kobaba Ruins/Gather 3"
+                    },
+                    {
+                        "name": "Kobaba Ruins - Gather 4",
+                        "ref": "Leanbox/Kobaba Ruins/Gather 4"
+                    },
+                    {
+                        "name": "Kobaba Ruins - Gather 5",
+                        "ref": "Leanbox/Kobaba Ruins/Gather 5"
+                    },
+                    {
+                        "name": "Kobaba Ruins - Gather 6",
+                        "ref": "Leanbox/Kobaba Ruins/Gather 6"
+                    },
+                    {
+                        "name": "Kobaba Ruins - Gather 7",
+                        "ref": "Leanbox/Kobaba Ruins/Gather 7"
+                    },
+                    {
+                        "name": "Kobaba Ruins - Treasure 1",
+                        "ref": "Leanbox/Kobaba Ruins/Treasure 1"
+                    },
+                    {
+                        "name": "Kobaba Ruins - Treasure 2",
+                        "ref": "Leanbox/Kobaba Ruins/Treasure 2"
+                    },
+                    {
+                        "name": "Kobaba Ruins - Treasure 3",
+                        "ref": "Leanbox/Kobaba Ruins/Treasure 3"
+                    },
+                    {
+                        "name": "Kobaba Ruins - Treasure 4",
+                        "ref": "Leanbox/Kobaba Ruins/Treasure 4"
+                    },
+                    {
+                        "name": "Kobaba Ruins - Treasure 5",
+                        "ref": "Leanbox/Kobaba Ruins/Treasure 5"
+                    },
+                    {
+                        "name": "Kobaba Ruins - Treasure 6",
+                        "ref": "Leanbox/Kobaba Ruins/Treasure 6"
+                    },
+                    {
+                        "name": "Kobaba Ruins - Treasure 7",
+                        "ref": "Leanbox/Kobaba Ruins/Treasure 7"
+                    },
+                    {
+                        "name": "Nekutoki Forest - Gather 1",
+                        "ref": "Leanbox/Nekutoki Forest/Gather 1"
+                    },
+                    {
+                        "name": "Nekutoki Forest - Gather 2",
+                        "ref": "Leanbox/Nekutoki Forest/Gather 2"
+                    },
+                    {
+                        "name": "Nekutoki Forest - Gather 3",
+                        "ref": "Leanbox/Nekutoki Forest/Gather 3"
+                    },
+                    {
+                        "name": "Nekutoki Forest - Gather 4",
+                        "ref": "Leanbox/Nekutoki Forest/Gather 4"
+                    },
+                    {
+                        "name": "Nekutoki Forest - Gather 5",
+                        "ref": "Leanbox/Nekutoki Forest/Gather 5"
+                    },
+                    {
+                        "name": "Nekutoki Forest - Treasure 1",
+                        "ref": "Leanbox/Nekutoki Forest/Treasure 1"
+                    },
+                    {
+                        "name": "Nekutoki Forest - Treasure 2",
+                        "ref": "Leanbox/Nekutoki Forest/Treasure 2"
+                    },
+                    {
+                        "name": "Nekutoki Forest - Treasure 3",
+                        "ref": "Leanbox/Nekutoki Forest/Treasure 3"
+                    },
+                    {
+                        "name": "Nekutoki Forest - Treasure 4",
+                        "ref": "Leanbox/Nekutoki Forest/Treasure 4"
+                    },
+                    {
+                        "name": "Nekutoki Forest - Treasure 5",
+                        "ref": "Leanbox/Nekutoki Forest/Treasure 5"
+                    },
+                    {
+                        "name": "Zega Forest - Gather 1",
+                        "ref": "Leanbox/Zega Forest/Gather 1"
+                    },
+                    {
+                        "name": "Zega Forest - Gather 2",
+                        "ref": "Leanbox/Zega Forest/Gather 2"
+                    },
+                    {
+                        "name": "Zega Forest - Gather 3",
+                        "ref": "Leanbox/Zega Forest/Gather 3"
+                    },
+                    {
+                        "name": "Zega Forest - Gather 4",
+                        "ref": "Leanbox/Zega Forest/Gather 4"
+                    },
+                    {
+                        "name": "Zega Forest - Gather 5",
+                        "ref": "Leanbox/Zega Forest/Gather 5"
+                    },
+                    {
+                        "name": "Zega Forest - Gather 6",
+                        "ref": "Leanbox/Zega Forest/Gather 6"
+                    },
+                    {
+                        "name": "Zega Forest - Treasure 1",
+                        "ref": "Leanbox/Zega Forest/Treasure 1"
+                    },
+                    {
+                        "name": "Zega Forest - Treasure 2",
+                        "ref": "Leanbox/Zega Forest/Treasure 2"
+                    },
+                    {
+                        "name": "Zega Forest - Treasure 3",
+                        "ref": "Leanbox/Zega Forest/Treasure 3"
+                    },
+                    {
+                        "name": "Zega Forest - Treasure 4",
+                        "ref": "Leanbox/Zega Forest/Treasure 4"
+                    },
+                    {
+                        "name": "Zega Forest - Treasure 5",
+                        "ref": "Leanbox/Zega Forest/Treasure 5"
+                    },
+                    {
+                        "name": "Zega Forest - Treasure 6",
+                        "ref": "Leanbox/Zega Forest/Treasure 6"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 486,
+                        "y": 738,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Leanbox Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mountain Seoi",
+                        "ref": "Bestiary/Inorganic/Mountain Seoi"
+                    },
+                    {
+                        "name": "Viral Mountain Seoi",
+                        "ref": "Bestiary/Inorganic/Viral Mountain Seoi"
+                    },
+                    {
+                        "name": "Blazing Skeleton",
+                        "ref": "Bestiary/Ghost/Blazing Skeleton"
+                    },
+                    {
+                        "name": "Flame Flower",
+                        "ref": "Bestiary/Plant/Flame Flower"
+                    },
+                    {
+                        "name": "Viral Flame Flower",
+                        "ref": "Bestiary/Plant/Viral Flame Flower"
+                    },
+                    {
+                        "name": "Leanbox High Guard",
+                        "ref": "Bestiary/Humanoid/Leanbox High Guard"
+                    },
+                    {
+                        "name": "Lost Dragon",
+                        "ref": "Bestiary/Dragon/Lost Dragon"
+                    },
+                    {
+                        "name": "Moulin Rouge",
+                        "ref": "Bestiary/Plant/Moulin Rouge"
+                    },
+                    {
+                        "name": "Rukh",
+                        "ref": "Bestiary/Avian/Rukh"
+                    },
+                    {
+                        "name": "Viral Rukh",
+                        "ref": "Bestiary/Avian/Viral Rukh"
+                    },
+                    {
+                        "name": "Tarantula",
+                        "ref": "Bestiary/Insect/Tarantula"
+                    },
+                    {
+                        "name": "Wolf",
+                        "ref": "Bestiary/Beast/Wolf"
+                    },
+                    {
+                        "name": "Viral Wolf",
+                        "ref": "Bestiary/Beast/Viral Wolf"
+                    },
+                    {
+                        "name": "Phoenix",
+                        "ref": "Bestiary/Avian/Phoenix"
+                    },
+                    {
+                        "name": "Leanbox Soldier",
+                        "ref": "Bestiary/Humanoid/Leanbox Soldier"
+                    },
+                    {
+                        "name": "Crack Tail",
+                        "ref": "Bestiary/Plant/Crack Tail"
+                    },
+                    {
+                        "name": "Missile Golem",
+                        "ref": "Bestiary/Inorganic/Missile Golem"
+                    },
+                    {
+                        "name": "Viral Missile Golem",
+                        "ref": "Bestiary/Inorganic/Viral Missile Golem"
+                    },
+                    {
+                        "name": "Aimable",
+                        "ref": "Bestiary/Plant/Aimable"
+                    },
+                    {
+                        "name": "Forest Crab",
+                        "ref": "Bestiary/Aquatic/Forest Crab"
+                    },
+                    {
+                        "name": "Prince Cardbird",
+                        "ref": "Bestiary/Avian/Prince Cardbird"
+                    },
+                    {
+                        "name": "Heretical Dogoo",
+                        "ref": "Bestiary/Dogoo/Heretical Dogoo"
+                    },
+                    {
+                        "name": "Alune",
+                        "ref": "Bestiary/Plant/Alune"
+                    },
+                    {
+                        "name": "Viral Alune",
+                        "ref": "Bestiary/Plant/Viral Alune"
+                    },
+                    {
+                        "name": "Turtle",
+                        "ref": "Bestiary/Aquatic/Turtle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 708,
+                        "y": 738,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Lowee",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ario Plateau - Gather 1",
+                        "ref": "Lowee/Ario Plateau/Gather 1"
+                    },
+                    {
+                        "name": "Ario Plateau - Gather 2",
+                        "ref": "Lowee/Ario Plateau/Gather 2"
+                    },
+                    {
+                        "name": "Ario Plateau - Gather 3",
+                        "ref": "Lowee/Ario Plateau/Gather 3"
+                    },
+                    {
+                        "name": "Ario Plateau - Gather 4",
+                        "ref": "Lowee/Ario Plateau/Gather 4"
+                    },
+                    {
+                        "name": "Ario Plateau - Treasure 1",
+                        "ref": "Lowee/Ario Plateau/Treasure 1"
+                    },
+                    {
+                        "name": "Ario Plateau - Treasure 2",
+                        "ref": "Lowee/Ario Plateau/Treasure 2"
+                    },
+                    {
+                        "name": "Ario Plateau - Treasure 3",
+                        "ref": "Lowee/Ario Plateau/Treasure 3"
+                    },
+                    {
+                        "name": "Ario Plateau - Treasure 4",
+                        "ref": "Lowee/Ario Plateau/Treasure 4"
+                    },
+                    {
+                        "name": "Ario Plateau - Treasure 5",
+                        "ref": "Lowee/Ario Plateau/Treasure 5"
+                    },
+                    {
+                        "name": "Castle Chambers - Gather 1",
+                        "ref": "Lowee/Castle Chambers/Gather 1"
+                    },
+                    {
+                        "name": "Castle Chambers - Gather 2",
+                        "ref": "Lowee/Castle Chambers/Gather 2"
+                    },
+                    {
+                        "name": "Castle Chambers - Gather 3",
+                        "ref": "Lowee/Castle Chambers/Gather 3"
+                    },
+                    {
+                        "name": "Castle Chambers - Gather 4",
+                        "ref": "Lowee/Castle Chambers/Gather 4"
+                    },
+                    {
+                        "name": "Castle Chambers - Gather 5",
+                        "ref": "Lowee/Castle Chambers/Gather 5"
+                    },
+                    {
+                        "name": "Castle Chambers - Treasure 1",
+                        "ref": "Lowee/Castle Chambers/Treasure 1"
+                    },
+                    {
+                        "name": "Castle Chambers - Treasure 2",
+                        "ref": "Lowee/Castle Chambers/Treasure 2"
+                    },
+                    {
+                        "name": "Castle Chambers - Treasure 3",
+                        "ref": "Lowee/Castle Chambers/Treasure 3"
+                    },
+                    {
+                        "name": "Castle Chambers - Treasure 4",
+                        "ref": "Lowee/Castle Chambers/Treasure 4"
+                    },
+                    {
+                        "name": "Castle Chambers - Treasure 5",
+                        "ref": "Lowee/Castle Chambers/Treasure 5"
+                    },
+                    {
+                        "name": "Lowee Castle Exterior - Gather 1",
+                        "ref": "Lowee/Lowee Castle Exterior/Gather 1"
+                    },
+                    {
+                        "name": "Lowee Castle Exterior - Gather 2",
+                        "ref": "Lowee/Lowee Castle Exterior/Gather 2"
+                    },
+                    {
+                        "name": "Lowee Castle Exterior - Gather 3",
+                        "ref": "Lowee/Lowee Castle Exterior/Gather 3"
+                    },
+                    {
+                        "name": "Lowee Castle Exterior - Gather 4",
+                        "ref": "Lowee/Lowee Castle Exterior/Gather 4"
+                    },
+                    {
+                        "name": "Lowee Castle Exterior - Gather 5",
+                        "ref": "Lowee/Lowee Castle Exterior/Gather 5"
+                    },
+                    {
+                        "name": "Lowee Castle Exterior - Treasure 1",
+                        "ref": "Lowee/Lowee Castle Exterior/Treasure 1"
+                    },
+                    {
+                        "name": "Lowee Castle Exterior - Treasure 2",
+                        "ref": "Lowee/Lowee Castle Exterior/Treasure 2"
+                    },
+                    {
+                        "name": "Lowee Castle Exterior - Treasure 3",
+                        "ref": "Lowee/Lowee Castle Exterior/Treasure 3"
+                    },
+                    {
+                        "name": "Lowee Castle Exterior - Treasure 4",
+                        "ref": "Lowee/Lowee Castle Exterior/Treasure 4"
+                    },
+                    {
+                        "name": "Lowee Castle Exterior - Treasure 5",
+                        "ref": "Lowee/Lowee Castle Exterior/Treasure 5"
+                    },
+                    {
+                        "name": "Lowee Castle Interior - Gather 1",
+                        "ref": "Lowee/Lowee Castle Interior/Gather 1"
+                    },
+                    {
+                        "name": "Lowee Castle Interior - Gather 2",
+                        "ref": "Lowee/Lowee Castle Interior/Gather 2"
+                    },
+                    {
+                        "name": "Lowee Castle Interior - Gather 3",
+                        "ref": "Lowee/Lowee Castle Interior/Gather 3"
+                    },
+                    {
+                        "name": "Lowee Castle Interior - Gather 4",
+                        "ref": "Lowee/Lowee Castle Interior/Gather 4"
+                    },
+                    {
+                        "name": "Lowee Castle Interior - Gather 5",
+                        "ref": "Lowee/Lowee Castle Interior/Gather 5"
+                    },
+                    {
+                        "name": "Lowee Castle Interior - Treasure 1",
+                        "ref": "Lowee/Lowee Castle Interior/Treasure 1"
+                    },
+                    {
+                        "name": "Lowee Castle Interior - Treasure 2",
+                        "ref": "Lowee/Lowee Castle Interior/Treasure 2"
+                    },
+                    {
+                        "name": "Lowee Castle Interior - Treasure 3",
+                        "ref": "Lowee/Lowee Castle Interior/Treasure 3"
+                    },
+                    {
+                        "name": "Lowee Castle Interior - Treasure 4",
+                        "ref": "Lowee/Lowee Castle Interior/Treasure 4"
+                    },
+                    {
+                        "name": "Lowee Castle Interior - Treasure 5",
+                        "ref": "Lowee/Lowee Castle Interior/Treasure 5"
+                    },
+                    {
+                        "name": "Lowee Castle Northern Space - Gather 1",
+                        "ref": "Lowee/Lowee Castle Northern Space/Gather 1"
+                    },
+                    {
+                        "name": "Lowee Castle Northern Space - Gather 2",
+                        "ref": "Lowee/Lowee Castle Northern Space/Gather 2"
+                    },
+                    {
+                        "name": "Lowee Castle Northern Space - Gather 3",
+                        "ref": "Lowee/Lowee Castle Northern Space/Gather 3"
+                    },
+                    {
+                        "name": "Lowee Castle Northern Space - Gather 4",
+                        "ref": "Lowee/Lowee Castle Northern Space/Gather 4"
+                    },
+                    {
+                        "name": "Lowee Castle Northern Space - Gather 5",
+                        "ref": "Lowee/Lowee Castle Northern Space/Gather 5"
+                    },
+                    {
+                        "name": "Lowee Castle Northern Space - Treasure 1",
+                        "ref": "Lowee/Lowee Castle Northern Space/Treasure 1"
+                    },
+                    {
+                        "name": "Lowee Castle Northern Space - Treasure 2",
+                        "ref": "Lowee/Lowee Castle Northern Space/Treasure 2"
+                    },
+                    {
+                        "name": "Lowee Castle Northern Space - Treasure 3",
+                        "ref": "Lowee/Lowee Castle Northern Space/Treasure 3"
+                    },
+                    {
+                        "name": "Lowee Castle Northern Space - Treasure 4",
+                        "ref": "Lowee/Lowee Castle Northern Space/Treasure 4"
+                    },
+                    {
+                        "name": "Lowee Castle Northern Space - Treasure 5",
+                        "ref": "Lowee/Lowee Castle Northern Space/Treasure 5"
+                    },
+                    {
+                        "name": "Lowee Castle Southern Space - Gather 1",
+                        "ref": "Lowee/Lowee Castle Southern Space/Gather 1"
+                    },
+                    {
+                        "name": "Lowee Castle Southern Space - Gather 2",
+                        "ref": "Lowee/Lowee Castle Southern Space/Gather 2"
+                    },
+                    {
+                        "name": "Lowee Castle Southern Space - Gather 3",
+                        "ref": "Lowee/Lowee Castle Southern Space/Gather 3"
+                    },
+                    {
+                        "name": "Lowee Castle Southern Space - Gather 4",
+                        "ref": "Lowee/Lowee Castle Southern Space/Gather 4"
+                    },
+                    {
+                        "name": "Lowee Castle Southern Space - Gather 5",
+                        "ref": "Lowee/Lowee Castle Southern Space/Gather 5"
+                    },
+                    {
+                        "name": "Lowee Castle Southern Space - Treasure 1",
+                        "ref": "Lowee/Lowee Castle Southern Space/Treasure 1"
+                    },
+                    {
+                        "name": "Lowee Castle Southern Space - Treasure 2",
+                        "ref": "Lowee/Lowee Castle Southern Space/Treasure 2"
+                    },
+                    {
+                        "name": "Lowee Castle Southern Space - Treasure 3",
+                        "ref": "Lowee/Lowee Castle Southern Space/Treasure 3"
+                    },
+                    {
+                        "name": "Lowee Castle Southern Space - Treasure 4",
+                        "ref": "Lowee/Lowee Castle Southern Space/Treasure 4"
+                    },
+                    {
+                        "name": "Lowee Castle Southern Space - Treasure 5",
+                        "ref": "Lowee/Lowee Castle Southern Space/Treasure 5"
+                    },
+                    {
+                        "name": "Luji Plateau - Gather 1",
+                        "ref": "Lowee/Luji Plateau/Gather 1"
+                    },
+                    {
+                        "name": "Luji Plateau - Gather 2",
+                        "ref": "Lowee/Luji Plateau/Gather 2"
+                    },
+                    {
+                        "name": "Luji Plateau - Gather 3",
+                        "ref": "Lowee/Luji Plateau/Gather 3"
+                    },
+                    {
+                        "name": "Luji Plateau - Gather 4",
+                        "ref": "Lowee/Luji Plateau/Gather 4"
+                    },
+                    {
+                        "name": "Luji Plateau - Gather 5",
+                        "ref": "Lowee/Luji Plateau/Gather 5"
+                    },
+                    {
+                        "name": "Luji Plateau - Treasure 1",
+                        "ref": "Lowee/Luji Plateau/Treasure 1"
+                    },
+                    {
+                        "name": "Luji Plateau - Treasure 2",
+                        "ref": "Lowee/Luji Plateau/Treasure 2"
+                    },
+                    {
+                        "name": "Luji Plateau - Treasure 3",
+                        "ref": "Lowee/Luji Plateau/Treasure 3"
+                    },
+                    {
+                        "name": "Luji Plateau - Treasure 4",
+                        "ref": "Lowee/Luji Plateau/Treasure 4"
+                    },
+                    {
+                        "name": "Luji Plateau - Treasure 5",
+                        "ref": "Lowee/Luji Plateau/Treasure 5"
+                    },
+                    {
+                        "name": "Metroid Shelter - Gather 1",
+                        "ref": "Lowee/Metroid Shelter/Gather 1"
+                    },
+                    {
+                        "name": "Metroid Shelter - Gather 2",
+                        "ref": "Lowee/Metroid Shelter/Gather 2"
+                    },
+                    {
+                        "name": "Metroid Shelter - Gather 3",
+                        "ref": "Lowee/Metroid Shelter/Gather 3"
+                    },
+                    {
+                        "name": "Metroid Shelter - Gather 4",
+                        "ref": "Lowee/Metroid Shelter/Gather 4"
+                    },
+                    {
+                        "name": "Metroid Shelter - Gather 5",
+                        "ref": "Lowee/Metroid Shelter/Gather 5"
+                    },
+                    {
+                        "name": "Metroid Shelter - Treasure 1",
+                        "ref": "Lowee/Metroid Shelter/Treasure 1"
+                    },
+                    {
+                        "name": "Metroid Shelter - Treasure 2",
+                        "ref": "Lowee/Metroid Shelter/Treasure 2"
+                    },
+                    {
+                        "name": "Metroid Shelter - Treasure 3",
+                        "ref": "Lowee/Metroid Shelter/Treasure 3"
+                    },
+                    {
+                        "name": "Metroid Shelter - Treasure 4",
+                        "ref": "Lowee/Metroid Shelter/Treasure 4"
+                    },
+                    {
+                        "name": "Metroid Shelter Depths - Gather 1",
+                        "ref": "Lowee/Metroid Shelter Depths/Gather 1"
+                    },
+                    {
+                        "name": "Metroid Shelter Depths - Gather 2",
+                        "ref": "Lowee/Metroid Shelter Depths/Gather 2"
+                    },
+                    {
+                        "name": "Metroid Shelter Depths - Gather 3",
+                        "ref": "Lowee/Metroid Shelter Depths/Gather 3"
+                    },
+                    {
+                        "name": "Metroid Shelter Depths - Gather 4",
+                        "ref": "Lowee/Metroid Shelter Depths/Gather 4"
+                    },
+                    {
+                        "name": "Metroid Shelter Depths - Gather 5",
+                        "ref": "Lowee/Metroid Shelter Depths/Gather 5"
+                    },
+                    {
+                        "name": "Metroid Shelter Depths - Gather 6",
+                        "ref": "Lowee/Metroid Shelter Depths/Gather 6"
+                    },
+                    {
+                        "name": "Metroid Shelter Depths - Gather 7",
+                        "ref": "Lowee/Metroid Shelter Depths/Gather 7"
+                    },
+                    {
+                        "name": "Metroid Shelter Depths - Treasure 1",
+                        "ref": "Lowee/Metroid Shelter Depths/Treasure 1"
+                    },
+                    {
+                        "name": "Metroid Shelter Depths - Treasure 2",
+                        "ref": "Lowee/Metroid Shelter Depths/Treasure 2"
+                    },
+                    {
+                        "name": "Metroid Shelter Depths - Treasure 3",
+                        "ref": "Lowee/Metroid Shelter Depths/Treasure 3"
+                    },
+                    {
+                        "name": "Metroid Shelter Depths - Treasure 4",
+                        "ref": "Lowee/Metroid Shelter Depths/Treasure 4"
+                    },
+                    {
+                        "name": "Mines - Gather 1",
+                        "ref": "Lowee/Mines/Gather 1"
+                    },
+                    {
+                        "name": "Mines - Gather 2",
+                        "ref": "Lowee/Mines/Gather 2"
+                    },
+                    {
+                        "name": "Mines - Gather 3",
+                        "ref": "Lowee/Mines/Gather 3"
+                    },
+                    {
+                        "name": "Mines - Gather 4",
+                        "ref": "Lowee/Mines/Gather 4"
+                    },
+                    {
+                        "name": "Mines - Gather 5",
+                        "ref": "Lowee/Mines/Gather 5"
+                    },
+                    {
+                        "name": "Mines - Gather 6",
+                        "ref": "Lowee/Mines/Gather 6"
+                    },
+                    {
+                        "name": "Mines - Gather 7",
+                        "ref": "Lowee/Mines/Gather 7"
+                    },
+                    {
+                        "name": "Mines - Gather 8",
+                        "ref": "Lowee/Mines/Gather 8"
+                    },
+                    {
+                        "name": "Mines - Treasure 1",
+                        "ref": "Lowee/Mines/Treasure 1"
+                    },
+                    {
+                        "name": "Mines - Treasure 2",
+                        "ref": "Lowee/Mines/Treasure 2"
+                    },
+                    {
+                        "name": "Mines - Treasure 3",
+                        "ref": "Lowee/Mines/Treasure 3"
+                    },
+                    {
+                        "name": "Mines - Treasure 4",
+                        "ref": "Lowee/Mines/Treasure 4"
+                    },
+                    {
+                        "name": "Mines - Treasure 5",
+                        "ref": "Lowee/Mines/Treasure 5"
+                    },
+                    {
+                        "name": "Reload Grasslands - Gather 1",
+                        "ref": "Lowee/Reload Grasslands/Gather 1"
+                    },
+                    {
+                        "name": "Reload Grasslands - Gather 2",
+                        "ref": "Lowee/Reload Grasslands/Gather 2"
+                    },
+                    {
+                        "name": "Reload Grasslands - Gather 3",
+                        "ref": "Lowee/Reload Grasslands/Gather 3"
+                    },
+                    {
+                        "name": "Reload Grasslands - Gather 4",
+                        "ref": "Lowee/Reload Grasslands/Gather 4"
+                    },
+                    {
+                        "name": "Reload Grasslands - Gather 5",
+                        "ref": "Lowee/Reload Grasslands/Gather 5"
+                    },
+                    {
+                        "name": "Reload Grasslands - Gather 6",
+                        "ref": "Lowee/Reload Grasslands/Gather 6"
+                    },
+                    {
+                        "name": "Reload Grasslands - Treasure 1",
+                        "ref": "Lowee/Reload Grasslands/Treasure 1"
+                    },
+                    {
+                        "name": "Reload Grasslands - Treasure 2",
+                        "ref": "Lowee/Reload Grasslands/Treasure 2"
+                    },
+                    {
+                        "name": "Reload Grasslands - Treasure 3",
+                        "ref": "Lowee/Reload Grasslands/Treasure 3"
+                    },
+                    {
+                        "name": "Reload Grasslands - Treasure 4",
+                        "ref": "Lowee/Reload Grasslands/Treasure 4"
+                    },
+                    {
+                        "name": "Reload Grasslands - Treasure 5",
+                        "ref": "Lowee/Reload Grasslands/Treasure 5"
+                    },
+                    {
+                        "name": "Rud Arms Sewer S. - Gather 1",
+                        "ref": "Lowee/Rud Arms Sewer S./Gather 1"
+                    },
+                    {
+                        "name": "Rud Arms Sewer S. - Gather 2",
+                        "ref": "Lowee/Rud Arms Sewer S./Gather 2"
+                    },
+                    {
+                        "name": "Rud Arms Sewer S. - Gather 3",
+                        "ref": "Lowee/Rud Arms Sewer S./Gather 3"
+                    },
+                    {
+                        "name": "Rud Arms Sewer S. - Gather 4",
+                        "ref": "Lowee/Rud Arms Sewer S./Gather 4"
+                    },
+                    {
+                        "name": "Rud Arms Sewer S. - Gather 5",
+                        "ref": "Lowee/Rud Arms Sewer S./Gather 5"
+                    },
+                    {
+                        "name": "Rud Arms Sewer S. - Gather 6",
+                        "ref": "Lowee/Rud Arms Sewer S./Gather 6"
+                    },
+                    {
+                        "name": "Rud Arms Sewer S. - Treasure 1",
+                        "ref": "Lowee/Rud Arms Sewer S./Treasure 1"
+                    },
+                    {
+                        "name": "Rud Arms Sewer S. - Treasure 2",
+                        "ref": "Lowee/Rud Arms Sewer S./Treasure 2"
+                    },
+                    {
+                        "name": "Rud Arms Sewer S. - Treasure 3",
+                        "ref": "Lowee/Rud Arms Sewer S./Treasure 3"
+                    },
+                    {
+                        "name": "Rud Arms Sewer S. - Treasure 4",
+                        "ref": "Lowee/Rud Arms Sewer S./Treasure 4"
+                    },
+                    {
+                        "name": "Underground Cave - Gather 1",
+                        "ref": "Lowee/Underground Cave/Gather 1"
+                    },
+                    {
+                        "name": "Underground Cave - Gather 2",
+                        "ref": "Lowee/Underground Cave/Gather 2"
+                    },
+                    {
+                        "name": "Underground Cave - Gather 3",
+                        "ref": "Lowee/Underground Cave/Gather 3"
+                    },
+                    {
+                        "name": "Underground Cave - Gather 4",
+                        "ref": "Lowee/Underground Cave/Gather 4"
+                    },
+                    {
+                        "name": "Underground Cave - Gather 5",
+                        "ref": "Lowee/Underground Cave/Gather 5"
+                    },
+                    {
+                        "name": "Underground Cave - Gather 6",
+                        "ref": "Lowee/Underground Cave/Gather 6"
+                    },
+                    {
+                        "name": "Underground Cave - Gather 7",
+                        "ref": "Lowee/Underground Cave/Gather 7"
+                    },
+                    {
+                        "name": "Underground Cave - Treasure 1",
+                        "ref": "Lowee/Underground Cave/Treasure 1"
+                    },
+                    {
+                        "name": "Underground Cave - Treasure 2",
+                        "ref": "Lowee/Underground Cave/Treasure 2"
+                    },
+                    {
+                        "name": "Underground Cave - Treasure 3",
+                        "ref": "Lowee/Underground Cave/Treasure 3"
+                    },
+                    {
+                        "name": "Underground Cave - Treasure 4",
+                        "ref": "Lowee/Underground Cave/Treasure 4"
+                    },
+                    {
+                        "name": "Underground Cave - Treasure 5",
+                        "ref": "Lowee/Underground Cave/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 485,
+                        "y": 215,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Lowee Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Plumindigo",
+                        "ref": "Bestiary/Inorganic/Plumindigo"
+                    },
+                    {
+                        "name": "Testri",
+                        "ref": "Bestiary/Inorganic/Testri"
+                    },
+                    {
+                        "name": "Red Dogoo",
+                        "ref": "Bestiary/Dogoo/Red Dogoo"
+                    },
+                    {
+                        "name": "Hachibei",
+                        "ref": "Bestiary/Ghost/Hachibei"
+                    },
+                    {
+                        "name": "Plaid Dolphin",
+                        "ref": "Bestiary/Aquatic/Plaid Dolphin"
+                    },
+                    {
+                        "name": "Lowee Soldier",
+                        "ref": "Bestiary/Humanoid/Lowee Soldier"
+                    },
+                    {
+                        "name": "Apeldoom",
+                        "ref": "Bestiary/Plant/Apeldoom"
+                    },
+                    {
+                        "name": "Aluna",
+                        "ref": "Bestiary/Plant/Aluna"
+                    },
+                    {
+                        "name": "Viral Aluna",
+                        "ref": "Bestiary/Plant/Viral Aluna"
+                    },
+                    {
+                        "name": "Lowee High Guard",
+                        "ref": "Bestiary/Humanoid/Lowee High Guard"
+                    },
+                    {
+                        "name": "Self-Defense System",
+                        "ref": "Bestiary/Machine/Self-Defense System"
+                    },
+                    {
+                        "name": "Nanovader",
+                        "ref": "Bestiary/Vader/Nanovader"
+                    },
+                    {
+                        "name": "Earth Golem",
+                        "ref": "Bestiary/Inorganic/Earth Golem"
+                    },
+                    {
+                        "name": "Viral Earth Golem",
+                        "ref": "Bestiary/Inorganic/Viral Earth Golem"
+                    },
+                    {
+                        "name": "Strange Person",
+                        "ref": "Bestiary/Data/Strange Person"
+                    },
+                    {
+                        "name": "High Bit",
+                        "ref": "Bestiary/Machine/High Bit"
+                    },
+                    {
+                        "name": "Lowee Defense Guard",
+                        "ref": "Bestiary/Humanoid/Lowee Defense Guard"
+                    },
+                    {
+                        "name": "Child Wolf",
+                        "ref": "Bestiary/Beast/Child Wolf"
+                    },
+                    {
+                        "name": "Viral Child Wolf",
+                        "ref": "Bestiary/Beast/Viral Child Wolf"
+                    },
+                    {
+                        "name": "Skeleton",
+                        "ref": "Bestiary/Ghost/Skeleton"
+                    },
+                    {
+                        "name": "Fenrir",
+                        "ref": "Bestiary/Beast/Fenrir"
+                    },
+                    {
+                        "name": "Support Bit",
+                        "ref": "Bestiary/Machine/Support Bit"
+                    },
+                    {
+                        "name": "Lowee Elite Guard",
+                        "ref": "Bestiary/Humanoid/Lowee Elite Guard"
+                    },
+                    {
+                        "name": "Magical Dogoo",
+                        "ref": "Bestiary/Dogoo/Magical Dogoo"
+                    },
+                    {
+                        "name": "Lowee Magical Soldier",
+                        "ref": "Bestiary/Humanoid/Lowee Magical Soldier"
+                    },
+                    {
+                        "name": "Hyakushiki Weapon",
+                        "ref": "Bestiary/Machine/Hyakushiki Weapon"
+                    },
+                    {
+                        "name": "Auto-Surveillance",
+                        "ref": "Bestiary/Machine/Auto-Surveillance"
+                    },
+                    {
+                        "name": "Lost Girl",
+                        "ref": "Bestiary/Ghost/Lost Girl"
+                    },
+                    {
+                        "name": "Lost Boy",
+                        "ref": "Bestiary/Ghost/Lost Boy"
+                    },
+                    {
+                        "name": "Ruins Guardian",
+                        "ref": "Bestiary/Inorganic/Ruins Guardian"
+                    },
+                    {
+                        "name": "Viral Ruins Guardian",
+                        "ref": "Bestiary/Inorganic/Viral Ruins Guardian"
+                    },
+                    {
+                        "name": "Ruins Dragon",
+                        "ref": "Bestiary/Dragon/Ruins Dragon"
+                    },
+                    {
+                        "name": "Coyote",
+                        "ref": "Bestiary/Beast/Coyote"
+                    },
+                    {
+                        "name": "Viral Coyote",
+                        "ref": "Bestiary/Beast/Viral Coyote"
+                    },
+                    {
+                        "name": "Wood Skeleton",
+                        "ref": "Bestiary/Ghost/Wood Skeleton"
+                    },
+                    {
+                        "name": "Death Stalker",
+                        "ref": "Bestiary/Dragon/Death Stalker"
+                    },
+                    {
+                        "name": "Viral Death Stalker",
+                        "ref": "Bestiary/Dragon/Viral Death Stalker"
+                    },
+                    {
+                        "name": "1000-Year Turtle",
+                        "ref": "Bestiary/Aquatic/1000-Year Turtle"
+                    },
+                    {
+                        "name": "Blinky",
+                        "ref": "Bestiary/Ghost/Blinky"
+                    },
+                    {
+                        "name": "Ms. Blinky",
+                        "ref": "Bestiary/Ghost/Ms. Blinky"
+                    },
+                    {
+                        "name": "Magma Stone",
+                        "ref": "Bestiary/Inorganic/Magma Stone"
+                    },
+                    {
+                        "name": "Plom-met",
+                        "ref": "Bestiary/Inorganic/Plom-met"
+                    },
+                    {
+                        "name": "Flame Fenrir",
+                        "ref": "Bestiary/Beast/Flame Fenrir"
+                    },
+                    {
+                        "name": "Volcano Crab",
+                        "ref": "Bestiary/Aquatic/Volcano Crab"
+                    },
+                    {
+                        "name": "Viral Volcano Crab",
+                        "ref": "Bestiary/Aquatic/Viral Volcano Crab"
+                    },
+                    {
+                        "name": "Frozen Skull",
+                        "ref": "Bestiary/Ghost/Frozen Skull"
+                    },
+                    {
+                        "name": "Ruffian Cat",
+                        "ref": "Bestiary/Beast/Ruffian Cat"
+                    },
+                    {
+                        "name": "Cold Lizard",
+                        "ref": "Bestiary/Dragon/Cold Lizard"
+                    },
+                    {
+                        "name": "Viral Cold Lizard",
+                        "ref": "Bestiary/Dragon/Viral Cold Lizard"
+                    },
+                    {
+                        "name": "Old Man Deus",
+                        "ref": "Bestiary/Data/Old Man Deus"
+                    },
+                    {
+                        "name": "Ice Fenrir",
+                        "ref": "Bestiary/Beast/Ice Fenrir"
+                    },
+                    {
+                        "name": "Boomerang",
+                        "ref": "Bestiary/Beast/Boomerang"
+                    },
+                    {
+                        "name": "WD Head",
+                        "ref": "Bestiary/Bomb/WD Head"
+                    },
+                    {
+                        "name": "Forest Turtle",
+                        "ref": "Bestiary/Aquatic/Forest Turtle"
+                    },
+                    {
+                        "name": "Cold Boy",
+                        "ref": "Bestiary/Ghost/Cold Boy"
+                    },
+                    {
+                        "name": "Cold Girl",
+                        "ref": "Bestiary/Ghost/Cold Girl"
+                    },
+                    {
+                        "name": "Magic Stone",
+                        "ref": "Bestiary/Inorganic/Magic Stone"
+                    },
+                    {
+                        "name": "Ice Golem",
+                        "ref": "Bestiary/Inorganic/Ice Golem"
+                    },
+                    {
+                        "name": "Viral Ice Golem",
+                        "ref": "Bestiary/Inorganic/Viral Ice Golem"
+                    },
+                    {
+                        "name": "Elemental Dragon",
+                        "ref": "Bestiary/Dragon/Elemental Dragon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 700,
+                        "y": 215,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "PC Continent",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Adaldik Forest - Gather 1",
+                        "ref": "PC Continent/Adaldik Forest/Gather 1"
+                    },
+                    {
+                        "name": "Adaldik Forest - Gather 2",
+                        "ref": "PC Continent/Adaldik Forest/Gather 2"
+                    },
+                    {
+                        "name": "Adaldik Forest - Gather 3",
+                        "ref": "PC Continent/Adaldik Forest/Gather 3"
+                    },
+                    {
+                        "name": "Adaldik Forest - Gather 4",
+                        "ref": "PC Continent/Adaldik Forest/Gather 4"
+                    },
+                    {
+                        "name": "Adaldik Forest - Gather 5",
+                        "ref": "PC Continent/Adaldik Forest/Gather 5"
+                    },
+                    {
+                        "name": "Adaldik Forest - Gather 6",
+                        "ref": "PC Continent/Adaldik Forest/Gather 6"
+                    },
+                    {
+                        "name": "Adaldik Forest - Treasure 1",
+                        "ref": "PC Continent/Adaldik Forest/Treasure 1"
+                    },
+                    {
+                        "name": "Adaldik Forest - Treasure 2",
+                        "ref": "PC Continent/Adaldik Forest/Treasure 2"
+                    },
+                    {
+                        "name": "Adaldik Forest - Treasure 3",
+                        "ref": "PC Continent/Adaldik Forest/Treasure 3"
+                    },
+                    {
+                        "name": "Adaldik Forest - Treasure 4",
+                        "ref": "PC Continent/Adaldik Forest/Treasure 4"
+                    },
+                    {
+                        "name": "Adaldik Forest - Treasure 5",
+                        "ref": "PC Continent/Adaldik Forest/Treasure 5"
+                    },
+                    {
+                        "name": "Adaldik Forest - Treasure 6",
+                        "ref": "PC Continent/Adaldik Forest/Treasure 6"
+                    },
+                    {
+                        "name": "Do Temple - Gather 1",
+                        "ref": "PC Continent/Do Temple/Gather 1"
+                    },
+                    {
+                        "name": "Do Temple - Gather 2",
+                        "ref": "PC Continent/Do Temple/Gather 2"
+                    },
+                    {
+                        "name": "Do Temple - Gather 3",
+                        "ref": "PC Continent/Do Temple/Gather 3"
+                    },
+                    {
+                        "name": "Do Temple - Gather 4",
+                        "ref": "PC Continent/Do Temple/Gather 4"
+                    },
+                    {
+                        "name": "Do Temple - Gather 5",
+                        "ref": "PC Continent/Do Temple/Gather 5"
+                    },
+                    {
+                        "name": "Do Temple - Gather 6",
+                        "ref": "PC Continent/Do Temple/Gather 6"
+                    },
+                    {
+                        "name": "Do Temple - Treasure 1",
+                        "ref": "PC Continent/Do Temple/Treasure 1"
+                    },
+                    {
+                        "name": "Do Temple - Treasure 2",
+                        "ref": "PC Continent/Do Temple/Treasure 2"
+                    },
+                    {
+                        "name": "Do Temple - Treasure 3",
+                        "ref": "PC Continent/Do Temple/Treasure 3"
+                    },
+                    {
+                        "name": "Do Temple - Treasure 4",
+                        "ref": "PC Continent/Do Temple/Treasure 4"
+                    },
+                    {
+                        "name": "Do Temple - Treasure 5",
+                        "ref": "PC Continent/Do Temple/Treasure 5"
+                    },
+                    {
+                        "name": "Pii Shii Game Factory - Gather 1",
+                        "ref": "PC Continent/Pii Shii Game Factory/Gather 1"
+                    },
+                    {
+                        "name": "Pii Shii Game Factory - Gather 2",
+                        "ref": "PC Continent/Pii Shii Game Factory/Gather 2"
+                    },
+                    {
+                        "name": "Pii Shii Game Factory - Gather 3",
+                        "ref": "PC Continent/Pii Shii Game Factory/Gather 3"
+                    },
+                    {
+                        "name": "Pii Shii Game Factory - Gather 4",
+                        "ref": "PC Continent/Pii Shii Game Factory/Gather 4"
+                    },
+                    {
+                        "name": "Pii Shii Game Factory - Gather 5",
+                        "ref": "PC Continent/Pii Shii Game Factory/Gather 5"
+                    },
+                    {
+                        "name": "Pii Shii Game Factory - Treasure 1",
+                        "ref": "PC Continent/Pii Shii Game Factory/Treasure 1"
+                    },
+                    {
+                        "name": "Pii Shii Game Factory - Treasure 2",
+                        "ref": "PC Continent/Pii Shii Game Factory/Treasure 2"
+                    },
+                    {
+                        "name": "Pii Shii Game Factory - Treasure 3",
+                        "ref": "PC Continent/Pii Shii Game Factory/Treasure 3"
+                    },
+                    {
+                        "name": "Pii Shii Game Factory - Treasure 4",
+                        "ref": "PC Continent/Pii Shii Game Factory/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 887,
+                        "y": 199,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "PC Continent Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Boxbird",
+                        "ref": "Bestiary/Avian/Boxbird"
+                    },
+                    {
+                        "name": "Fetigal",
+                        "ref": "Bestiary/Data/Fetigal"
+                    },
+                    {
+                        "name": "Rukh",
+                        "ref": "Bestiary/Avian/Rukh"
+                    },
+                    {
+                        "name": "Viral Rukh",
+                        "ref": "Bestiary/Avian/Viral Rukh"
+                    },
+                    {
+                        "name": "Fairyfly",
+                        "ref": "Bestiary/Insect/Fairyfly"
+                    },
+                    {
+                        "name": "Viral Fairyfly",
+                        "ref": "Bestiary/Insect/Viral Fairyfly"
+                    },
+                    {
+                        "name": "Garuda",
+                        "ref": "Bestiary/Avian/Garuda"
+                    },
+                    {
+                        "name": "Dinosauroid",
+                        "ref": "Bestiary/Dragon/Dinosauroid"
+                    },
+                    {
+                        "name": "Viral Dinosauroid",
+                        "ref": "Bestiary/Dragon/Viral Dinosauroid"
+                    },
+                    {
+                        "name": "Shimamos Brother",
+                        "ref": "Bestiary/Data/Shimamos Brother"
+                    },
+                    {
+                        "name": "Promise Keeper",
+                        "ref": "Bestiary/Ghost/Promise Keeper"
+                    },
+                    {
+                        "name": "Suzaku",
+                        "ref": "Bestiary/Avian/Suzaku"
+                    },
+                    {
+                        "name": "Tom",
+                        "ref": "Bestiary/Beast/Tom"
+                    },
+                    {
+                        "name": "Demon Spider",
+                        "ref": "Bestiary/Insect/Demon Spider"
+                    },
+                    {
+                        "name": "A2-i",
+                        "ref": "Bestiary/Machine/A2-i"
+                    },
+                    {
+                        "name": "Queen Spider",
+                        "ref": "Bestiary/Insect/Queen Spider"
+                    },
+                    {
+                        "name": "Tank Type-99",
+                        "ref": "Bestiary/Machine/Tank Type-99"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1109,
+                        "y": 199,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Planeptune",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Digital Future Land - Gather 1",
+                        "ref": "Planeptune/Digital Future Land/Gather 1"
+                    },
+                    {
+                        "name": "Digital Future Land - Gather 2",
+                        "ref": "Planeptune/Digital Future Land/Gather 2"
+                    },
+                    {
+                        "name": "Digital Future Land - Gather 3",
+                        "ref": "Planeptune/Digital Future Land/Gather 3"
+                    },
+                    {
+                        "name": "Digital Future Land - Gather 4",
+                        "ref": "Planeptune/Digital Future Land/Gather 4"
+                    },
+                    {
+                        "name": "Digital Future Land - Gather 5",
+                        "ref": "Planeptune/Digital Future Land/Gather 5"
+                    },
+                    {
+                        "name": "Digital Future Land - Treasure 1",
+                        "ref": "Planeptune/Digital Future Land/Treasure 1"
+                    },
+                    {
+                        "name": "Digital Future Land - Treasure 2",
+                        "ref": "Planeptune/Digital Future Land/Treasure 2"
+                    },
+                    {
+                        "name": "Digital Future Land - Treasure 3",
+                        "ref": "Planeptune/Digital Future Land/Treasure 3"
+                    },
+                    {
+                        "name": "Digital Future Land - Treasure 4",
+                        "ref": "Planeptune/Digital Future Land/Treasure 4"
+                    },
+                    {
+                        "name": "Digital Future Land - Treasure 5",
+                        "ref": "Planeptune/Digital Future Land/Treasure 5"
+                    },
+                    {
+                        "name": "Digital Future Depths - Gather 1",
+                        "ref": "Planeptune/Digital Future Depths/Gather 1"
+                    },
+                    {
+                        "name": "Digital Future Depths - Gather 2",
+                        "ref": "Planeptune/Digital Future Depths/Gather 2"
+                    },
+                    {
+                        "name": "Digital Future Depths - Gather 3",
+                        "ref": "Planeptune/Digital Future Depths/Gather 3"
+                    },
+                    {
+                        "name": "Digital Future Depths - Gather 4",
+                        "ref": "Planeptune/Digital Future Depths/Gather 4"
+                    },
+                    {
+                        "name": "Digital Future Depths - Gather 5",
+                        "ref": "Planeptune/Digital Future Depths/Gather 5"
+                    },
+                    {
+                        "name": "Digital Future Depths - Treasure 1",
+                        "ref": "Planeptune/Digital Future Depths/Treasure 1"
+                    },
+                    {
+                        "name": "Digital Future Depths - Treasure 2",
+                        "ref": "Planeptune/Digital Future Depths/Treasure 2"
+                    },
+                    {
+                        "name": "Digital Future Depths - Treasure 3",
+                        "ref": "Planeptune/Digital Future Depths/Treasure 3"
+                    },
+                    {
+                        "name": "Digital Future Depths - Treasure 4",
+                        "ref": "Planeptune/Digital Future Depths/Treasure 4"
+                    },
+                    {
+                        "name": "Haneda Mountain Range - Gather 1",
+                        "ref": "Planeptune/Haneda Mountain Range/Gather 1"
+                    },
+                    {
+                        "name": "Haneda Mountain Range - Gather 2",
+                        "ref": "Planeptune/Haneda Mountain Range/Gather 2"
+                    },
+                    {
+                        "name": "Haneda Mountain Range - Gather 3",
+                        "ref": "Planeptune/Haneda Mountain Range/Gather 3"
+                    },
+                    {
+                        "name": "Haneda Mountain Range - Gather 4",
+                        "ref": "Planeptune/Haneda Mountain Range/Gather 4"
+                    },
+                    {
+                        "name": "Haneda Mountain Range - Gather 5",
+                        "ref": "Planeptune/Haneda Mountain Range/Gather 5"
+                    },
+                    {
+                        "name": "Haneda Mountain Range - Gather 6",
+                        "ref": "Planeptune/Haneda Mountain Range/Gather 6"
+                    },
+                    {
+                        "name": "Haneda Mountain Range - Treasure 1",
+                        "ref": "Planeptune/Haneda Mountain Range/Treasure 1"
+                    },
+                    {
+                        "name": "Haneda Mountain Range - Treasure 2",
+                        "ref": "Planeptune/Haneda Mountain Range/Treasure 2"
+                    },
+                    {
+                        "name": "Haneda Mountain Range - Treasure 3",
+                        "ref": "Planeptune/Haneda Mountain Range/Treasure 3"
+                    },
+                    {
+                        "name": "Haneda Mountain Range - Treasure 4",
+                        "ref": "Planeptune/Haneda Mountain Range/Treasure 4"
+                    },
+                    {
+                        "name": "Haneda Mountain Range - Treasure 5",
+                        "ref": "Planeptune/Haneda Mountain Range/Treasure 5"
+                    },
+                    {
+                        "name": "Haneda Mountain Range - Treasure 6",
+                        "ref": "Planeptune/Haneda Mountain Range/Treasure 6"
+                    },
+                    {
+                        "name": "Haneda Mountain Range - Treasure 7",
+                        "ref": "Planeptune/Haneda Mountain Range/Treasure 7"
+                    },
+                    {
+                        "name": "Haneda Mountain Peak - Gather 1",
+                        "ref": "Planeptune/Haneda Mountain Peak/Gather 1"
+                    },
+                    {
+                        "name": "Haneda Mountain Peak - Gather 2",
+                        "ref": "Planeptune/Haneda Mountain Peak/Gather 2"
+                    },
+                    {
+                        "name": "Haneda Mountain Peak - Gather 3",
+                        "ref": "Planeptune/Haneda Mountain Peak/Gather 3"
+                    },
+                    {
+                        "name": "Haneda Mountain Peak - Gather 4",
+                        "ref": "Planeptune/Haneda Mountain Peak/Gather 4"
+                    },
+                    {
+                        "name": "Haneda Mountain Peak - Gather 5",
+                        "ref": "Planeptune/Haneda Mountain Peak/Gather 5"
+                    },
+                    {
+                        "name": "Haneda Mountain Peak - Treasure 1",
+                        "ref": "Planeptune/Haneda Mountain Peak/Treasure 1"
+                    },
+                    {
+                        "name": "Haneda Mountain Peak - Treasure 2",
+                        "ref": "Planeptune/Haneda Mountain Peak/Treasure 2"
+                    },
+                    {
+                        "name": "Haneda Mountain Peak - Treasure 3",
+                        "ref": "Planeptune/Haneda Mountain Peak/Treasure 3"
+                    },
+                    {
+                        "name": "Haneda Mountain Peak - Treasure 4",
+                        "ref": "Planeptune/Haneda Mountain Peak/Treasure 4"
+                    },
+                    {
+                        "name": "Haneda Mountain Peak - Treasure 5",
+                        "ref": "Planeptune/Haneda Mountain Peak/Treasure 5"
+                    },
+                    {
+                        "name": "Jet Set Range - Gather 1",
+                        "ref": "Planeptune/Jet Set Range/Gather 1"
+                    },
+                    {
+                        "name": "Jet Set Range - Gather 2",
+                        "ref": "Planeptune/Jet Set Range/Gather 2"
+                    },
+                    {
+                        "name": "Jet Set Range - Gather 3",
+                        "ref": "Planeptune/Jet Set Range/Gather 3"
+                    },
+                    {
+                        "name": "Jet Set Range - Gather 4",
+                        "ref": "Planeptune/Jet Set Range/Gather 4"
+                    },
+                    {
+                        "name": "Jet Set Range - Gather 5",
+                        "ref": "Planeptune/Jet Set Range/Gather 5"
+                    },
+                    {
+                        "name": "Jet Set Range - Treasure 1",
+                        "ref": "Planeptune/Jet Set Range/Treasure 1"
+                    },
+                    {
+                        "name": "Jet Set Range - Treasure 2",
+                        "ref": "Planeptune/Jet Set Range/Treasure 2"
+                    },
+                    {
+                        "name": "Jet Set Range - Treasure 3",
+                        "ref": "Planeptune/Jet Set Range/Treasure 3"
+                    },
+                    {
+                        "name": "Jet Set Range - Treasure 4",
+                        "ref": "Planeptune/Jet Set Range/Treasure 4"
+                    },
+                    {
+                        "name": "Otori Cave - Gather 1",
+                        "ref": "Planeptune/Otori Cave/Gather 1"
+                    },
+                    {
+                        "name": "Otori Cave - Gather 2",
+                        "ref": "Planeptune/Otori Cave/Gather 2"
+                    },
+                    {
+                        "name": "Otori Cave - Gather 3",
+                        "ref": "Planeptune/Otori Cave/Gather 3"
+                    },
+                    {
+                        "name": "Otori Cave - Gather 4",
+                        "ref": "Planeptune/Otori Cave/Gather 4"
+                    },
+                    {
+                        "name": "Otori Cave - Gather 5",
+                        "ref": "Planeptune/Otori Cave/Gather 5"
+                    },
+                    {
+                        "name": "Otori Cave - Gather 6",
+                        "ref": "Planeptune/Otori Cave/Gather 6"
+                    },
+                    {
+                        "name": "Otori Cave - Gather 7",
+                        "ref": "Planeptune/Otori Cave/Gather 7"
+                    },
+                    {
+                        "name": "Otori Cave - Gather 8",
+                        "ref": "Planeptune/Otori Cave/Gather 8"
+                    },
+                    {
+                        "name": "Otori Cave - Treasure 1",
+                        "ref": "Planeptune/Otori Cave/Treasure 1"
+                    },
+                    {
+                        "name": "Otori Cave - Treasure 2",
+                        "ref": "Planeptune/Otori Cave/Treasure 2"
+                    },
+                    {
+                        "name": "Otori Cave - Treasure 3",
+                        "ref": "Planeptune/Otori Cave/Treasure 3"
+                    },
+                    {
+                        "name": "Otori Cave - Treasure 4",
+                        "ref": "Planeptune/Otori Cave/Treasure 4"
+                    },
+                    {
+                        "name": "Otori Cave - Treasure 5",
+                        "ref": "Planeptune/Otori Cave/Treasure 5"
+                    },
+                    {
+                        "name": "Otori Forest - Gather 1",
+                        "ref": "Planeptune/Otori Forest/Gather 1"
+                    },
+                    {
+                        "name": "Otori Forest - Gather 2",
+                        "ref": "Planeptune/Otori Forest/Gather 2"
+                    },
+                    {
+                        "name": "Otori Forest - Gather 3",
+                        "ref": "Planeptune/Otori Forest/Gather 3"
+                    },
+                    {
+                        "name": "Otori Forest - Gather 4",
+                        "ref": "Planeptune/Otori Forest/Gather 4"
+                    },
+                    {
+                        "name": "Otori Forest - Gather 5",
+                        "ref": "Planeptune/Otori Forest/Gather 5"
+                    },
+                    {
+                        "name": "Otori Forest - Gather 6",
+                        "ref": "Planeptune/Otori Forest/Gather 6"
+                    },
+                    {
+                        "name": "Otori Forest - Gather 7",
+                        "ref": "Planeptune/Otori Forest/Gather 7"
+                    },
+                    {
+                        "name": "Otori Forest - Gather 8",
+                        "ref": "Planeptune/Otori Forest/Gather 8"
+                    },
+                    {
+                        "name": "Otori Forest - Treasure 1",
+                        "ref": "Planeptune/Otori Forest/Treasure 1"
+                    },
+                    {
+                        "name": "Otori Forest - Treasure 2",
+                        "ref": "Planeptune/Otori Forest/Treasure 2"
+                    },
+                    {
+                        "name": "Otori Forest - Treasure 3",
+                        "ref": "Planeptune/Otori Forest/Treasure 3"
+                    },
+                    {
+                        "name": "Otori Forest - Treasure 4",
+                        "ref": "Planeptune/Otori Forest/Treasure 4"
+                    },
+                    {
+                        "name": "Otori Forest - Treasure 5",
+                        "ref": "Planeptune/Otori Forest/Treasure 5"
+                    },
+                    {
+                        "name": "Otori Forest - Treasure 6",
+                        "ref": "Planeptune/Otori Forest/Treasure 6"
+                    },
+                    {
+                        "name": "Powerlevel Island - Gather 1",
+                        "ref": "Planeptune/Powerlevel Island/Gather 1"
+                    },
+                    {
+                        "name": "Powerlevel Island - Gather 2",
+                        "ref": "Planeptune/Powerlevel Island/Gather 2"
+                    },
+                    {
+                        "name": "Powerlevel Island - Gather 3",
+                        "ref": "Planeptune/Powerlevel Island/Gather 3"
+                    },
+                    {
+                        "name": "Powerlevel Island - Gather 4",
+                        "ref": "Planeptune/Powerlevel Island/Gather 4"
+                    },
+                    {
+                        "name": "Powerlevel Island - Gather 5",
+                        "ref": "Planeptune/Powerlevel Island/Gather 5"
+                    },
+                    {
+                        "name": "Powerlevel Island - Treasure 1",
+                        "ref": "Planeptune/Powerlevel Island/Treasure 1"
+                    },
+                    {
+                        "name": "Powerlevel Island - Treasure 2",
+                        "ref": "Planeptune/Powerlevel Island/Treasure 2"
+                    },
+                    {
+                        "name": "Powerlevel Island - Treasure 3",
+                        "ref": "Planeptune/Powerlevel Island/Treasure 3"
+                    },
+                    {
+                        "name": "Powerlevel Island - Treasure 4",
+                        "ref": "Planeptune/Powerlevel Island/Treasure 4"
+                    },
+                    {
+                        "name": "Powerlevel Island - Treasure 5",
+                        "ref": "Planeptune/Powerlevel Island/Treasure 5"
+                    },
+                    {
+                        "name": "Powerlevel Island - Treasure 6",
+                        "ref": "Planeptune/Powerlevel Island/Treasure 6"
+                    },
+                    {
+                        "name": "Powerlevel Island Interior - Gather 1",
+                        "ref": "Planeptune/Powerlevel Island Interior/Gather 1"
+                    },
+                    {
+                        "name": "Powerlevel Island Interior - Gather 2",
+                        "ref": "Planeptune/Powerlevel Island Interior/Gather 2"
+                    },
+                    {
+                        "name": "Powerlevel Island Interior - Gather 3",
+                        "ref": "Planeptune/Powerlevel Island Interior/Gather 3"
+                    },
+                    {
+                        "name": "Powerlevel Island Interior - Gather 4",
+                        "ref": "Planeptune/Powerlevel Island Interior/Gather 4"
+                    },
+                    {
+                        "name": "Powerlevel Island Interior - Gather 5",
+                        "ref": "Planeptune/Powerlevel Island Interior/Gather 5"
+                    },
+                    {
+                        "name": "Powerlevel Island Interior - Gather 6",
+                        "ref": "Planeptune/Powerlevel Island Interior/Gather 6"
+                    },
+                    {
+                        "name": "Powerlevel Island Interior - Treasure 1",
+                        "ref": "Planeptune/Powerlevel Island Interior/Treasure 1"
+                    },
+                    {
+                        "name": "Powerlevel Island Interior - Treasure 2",
+                        "ref": "Planeptune/Powerlevel Island Interior/Treasure 2"
+                    },
+                    {
+                        "name": "Powerlevel Island Interior - Treasure 3",
+                        "ref": "Planeptune/Powerlevel Island Interior/Treasure 3"
+                    },
+                    {
+                        "name": "Powerlevel Island Interior - Treasure 4",
+                        "ref": "Planeptune/Powerlevel Island Interior/Treasure 4"
+                    },
+                    {
+                        "name": "Powerlevel Island Interior - Treasure 5",
+                        "ref": "Planeptune/Powerlevel Island Interior/Treasure 5"
+                    },
+                    {
+                        "name": "Powerlevel Island Interior - Treasure 6",
+                        "ref": "Planeptune/Powerlevel Island Interior/Treasure 6"
+                    },
+                    {
+                        "name": "Powerlevel Island Interior - Treasure 7",
+                        "ref": "Planeptune/Powerlevel Island Interior/Treasure 7"
+                    },
+                    {
+                        "name": "Zeca Ruins No.1 - Gather 1",
+                        "ref": "Planeptune/Zeca Ruins No.1/Gather 1"
+                    },
+                    {
+                        "name": "Zeca Ruins No.1 - Gather 2",
+                        "ref": "Planeptune/Zeca Ruins No.1/Gather 2"
+                    },
+                    {
+                        "name": "Zeca Ruins No.1 - Gather 3",
+                        "ref": "Planeptune/Zeca Ruins No.1/Gather 3"
+                    },
+                    {
+                        "name": "Zeca Ruins No.1 - Gather 4",
+                        "ref": "Planeptune/Zeca Ruins No.1/Gather 4"
+                    },
+                    {
+                        "name": "Zeca Ruins No.1 - Gather 5",
+                        "ref": "Planeptune/Zeca Ruins No.1/Gather 5"
+                    },
+                    {
+                        "name": "Zeca Ruins No.1 - Gather 6",
+                        "ref": "Planeptune/Zeca Ruins No.1/Gather 6"
+                    },
+                    {
+                        "name": "Zeca Ruins No.1 - Gather 7",
+                        "ref": "Planeptune/Zeca Ruins No.1/Gather 7"
+                    },
+                    {
+                        "name": "Zeca Ruins No.1 - Treasure 1",
+                        "ref": "Planeptune/Zeca Ruins No.1/Treasure 1"
+                    },
+                    {
+                        "name": "Zeca Ruins No.1 - Treasure 2",
+                        "ref": "Planeptune/Zeca Ruins No.1/Treasure 2"
+                    },
+                    {
+                        "name": "Zeca Ruins No.1 - Treasure 3",
+                        "ref": "Planeptune/Zeca Ruins No.1/Treasure 3"
+                    },
+                    {
+                        "name": "Zeca Ruins No.1 - Treasure 4",
+                        "ref": "Planeptune/Zeca Ruins No.1/Treasure 4"
+                    },
+                    {
+                        "name": "Zeca Ruins No.1 - Treasure 5",
+                        "ref": "Planeptune/Zeca Ruins No.1/Treasure 5"
+                    },
+                    {
+                        "name": "Zeca Ruins No.1 - Treasure 6",
+                        "ref": "Planeptune/Zeca Ruins No.1/Treasure 6"
+                    },
+                    {
+                        "name": "Zeca Ruins No.2 - Gather 1",
+                        "ref": "Planeptune/Zeca Ruins No.2/Gather 1"
+                    },
+                    {
+                        "name": "Zeca Ruins No.2 - Gather 2",
+                        "ref": "Planeptune/Zeca Ruins No.2/Gather 2"
+                    },
+                    {
+                        "name": "Zeca Ruins No.2 - Gather 3",
+                        "ref": "Planeptune/Zeca Ruins No.2/Gather 3"
+                    },
+                    {
+                        "name": "Zeca Ruins No.2 - Gather 4",
+                        "ref": "Planeptune/Zeca Ruins No.2/Gather 4"
+                    },
+                    {
+                        "name": "Zeca Ruins No.2 - Gather 5",
+                        "ref": "Planeptune/Zeca Ruins No.2/Gather 5"
+                    },
+                    {
+                        "name": "Zeca Ruins No.2 - Gather 6",
+                        "ref": "Planeptune/Zeca Ruins No.2/Gather 6"
+                    },
+                    {
+                        "name": "Zeca Ruins No.2 - Treasure 1",
+                        "ref": "Planeptune/Zeca Ruins No.2/Treasure 1"
+                    },
+                    {
+                        "name": "Zeca Ruins No.2 - Treasure 2",
+                        "ref": "Planeptune/Zeca Ruins No.2/Treasure 2"
+                    },
+                    {
+                        "name": "Zeca Ruins No.2 - Treasure 3",
+                        "ref": "Planeptune/Zeca Ruins No.2/Treasure 3"
+                    },
+                    {
+                        "name": "Zeca Ruins No.2 - Treasure 4",
+                        "ref": "Planeptune/Zeca Ruins No.2/Treasure 4"
+                    },
+                    {
+                        "name": "Zeca Ruins No.2 - Treasure 5",
+                        "ref": "Planeptune/Zeca Ruins No.2/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 86,
+                        "y": 476,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Planeptune Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Shampuru Loner",
+                        "ref": "Bestiary/Beast/Shampuru Loner"
+                    },
+                    {
+                        "name": "Dokidoki Sister",
+                        "ref": "Bestiary/Data/Dokidoki Sister"
+                    },
+                    {
+                        "name": "NP-02v",
+                        "ref": "Bestiary/Machine/NP-02v"
+                    },
+                    {
+                        "name": "Bug Butterfly",
+                        "ref": "Bestiary/Insect/Bug Butterfly"
+                    },
+                    {
+                        "name": "Wolf Blaze",
+                        "ref": "Bestiary/Beast/Wolf Blaze"
+                    },
+                    {
+                        "name": "Carroteer",
+                        "ref": "Bestiary/Plant/Carroteer"
+                    },
+                    {
+                        "name": "High Heal Dogoo",
+                        "ref": "Bestiary/Dogoo/High Heal Dogoo"
+                    },
+                    {
+                        "name": "Horsebird CAW",
+                        "ref": "Bestiary/Avian/Horsebird CAW"
+                    },
+                    {
+                        "name": "Wild Dog",
+                        "ref": "Bestiary/Beast/Wild Dog"
+                    },
+                    {
+                        "name": "Viral Wild Dog",
+                        "ref": "Bestiary/Beast/Viral Wild Dog"
+                    },
+                    {
+                        "name": "Fenrir Wolf",
+                        "ref": "Bestiary/Beast/Fenrir Wolf"
+                    },
+                    {
+                        "name": "Meow",
+                        "ref": "Bestiary/Beast/Meow"
+                    },
+                    {
+                        "name": "Dragon Warrior",
+                        "ref": "Bestiary/Dragon/Dragon Warrior"
+                    },
+                    {
+                        "name": "Viral Dragon Warrior",
+                        "ref": "Bestiary/Dragon/Viral Dragon Warrior"
+                    },
+                    {
+                        "name": "Cardbird",
+                        "ref": "Bestiary/Avian/Cardbird"
+                    },
+                    {
+                        "name": "Sunflowery",
+                        "ref": "Bestiary/Plant/Sunflowery"
+                    },
+                    {
+                        "name": "Pal Shell",
+                        "ref": "Bestiary/Inorganic/Pal Shell"
+                    },
+                    {
+                        "name": "Alraune",
+                        "ref": "Bestiary/Plant/Alraune"
+                    },
+                    {
+                        "name": "Viral Alraune",
+                        "ref": "Bestiary/Plant/Viral Alraune"
+                    },
+                    {
+                        "name": "Ancient Dragon",
+                        "ref": "Bestiary/Dragon/Ancient Dragon"
+                    },
+                    {
+                        "name": "Aimable",
+                        "ref": "Bestiary/Plant/Aimable"
+                    },
+                    {
+                        "name": "Earth Lizard",
+                        "ref": "Bestiary/Dragon/Earth Lizard"
+                    },
+                    {
+                        "name": "Viral Earth Lizard",
+                        "ref": "Bestiary/Dragon/Viral Earth Lizard"
+                    },
+                    {
+                        "name": "Numb Dogoo",
+                        "ref": "Bestiary/Dogoo/Numb Dogoo"
+                    },
+                    {
+                        "name": "Missile Golem",
+                        "ref": "Bestiary/Inorganic/Missile Golem"
+                    },
+                    {
+                        "name": "Viral Missile Golem",
+                        "ref": "Bestiary/Inorganic/Viral Missile Golem"
+                    },
+                    {
+                        "name": "Thunderbird",
+                        "ref": "Bestiary/Avian/Thunderbird"
+                    },
+                    {
+                        "name": "Contracted Angel",
+                        "ref": "Bestiary/Ghost/Contracted Angel"
+                    },
+                    {
+                        "name": "Exhausted Jelly",
+                        "ref": "Bestiary/Dogoo/Exhausted Jelly"
+                    },
+                    {
+                        "name": "Sergeant Froggy",
+                        "ref": "Bestiary/Aquatic/Sergeant Froggy"
+                    },
+                    {
+                        "name": "Hikky",
+                        "ref": "Bestiary/Plant/Hikky"
+                    },
+                    {
+                        "name": "Viral Hikky",
+                        "ref": "Bestiary/Plant/Viral Hikky"
+                    },
+                    {
+                        "name": "Penguin",
+                        "ref": "Bestiary/Aquatic/Penguin"
+                    },
+                    {
+                        "name": "Ms. Bashful",
+                        "ref": "Bestiary/Ghost/Ms. Bashful"
+                    },
+                    {
+                        "name": "Bashful",
+                        "ref": "Bestiary/Ghost/Bashful"
+                    },
+                    {
+                        "name": "Sea Golem",
+                        "ref": "Bestiary/Inorganic/Sea Golem"
+                    },
+                    {
+                        "name": "Viral Sea Golem",
+                        "ref": "Bestiary/Inorganic/Viral Sea Golem"
+                    },
+                    {
+                        "name": "Mega Turtle",
+                        "ref": "Bestiary/Aquatic/Mega Turtle"
+                    },
+                    {
+                        "name": "Pixelvader",
+                        "ref": "Bestiary/Vader/Pixelvader"
+                    },
+                    {
+                        "name": "Clyde",
+                        "ref": "Bestiary/Ghost/Clyde"
+                    },
+                    {
+                        "name": "Ms. Clyde",
+                        "ref": "Bestiary/Ghost/Ms. Clyde"
+                    },
+                    {
+                        "name": "Cutekitty",
+                        "ref": "Bestiary/Beast/Cutekitty"
+                    },
+                    {
+                        "name": "Normal Shampuru",
+                        "ref": "Bestiary/Beast/Normal Shampuru"
+                    },
+                    {
+                        "name": "Magical Shampuru",
+                        "ref": "Bestiary/Beast/Magical Shampuru"
+                    },
+                    {
+                        "name": "Buff Shampuru",
+                        "ref": "Bestiary/Beast/Buff Shampuru"
+                    },
+                    {
+                        "name": "Metal Dogoo",
+                        "ref": "Bestiary/Dogoo/Metal Dogoo"
+                    },
+                    {
+                        "name": "Dangerous Shampuru",
+                        "ref": "Bestiary/Beast/Dangerous Shampuru"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 305,
+                        "y": 476,
+                        "size": 32
+                    }
+                ]
+            }
+        ]
+    }
+]

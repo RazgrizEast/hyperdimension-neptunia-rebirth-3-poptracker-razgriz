@@ -1,0 +1,742 @@
+[
+    {
+        "name": "Leanbox",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "EM ES Magma Cave",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockemesmagmacave,[$canAccessEMESMagmaCave]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Leanbox",
+                        "x": 247,
+                        "y": 494,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "EM ES Magma Cave Depths",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockemesmagmacave,[$canAccessEMESMagmaCave]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 7",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Leanbox",
+                        "x": 247,
+                        "y": 454,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "EM ES Magma Cave Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockemesmagmacave,[$canAccessEMESMagmaCave]"
+                ],
+                "sections": [
+                    {
+                        "name": "Mountain Seoi",
+                        "ref": "Bestiary/Inorganic/Mountain Seoi"
+                    },
+                    {
+                        "name": "Viral Mountain Seoi",
+                        "ref": "Bestiary/Inorganic/Viral Mountain Seoi"
+                    },
+                    {
+                        "name": "Blazing Skeleton",
+                        "ref": "Bestiary/Ghost/Blazing Skeleton"
+                    },
+                    {
+                        "name": "Flame Flower",
+                        "ref": "Bestiary/Plant/Flame Flower"
+                    },
+                    {
+                        "name": "Viral Flame Flower",
+                        "ref": "Bestiary/Plant/Viral Flame Flower"
+                    },
+                    {
+                        "name": "Leanbox High Guard",
+                        "ref": "Bestiary/Humanoid/Leanbox High Guard"
+                    },
+                    {
+                        "name": "Lost Dragon",
+                        "ref": "Bestiary/Dragon/Lost Dragon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Leanbox",
+                        "x": 390,
+                        "y": 499,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Halo Forest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockhaloforest,[$canAccessHaloForest]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Leanbox",
+                        "x": 942,
+                        "y": 291,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Halo Forest Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockhaloforest,[$canAccessHaloForest]"
+                ],
+                "sections": [
+                    {
+                        "name": "Moulin Rouge",
+                        "ref": "Bestiary/Plant/Moulin Rouge"
+                    },
+                    {
+                        "name": "Rukh",
+                        "ref": "Bestiary/Avian/Rukh"
+                    },
+                    {
+                        "name": "Viral Rukh",
+                        "ref": "Bestiary/Avian/Viral Rukh"
+                    },
+                    {
+                        "name": "Tarantula",
+                        "ref": "Bestiary/Insect/Tarantula"
+                    },
+                    {
+                        "name": "Wolf",
+                        "ref": "Bestiary/Beast/Wolf"
+                    },
+                    {
+                        "name": "Viral Wolf",
+                        "ref": "Bestiary/Beast/Viral Wolf"
+                    },
+                    {
+                        "name": "Phoenix",
+                        "ref": "Bestiary/Avian/Phoenix"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Leanbox",
+                        "x": 1051,
+                        "y": 299,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Kobaba Ruins",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockkobabaruins,[$canAccessKobabaRuins]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 7",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 7",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Leanbox",
+                        "x": 156,
+                        "y": 346,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Kobaba Ruins Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockkobabaruins,[$canAccessKobabaRuins]"
+                ],
+                "sections": [
+                    {
+                        "name": "Leanbox Soldier",
+                        "ref": "Bestiary/Humanoid/Leanbox Soldier"
+                    },
+                    {
+                        "name": "Crack Tail",
+                        "ref": "Bestiary/Plant/Crack Tail"
+                    },
+                    {
+                        "name": "Missile Golem",
+                        "ref": "Bestiary/Inorganic/Missile Golem"
+                    },
+                    {
+                        "name": "Viral Missile Golem",
+                        "ref": "Bestiary/Inorganic/Viral Missile Golem"
+                    },
+                    {
+                        "name": "Strange Person",
+                        "ref": "Bestiary/Data/Strange Person"
+                    },
+                    {
+                        "name": "Forest Crab",
+                        "ref": "Bestiary/Aquatic/Forest Crab"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Leanbox",
+                        "x": 273,
+                        "y": 345,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Nekutoki Forest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlocknekutokiforest,[$canAccessNekutokiForest]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Leanbox",
+                        "x": 706,
+                        "y": 138,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Nekutoki Forest Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlocknekutokiforest,[$canAccessNekutokiForest]"
+                ],
+                "sections": [
+                    {
+                        "name": "Leanbox Soldier",
+                        "ref": "Bestiary/Humanoid/Leanbox Soldier"
+                    },
+                    {
+                        "name": "Crack Tail",
+                        "ref": "Bestiary/Plant/Crack Tail"
+                    },
+                    {
+                        "name": "Missile Golem",
+                        "ref": "Bestiary/Inorganic/Missile Golem"
+                    },
+                    {
+                        "name": "Viral Missile Golem",
+                        "ref": "Bestiary/Inorganic/Viral Missile Golem"
+                    },
+                    {
+                        "name": "Aimable",
+                        "ref": "Bestiary/Plant/Aimable"
+                    },
+                    {
+                        "name": "Forest Crab",
+                        "ref": "Bestiary/Aquatic/Forest Crab"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Leanbox",
+                        "x": 841,
+                        "y": 142,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Zega Forest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockzegaforest,[$canAccessZegaForest]"
+                ],
+                "sections": [
+                    {
+                        "name": "Gather 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gather 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Leanbox",
+                        "x": 197,
+                        "y": 128,
+                        "size": 32
+                    }
+                ]
+            },
+            {
+                "name": "Zega Forest Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dungeonunlockzegaforest,[$canAccessZegaForest]"
+                ],
+                "sections": [
+                    {
+                        "name": "Prince Cardbird",
+                        "ref": "Bestiary/Avian/Prince Cardbird"
+                    },
+                    {
+                        "name": "Heretical Dogoo",
+                        "ref": "Bestiary/Dogoo/Heretical Dogoo"
+                    },
+                    {
+                        "name": "Alune",
+                        "ref": "Bestiary/Plant/Alune"
+                    },
+                    {
+                        "name": "Viral Alune",
+                        "ref": "Bestiary/Plant/Viral Alune"
+                    },
+                    {
+                        "name": "Turtle",
+                        "ref": "Bestiary/Aquatic/Turtle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview Leanbox",
+                        "x": 305,
+                        "y": 124,
+                        "size": 32
+                    }
+                ]
+            }
+        ]
+    }
+]

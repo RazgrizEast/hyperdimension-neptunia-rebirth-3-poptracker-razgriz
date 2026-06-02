@@ -4,16 +4,24 @@ A PopTracker for the Archipelago implementation for Hyperdimension Neptunia Re;B
 
 While I'm reasonably sure the logic is all correct (barring any errors or misunderstandings I surely made), there is still a lot of work to be done.
 
+
 **WORK REMAINING**
+
 -Only a handful of individual dungeon maps are done. I will continue adding more
+
 -Still need to finalize visuals for the item grid
+
 -Will need to realign the check location boxes on the various maps, I threw them on a bit haphazardly
 
 You can ping me on Discord (I am in the Archipelago server as Razgriz) to let me know of any errors.
 
+
 **TO USE:** Simply download the .zip file and put it in your Poptracker packs folder.
+
 -The tracker has various layers of maps (an Overworld that sees everything, an Overview map for each area, and then dungeon maps)
+
 -Locations are split between Gather/Treasure in one box and Monsters in another, per dungeon.
+
 
 **KNOWN LIMITATIONS:** This tracker will not automatically switch tabs as you move through the game. Doing that
 would require the mod itself to send location info to the Archipelago server's slot date. Even then, I'd need

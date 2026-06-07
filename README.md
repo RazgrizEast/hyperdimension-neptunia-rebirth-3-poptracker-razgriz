@@ -23,12 +23,8 @@ You can ping me on Discord (I am in the Archipelago server as Razgriz) to let me
 -Locations are split between Gather/Treasure in one box and Monsters in another, per dungeon.
 
 
-**KNOWN LIMITATIONS:** This tracker will not automatically switch tabs as you move through the game. Doing that
-would require the mod itself to send location info to the Archipelago server's slot date. Even then, I'd need
-to figure out how to take that data and build it into the tracker, which I still don't know how to do. So for the
-most part, use the tracker manually to quickly glance at where you need to go.
+**KNOWN LIMITATIONS:** This tracker will not automatically switch tabs as you move through the game. Doing that would require the mod itself to send location info to the Archipelago server's slot date. Even then, I'd need to figure out how to take that data and build it into the tracker, which I still don't know how to do. So for the most part, use the tracker manually to quickly glance at where you need to go.
 
-I also have not figured out how to keep monsters that are in more than one dungeon from showing as available if you
-only have access to one dungeon. Obviously, the dungeon you have is the one you need to go to.
+I also have not figured out how to keep monsters that are in more than one dungeon from showing as available if you only have access to one dungeon. Obviously, the dungeon you have is the one you need to go to.
 
 **Credit:** Prinroze, from the Archipelago Discord, who helped make some of the item grid pixel art (which I tried to badly recolor)

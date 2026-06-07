@@ -7,7 +7,7 @@ While I'm reasonably sure the logic is all correct (barring any errors or misund
 
 **WORK REMAINING**
 
--Only a handful of individual dungeon maps are done. I will continue adding more
+-Only a handful of individual dungeon maps are done. I will continue adding more (5/50 complete)
 
 -Still need to finalize visuals for the item grid
 
@@ -31,4 +31,4 @@ most part, use the tracker manually to quickly glance at where you need to go.
 I also have not figured out how to keep monsters that are in more than one dungeon from showing as available if you
 only have access to one dungeon. Obviously, the dungeon you have is the one you need to go to.
 
-Also, thank you to Prin from the Archipelago Discord who helped make some of the item grid pixel art (which I tried to badly recolor)
+**Credit:** Prinroze, from the Archipelago Discord, who helped make some of the item grid pixel art (which I tried to badly recolor)

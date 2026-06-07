@@ -1,0 +1,464 @@
+[
+    {
+        "name": "Castle Chambers",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Castle Chambers Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Castle Chambers - Gather 1",
+                        "ref": "Lowee/Castle Chambers/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Castle Chambers",
+                    "x": 96,
+                    "y": 435,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Castle Chambers Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Castle Chambers - Gather 2",
+                        "ref": "Lowee/Castle Chambers/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Castle Chambers",
+                    "x": 96,
+                    "y": 301,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Castle Chambers Gather 3, 4, 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Castle Chambers - Gather 3",
+                        "ref": "Lowee/Castle Chambers/Gather 3"
+                    },
+                    {
+                        "name": "Castle Chambers - Gather 4",
+                        "ref": "Lowee/Castle Chambers/Gather 4"
+                    },
+                    {
+                        "name": "Castle Chambers - Gather 5",
+                        "ref": "Lowee/Castle Chambers/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Castle Chambers",
+                    "x": 111,
+                    "y": 117,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Castle Chambers Treasure 1, 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Castle Chambers - Treasure 1",
+                        "ref": "Lowee/Castle Chambers/Treasure 1"
+                    },
+                    {
+                        "name": "Castle Chambers - Treasure 2",
+                        "ref": "Lowee/Castle Chambers/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Castle Chambers",
+                    "x": 171,
+                    "y": 431,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Castle Chambers Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Castle Chambers - Treasure 3",
+                        "ref": "Lowee/Castle Chambers/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Castle Chambers",
+                    "x": 167,
+                    "y": 264,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Castle Chambers Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Castle Chambers - Treasure 4",
+                        "ref": "Lowee/Castle Chambers/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Castle Chambers",
+                    "x": 382,
+                    "y": 170,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Castle Chambers Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Castle Chambers - Treasure 5",
+                        "ref": "Lowee/Castle Chambers/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Castle Chambers",
+                    "x": 512,
+                    "y": 179,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Underground Cave Gather 1, 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Underground Cave - Gather 1",
+                        "ref": "Lowee/Underground Cave/Gather 1"
+                    },
+                    {
+                        "name": "Underground Cave - Gather 2",
+                        "ref": "Lowee/Underground Cave/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Castle Chambers",
+                    "x": 940,
+                    "y": 287,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Underground Cave Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Underground Cave - Gather 3",
+                        "ref": "Lowee/Underground Cave/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Castle Chambers",
+                    "x": 624,
+                    "y": 287,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Underground Cave Gather 4, 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Underground Cave - Gather 4",
+                        "ref": "Lowee/Underground Cave/Gather 4"
+                    },
+                    {
+                        "name": "Underground Cave - Gather 5",
+                        "ref": "Lowee/Underground Cave/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Castle Chambers",
+                    "x": 652,
+                    "y": 381,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Underground Cave Gather 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Underground Cave - Gather 6",
+                        "ref": "Lowee/Underground Cave/Gather 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Castle Chambers",
+                    "x": 878,
+                    "y": 471,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Underground Cave Gather 7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Underground Cave - Gather 7",
+                        "ref": "Lowee/Underground Cave/Gather 7"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Castle Chambers",
+                    "x": 795,
+                    "y": 477,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Underground Cave Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Underground Cave - Treasure 1",
+                        "ref": "Lowee/Underground Cave/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Castle Chambers",
+                    "x": 916,
+                    "y": 202,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Underground Cave Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Underground Cave - Treasure 2",
+                        "ref": "Lowee/Underground Cave/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Castle Chambers",
+                    "x": 693,
+                    "y": 17,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Underground Cave Treasure 3, 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Underground Cave - Treasure 3",
+                        "ref": "Lowee/Underground Cave/Treasure 3"
+                    },
+                    {
+                        "name": "Underground Cave - Treasure 4",
+                        "ref": "Lowee/Underground Cave/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Castle Chambers",
+                    "x": 575,
+                    "y": 251,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Underground Cave Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Underground Cave - Treasure 5",
+                        "ref": "Lowee/Underground Cave/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Castle Chambers",
+                    "x": 753,
+                    "y": 425,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Castle Chambers Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Soldier",
+                        "ref": "Bestiary/Humanoid/Lowee Soldier"
+                    },
+                    {
+                        "name": "Apeldoom",
+                        "ref": "Bestiary/Plant/Apeldoom"
+                    },
+                    {
+                        "name": "Aluna",
+                        "ref": "Bestiary/Plant/Aluna"
+                    },
+                    {
+                        "name": "Viral Aluna",
+                        "ref": "Bestiary/Plant/Viral Aluna"
+                    },
+                    {
+                        "name": "Lowee High Guard",
+                        "ref": "Bestiary/Humanoid/Lowee High Guard"
+                    },
+                    {
+                        "name": "Self-Defense System",
+                        "ref": "Bestiary/Machine/Self-Defense System"
+                    },
+                    {
+                        "name": "Nanovader",
+                        "ref": "Bestiary/Vader/Nanovader"
+                    },
+                    {
+                        "name": "Earth Golem",
+                        "ref": "Bestiary/Inorganic/Earth Golem"
+                    },
+                    {
+                        "name": "Viral Earth Golem",
+                        "ref": "Bestiary/Inorganic/Viral Earth Golem"
+                    },
+                    {
+                        "name": "Strange Person",
+                        "ref": "Bestiary/Data/Strange Person"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Castle Chambers",
+                        "x": 558,
+                        "y": 337,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

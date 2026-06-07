@@ -60,10 +60,82 @@
         "img": "images/maps/virtuaforestsafezone.png"
     },
     {
+        "name": "Station Area",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/stationarea.png"
+    },
+    {
+        "name": "Virtua Forest",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/virtuaforest.png"
+    },
+    {
+        "name": "City Center",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/citycenter.png"
+    },
+    {
+        "name": "Under Inverse",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/underinverse.png"
+    },
+    {
+        "name": "Planeptune Alley",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/planeptunealley.png"
+    },
+    {
         "name": "Jet Set Range",
         "location_size": 24,
         "location_border_thickness": 2,
         "img": "images/maps/jetsetrange.png"
+    },
+    {
+        "name": "Otori Forest",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/otoriforest.png"
+    },
+    {
+        "name": "Zeca Ruins No. 1",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/zecaruinsno1.png"
+    },
+    {
+        "name": "Zeca Ruins No. 2",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/zecaruinsno2.png"
+    },
+    {
+        "name": "Haneda Mountain Range",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/hanedamountainrange.png"
+    },
+    {
+        "name": "Otori Cave",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/otoricave.png"
+    },
+    {
+        "name": "Powerlevel Island",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/powerlevelisland.png"
+    },
+    {
+        "name": "Digital Future Land",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/digitalfutureland.png"
     },
     {
         "name": "Jet Set Peak",
@@ -72,10 +144,64 @@
         "img": "images/maps/jetsetpeak.png"
     },
     {
+        "name": "Bandicrash",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/bandicrash.png"
+    },
+    {
+        "name": "Kuzarat Facility 1",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/kuzaratfacility1.png"
+    },
+    {
         "name": "Wanderer's Cave",
         "location_size": 24,
         "location_border_thickness": 2,
         "img": "images/maps/wandererscave.png"
+    },
+    {
+        "name": "Rud Arms Sewer N",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/rudarmssewern.png"
+    },
+    {
+        "name": "Soni Wetlands",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/soniwetlands.png"
+    },
+    {
+        "name": "Gigo Main Entrance",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/gigomainentrance.png"
+    },
+    {
+        "name": "National Factory",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/nationalfactory.png"
+    },
+    {
+        "name": "PS Dimension",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/psdimension.png"
+    },
+    {
+        "name": "Anonydeath's Lab",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/anonydeathslab.png"
+    },
+    {
+        "name": "Vida Dimension",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/vidadimension.png"
     },
     {
         "name": "Castle Chambers",
@@ -84,10 +210,82 @@
         "img": "images/maps/castlechambers.png"
     },
     {
+        "name": "Lowee Castle Exterior",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/loweecastleexterior.png"
+    },
+    {
+        "name": "Reload Grasslands",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/reloadgrasslands.png"
+    },
+    {
+        "name": "Rud Arms Sewer S",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/rudarmssewers.png"
+    },
+    {
+        "name": "Metroid Shelter",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/metroidshelter.png"
+    },
+    {
+        "name": "Mines",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/mines.png"
+    },
+    {
+        "name": "Ario Plateau",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/arioplateau.png"
+    },
+    {
+        "name": "Luji Plateau",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/lujiplateau.png"
+    },
+    {
+        "name": "Lowee Castle Northern Space",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/loweecastlenorthernspace.png"
+    },
+    {
         "name": "Halo Forest",
         "location_size": 24,
         "location_border_thickness": 2,
         "img": "images/maps/haloforest.png"
+    },
+    {
+        "name": "Kobaba Ruins",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/kobabaruins.png"
+    },
+    {
+        "name": "Zega Forest",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/zegaforest.png"
+    },
+    {
+        "name": "Nekutoki Forest",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/nekutokiforest.png"
+    },
+    {
+        "name": "EM ES Magma Cave",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/emesmagmacave.png"
     },
     {
         "name": "Pii Shii Game Factory",
@@ -96,10 +294,52 @@
         "img": "images/maps/piishiigamefactory.png"
     },
     {
+        "name": "Do Temple",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/dotemple.png"
+    },
+    {
         "name": "Duo R Ruins",
         "location_size": 24,
         "location_border_thickness": 2,
         "img": "images/maps/duorruins.png"
+    },
+    {
+        "name": "Adaldik Forest",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/adaldikforest.png"
+    },
+    {
+        "name": "Magma Cave",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/magmacave.png"
+    },
+    {
+        "name": "Graphic Pass",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/graphicpass.png"
+    },
+    {
+        "name": "Extradimensional Space",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/extradimensionalspace.png"
+    },
+    {
+        "name": "Koagura Plateau",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/koaguraplateau.png"
+    },
+    {
+        "name": "Suaho Mountain Range",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/suahomountainrange.png"
     },
     {
         "name": "Keraga Dimension",
@@ -108,9 +348,9 @@
         "img": "images/maps/keragadimension.png"
     },
     {
-        "name": "Adaldik Forest",
+        "name": "So Shal Forest",
         "location_size": 24,
         "location_border_thickness": 2,
-        "img": "images/maps/adaldikforest.png"
+        "img": "images/maps/soshalforest.png"
     }
 ]

@@ -14,11 +14,31 @@
 										"content":{ "type": "map", "maps":["Overview Hyperdimension"] }
 									},
 									{
-										"title": "Area Maps",
+										"title": "Dungeon Maps",
 										"content":{ "type": "tabbed", "tabs":[
 												{
 													"title": "Virtua Forest Safe Zone",
 													"content":{ "type": "map", "maps":["Virtua Forest Safe Zone"] }
+												},
+												{
+													"title": "Station Area",
+													"content":{ "type": "map", "maps":["Station Area"] }
+												},
+												{
+													"title": "Virtua Forest",
+													"content":{ "type": "map", "maps":["Virtua Forest"] }
+												},
+												{
+													"title": "City Center",
+													"content":{ "type": "map", "maps":["City Center"] }
+												},
+												{
+													"title": "Under Inverse",
+													"content":{ "type": "map", "maps":["Under Inverse"] }
+												},
+												{
+													"title": "Planeptune Alley",
+													"content":{ "type": "map", "maps":["Planeptune Alley"] }
 												}
 											]
 										}
@@ -34,11 +54,39 @@
 										"content":{ "type": "map", "maps":["Overview Planeptune"] }
 									},
 									{
-										"title": "Area Maps",
+										"title": "Dungeon Maps",
 										"content":{ "type": "tabbed", "tabs":[
+												{
+													"title": "Otori Forest",
+													"content":{ "type": "map", "maps":["Otori Forest"] }
+												},
 												{
 													"title": "Jet Set Range",
 													"content":{ "type": "map", "maps":["Jet Set Range"] }
+												},
+												{
+													"title": "Zeca Ruins No. 1",
+													"content":{ "type": "map", "maps":["Zeca Ruins No. 1"] }
+												},
+												{
+													"title": "Zeca Ruins No. 2",
+													"content":{ "type": "map", "maps":["Zeca Ruins No. 2"] }
+												},
+												{
+													"title": "Otori Cave",
+													"content":{ "type": "map", "maps":["Otori Cave"] }
+												},
+												{
+													"title": "Haneda Mountain Range",
+													"content":{ "type": "map", "maps":["Haneda Mountain Range"] }
+												},
+												{
+													"title": "Powerlevel Island",
+													"content":{ "type": "map", "maps":["Powerlevel Island"] }
+												},
+												{
+													"title": "Digital Future Land",
+													"content":{ "type": "map", "maps":["Digital Future Land"] }
 												}
 											]
 										}
@@ -54,7 +102,7 @@
 										"content":{ "type": "map", "maps":["Overview Lastation"] }
 									},
 									{
-										"title": "Area Maps",
+										"title": "Dungeon Maps",
 										"content":{ "type": "tabbed", "tabs":[
 												{
 													"title": "Jet Set Peak",
@@ -63,6 +111,42 @@
 												{
 													"title": "Wanderer's Cave",
 													"content":{ "type": "map", "maps":["Wanderer's Cave"] }
+												},
+												{
+													"title": "Bandicrash",
+													"content":{ "type": "map", "maps":["Bandicrash"] }
+												},
+												{
+													"title": "Kuzarat Facility 1",
+													"content":{ "type": "map", "maps":["Kuzarat Facility 1"] }
+												},
+												{
+													"title": "Soni Wetlands",
+													"content":{ "type": "map", "maps":["Soni Wetlands"] }
+												},
+												{
+													"title": "Rud Arms Sewer N",
+													"content":{ "type": "map", "maps":["Rud Arms Sewer N"] }
+												},
+												{
+													"title": "Gigo Main Entrance",
+													"content":{ "type": "map", "maps":["Gigo Main Entrance"] }
+												},
+												{
+													"title": "National Factory",
+													"content":{ "type": "map", "maps":["National Factory"] }
+												},
+												{
+													"title": "PS Dimension",
+													"content":{ "type": "map", "maps":["PS Dimension"] }
+												},
+												{
+													"title": "Anonydeath's Lab",
+													"content":{ "type": "map", "maps":["Anonydeath's Lab"] }
+												},
+												{
+													"title": "Vida Dimension",
+													"content":{ "type": "map", "maps":["Vida Dimension"] }
 												}
 											]
 										}
@@ -78,11 +162,43 @@
 										"content":{ "type": "map", "maps":["Overview Lowee"] }
 									},
 									{
-										"title": "Area Maps",
+										"title": "Dungeon Maps",
 										"content":{ "type": "tabbed", "tabs":[
 												{
 													"title": "Castle Chambers",
 													"content":{ "type": "map", "maps":["Castle Chambers"] }
+												},
+												{
+													"title": "Lowee Castle Exterior",
+													"content":{ "type": "map", "maps":["Lowee Castle Exterior"] }
+												},
+												{
+													"title": "Reload Grasslands",
+													"content":{ "type": "map", "maps":["Reload Grasslands"] }
+												},
+												{
+													"title": "Rud Arms Sewer S",
+													"content":{ "type": "map", "maps":["Rud Arms Sewer S"] }
+												},
+												{
+													"title": "Mines",
+													"content":{ "type": "map", "maps":["Mines"] }
+												},
+												{
+													"title": "Luji Plateau",
+													"content":{ "type": "map", "maps":["Luji Plateau"] }
+												},
+												{
+													"title": "Metroid Shelter",
+													"content":{ "type": "map", "maps":["Metroid Shelter"] }
+												},
+												{
+													"title": "Ario Plateau",
+													"content":{ "type": "map", "maps":["Ario Plateau"] }
+												},
+												{
+													"title": "Lowee Castle Northern Space",
+													"content":{ "type": "map", "maps":["Lowee Castle Northern Space"] }
 												}
 											]
 										}
@@ -98,11 +214,27 @@
 										"content":{ "type": "map", "maps":["Overview Leanbox"] }
 									},
 									{
-										"title": "Area Maps",
+										"title": "Dungeon Maps",
 										"content":{ "type": "tabbed", "tabs":[
 												{
 													"title": "Halo Forest",
 													"content":{ "type": "map", "maps":["Halo Forest"] }
+												},
+												{
+													"title": "Zega Forest",
+													"content":{ "type": "map", "maps":["Zega Forest"] }
+												},
+												{
+													"title": "Kobaba Ruins",
+													"content":{ "type": "map", "maps":["Kobaba Ruins"] }
+												},
+												{
+													"title": "Nekutoki Forest",
+													"content":{ "type": "map", "maps":["Nekutoki Forest"] }
+												},
+												{
+													"title": "EM ES Magma Cave",
+													"content":{ "type": "map", "maps":["EM ES Magma Cave"] }
 												}
 											]
 										}
@@ -118,7 +250,7 @@
 										"content":{ "type": "map", "maps":["Overview PC Continent"] }
 									},
 									{
-										"title": "Area Maps",
+										"title": "Dungeon Maps",
 										"content":{ "type": "tabbed", "tabs":[
 												{
 													"title": "Adaldik Forest",
@@ -127,6 +259,10 @@
 												{
 													"title": "Pii Shii Game Factory",
 													"content":{ "type": "map", "maps":["Pii Shii Game Factory"] }
+												},
+												{
+													"title": "Do Temple",
+													"content":{ "type": "map", "maps":["Do Temple"] }
 												}
 											]
 										}
@@ -142,11 +278,27 @@
 										"content":{ "type": "map", "maps":["Overview Eden"] }
 									},
 									{
-										"title": "Area Maps",
+										"title": "Dungeon Maps",
 										"content":{ "type": "tabbed", "tabs":[
+												{
+													"title": "Magma Cave",
+													"content":{ "type": "map", "maps":["Magma Cave"] }
+												},
+												{
+													"title": "Graphic Pass",
+													"content":{ "type": "map", "maps":["Graphic Pass"] }
+												},
+												{
+													"title": "Extradimensional Space",
+													"content":{ "type": "map", "maps":["Extradimensional Space"] }
+												},
 												{
 													"title": "Duo R Ruins",
 													"content":{ "type": "map", "maps":["Duo R Ruins"] }
+												},
+												{
+													"title": "Koagura Plateau",
+													"content":{ "type": "map", "maps":["Koagura Plateau"] }
 												}
 											]
 										}
@@ -162,11 +314,19 @@
 										"content":{ "type": "map", "maps":["Overview Hello Continent"] }
 									},
 									{
-										"title": "Area Maps",
+										"title": "Dungeon Maps",
 										"content":{ "type": "tabbed", "tabs":[
+												{
+													"title": "Suaho Mountain Range",
+													"content":{ "type": "map", "maps":["Suaho Mountain Range"] }
+												},
 												{
 													"title": "Keraga Dimension",
 													"content":{ "type": "map", "maps":["Keraga Dimension"] }
+												},
+												{
+													"title": "So Shal Forest",
+													"content":{ "type": "map", "maps":["So Shal Forest"] }
 												}
 											]
 										}
@@ -192,11 +352,31 @@
 										"content":{ "type": "map", "maps":["Overview Hyperdimension"] }
 									},
 									{
-										"title": "Area Maps",
+										"title": "Dungeon Maps",
 										"content":{ "type": "tabbed", "tabs":[
 												{
 													"title": "Virtua Forest Safe Zone",
 													"content":{ "type": "map", "maps":["Virtua Forest Safe Zone"] }
+												},
+												{
+													"title": "Station Area",
+													"content":{ "type": "map", "maps":["Station Area"] }
+												},
+												{
+													"title": "Virtua Forest",
+													"content":{ "type": "map", "maps":["Virtua Forest"] }
+												},
+												{
+													"title": "City Center",
+													"content":{ "type": "map", "maps":["City Center"] }
+												},
+												{
+													"title": "Under Inverse",
+													"content":{ "type": "map", "maps":["Under Inverse"] }
+												},
+												{
+													"title": "Planeptune Alley",
+													"content":{ "type": "map", "maps":["Planeptune Alley"] }
 												}
 											]
 										}
@@ -212,11 +392,39 @@
 										"content":{ "type": "map", "maps":["Overview Planeptune"] }
 									},
 									{
-										"title": "Area Maps",
+										"title": "Dungeon Maps",
 										"content":{ "type": "tabbed", "tabs":[
+												{
+													"title": "Otori Forest",
+													"content":{ "type": "map", "maps":["Otori Forest"] }
+												},
 												{
 													"title": "Jet Set Range",
 													"content":{ "type": "map", "maps":["Jet Set Range"] }
+												},
+												{
+													"title": "Zeca Ruins No. 1",
+													"content":{ "type": "map", "maps":["Zeca Ruins No. 1"] }
+												},
+												{
+													"title": "Zeca Ruins No. 2",
+													"content":{ "type": "map", "maps":["Zeca Ruins No. 2"] }
+												},
+												{
+													"title": "Otori Cave",
+													"content":{ "type": "map", "maps":["Otori Cave"] }
+												},
+												{
+													"title": "Haneda Mountain Range",
+													"content":{ "type": "map", "maps":["Haneda Mountain Range"] }
+												},
+												{
+													"title": "Powerlevel Island",
+													"content":{ "type": "map", "maps":["Powerlevel Island"] }
+												},
+												{
+													"title": "Digital Future Land",
+													"content":{ "type": "map", "maps":["Digital Future Land"] }
 												}
 											]
 										}
@@ -232,11 +440,51 @@
 										"content":{ "type": "map", "maps":["Overview Lastation"] }
 									},
 									{
-										"title": "Area Maps",
+										"title": "Dungeon Maps",
 										"content":{ "type": "tabbed", "tabs":[
 												{
 													"title": "Jet Set Peak",
 													"content":{ "type": "map", "maps":["Jet Set Peak"] }
+												},
+												{
+													"title": "Wanderer's Cave",
+													"content":{ "type": "map", "maps":["Wanderer's Cave"] }
+												},
+												{
+													"title": "Bandicrash",
+													"content":{ "type": "map", "maps":["Bandicrash"] }
+												},
+												{
+													"title": "Kuzarat Facility 1",
+													"content":{ "type": "map", "maps":["Kuzarat Facility 1"] }
+												},
+												{
+													"title": "Soni Wetlands",
+													"content":{ "type": "map", "maps":["Soni Wetlands"] }
+												},
+												{
+													"title": "Rud Arms Sewer N",
+													"content":{ "type": "map", "maps":["Rud Arms Sewer N"] }
+												},
+												{
+													"title": "Gigo Main Entrance",
+													"content":{ "type": "map", "maps":["Gigo Main Entrance"] }
+												},
+												{
+													"title": "National Factory",
+													"content":{ "type": "map", "maps":["National Factory"] }
+												},
+												{
+													"title": "PS Dimension",
+													"content":{ "type": "map", "maps":["PS Dimension"] }
+												},
+												{
+													"title": "Anonydeath's Lab",
+													"content":{ "type": "map", "maps":["Anonydeath's Lab"] }
+												},
+												{
+													"title": "Vida Dimension",
+													"content":{ "type": "map", "maps":["Vida Dimension"] }
 												}
 											]
 										}
@@ -252,11 +500,43 @@
 										"content":{ "type": "map", "maps":["Overview Lowee"] }
 									},
 									{
-										"title": "Area Maps",
+										"title": "Dungeon Maps",
 										"content":{ "type": "tabbed", "tabs":[
 												{
 													"title": "Castle Chambers",
 													"content":{ "type": "map", "maps":["Castle Chambers"] }
+												},
+												{
+													"title": "Lowee Castle Exterior",
+													"content":{ "type": "map", "maps":["Lowee Castle Exterior"] }
+												},
+												{
+													"title": "Reload Grasslands",
+													"content":{ "type": "map", "maps":["Reload Grasslands"] }
+												},
+												{
+													"title": "Rud Arms Sewer S",
+													"content":{ "type": "map", "maps":["Rud Arms Sewer S"] }
+												},
+												{
+													"title": "Mines",
+													"content":{ "type": "map", "maps":["Mines"] }
+												},
+												{
+													"title": "Luji Plateau",
+													"content":{ "type": "map", "maps":["Luji Plateau"] }
+												},
+												{
+													"title": "Metroid Shelter",
+													"content":{ "type": "map", "maps":["Metroid Shelter"] }
+												},
+												{
+													"title": "Ario Plateau",
+													"content":{ "type": "map", "maps":["Ario Plateau"] }
+												},
+												{
+													"title": "Lowee Castle Northern Space",
+													"content":{ "type": "map", "maps":["Lowee Castle Northern Space"] }
 												}
 											]
 										}
@@ -272,11 +552,27 @@
 										"content":{ "type": "map", "maps":["Overview Leanbox"] }
 									},
 									{
-										"title": "Area Maps",
+										"title": "Dungeon Maps",
 										"content":{ "type": "tabbed", "tabs":[
 												{
 													"title": "Halo Forest",
 													"content":{ "type": "map", "maps":["Halo Forest"] }
+												},
+												{
+													"title": "Zega Forest",
+													"content":{ "type": "map", "maps":["Zega Forest"] }
+												},
+												{
+													"title": "Kobaba Ruins",
+													"content":{ "type": "map", "maps":["Kobaba Ruins"] }
+												},
+												{
+													"title": "Nekutoki Forest",
+													"content":{ "type": "map", "maps":["Nekutoki Forest"] }
+												},
+												{
+													"title": "EM ES Magma Cave",
+													"content":{ "type": "map", "maps":["EM ES Magma Cave"] }
 												}
 											]
 										}
@@ -292,11 +588,19 @@
 										"content":{ "type": "map", "maps":["Overview PC Continent"] }
 									},
 									{
-										"title": "Area Maps",
+										"title": "Dungeon Maps",
 										"content":{ "type": "tabbed", "tabs":[
+												{
+													"title": "Adaldik Forest",
+													"content":{ "type": "map", "maps":["Adaldik Forest"] }
+												},	
 												{
 													"title": "Pii Shii Game Factory",
 													"content":{ "type": "map", "maps":["Pii Shii Game Factory"] }
+												},
+												{
+													"title": "Do Temple",
+													"content":{ "type": "map", "maps":["Do Temple"] }
 												}
 											]
 										}
@@ -312,11 +616,27 @@
 										"content":{ "type": "map", "maps":["Overview Eden"] }
 									},
 									{
-										"title": "Area Maps",
+										"title": "Dungeon Maps",
 										"content":{ "type": "tabbed", "tabs":[
+												{
+													"title": "Magma Cave",
+													"content":{ "type": "map", "maps":["Magma Cave"] }
+												},
+												{
+													"title": "Graphic Pass",
+													"content":{ "type": "map", "maps":["Graphic Pass"] }
+												},
+												{
+													"title": "Extradimensional Space",
+													"content":{ "type": "map", "maps":["Extradimensional Space"] }
+												},
 												{
 													"title": "Duo R Ruins",
 													"content":{ "type": "map", "maps":["Duo R Ruins"] }
+												},
+												{
+													"title": "Koagura Plateau",
+													"content":{ "type": "map", "maps":["Koagura Plateau"] }
 												}
 											]
 										}
@@ -332,11 +652,19 @@
 										"content":{ "type": "map", "maps":["Overview Hello Continent"] }
 									},
 									{
-										"title": "Area Maps",
+										"title": "Dungeon Maps",
 										"content":{ "type": "tabbed", "tabs":[
+												{
+													"title": "Suaho Mountain Range",
+													"content":{ "type": "map", "maps":["Suaho Mountain Range"] }
+												},
 												{
 													"title": "Keraga Dimension",
 													"content":{ "type": "map", "maps":["Keraga Dimension"] }
+												},
+												{
+													"title": "So Shal Forest",
+													"content":{ "type": "map", "maps":["So Shal Forest"] }
 												}
 											]
 										}

@@ -86,8 +86,8 @@
             "item_margin": "2,2",
             "item_size": 32,
             "rows": [
-                ["dungeonunlockloweecastleexterior", "dungeonunlockreloadgrasslands"],
-                ["dungeonunlockrudarmssewers", "dungeonunlockcastlechambers"],
+                ["dungeonunlockcastlechambers", "dungeonunlockloweecastleexterior"],
+                ["dungeonunlockreloadgrasslands", "dungeonunlockrudarmssewers"],
                 ["dungeonunlockmines", "dungeonunlocklujiplateau"],
                 ["dungeonunlockmetroidshelter", "dungeonunlockarioplateau"],
                 ["dungeonunlockloweecastlenorthernspace"]

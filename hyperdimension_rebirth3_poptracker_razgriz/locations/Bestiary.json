@@ -429,19 +429,19 @@
                     },
                     {
                         "name": "Custom Bit",
-                        "access_rules": ["dungeonunlockkuzaratfacility1,[$canAccessKuzaratFacility2]"],
+                        "access_rules": ["dungeonunlockkuzaratfacility1,[$canAccessBandicrash]"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "R-4",
-                        "access_rules": ["dungeonunlockkuzaratfacility1,[$canAccessKuzaratFacility2]"],
+                        "access_rules": ["dungeonunlockkuzaratfacility1,[$canAccessBandicrash]"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "R4i-SDHC",
-                        "access_rules": ["dungeonunlockkuzaratfacility1,[$canAccessKuzaratFacility2]"],
+                        "access_rules": ["dungeonunlockkuzaratfacility1,[$canAccessBandicrash]"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -453,13 +453,13 @@
                     },
                     {
                         "name": "Support Bit",
-                        "access_rules": ["dungeonunlockloweecastlenorthernspace,[$canAccessLoweeCastleSouthernSpace]"],
+                        "access_rules": ["dungeonunlockloweecastlenorthernspace,[$canAccessLoweeCastleNorthernSpace]"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Hyakushiki Weapon",
-                        "access_rules": ["dungeonunlockloweecastlenorthernspace,[$canAccessLoweeCastleSouthernSpace]"],
+                        "access_rules": ["dungeonunlockloweecastlenorthernspace,[$canAccessLoweeCastleNorthernSpace]"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -888,7 +888,7 @@
                     },
                     {
                         "name": "Plom-met",
-                        "access_rules": ["dungeonunlockmetroidshelter,[$canAccessMetroidShelterDepths]"],
+                        "access_rules": ["dungeonunlockmetroidshelter,[$canAccessMetroidShelter]"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -969,13 +969,13 @@
                     },
                     {
                         "name": "Crystal Golem",
-                        "access_rules": ["dungeonunlockwandererscave,[$canAccessKuzaratFacility2]"],
+                        "access_rules": ["dungeonunlockwandererscave,[$canAccessBandicrash]"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Viral Crystal Golem",
-                        "access_rules": ["dungeonunlockwandererscave,[$canAccessKuzaratFacility2]"],
+                        "access_rules": ["dungeonunlockwandererscave,[$canAccessBandicrash]"],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -1013,14 +1013,14 @@
                     },
                     {
                         "name": "Healing Dogoo",
-                        "access_rules": ["dungeonunlockkuzaratfacility1,[$canAccessKuzaratFacility2]",
+                        "access_rules": ["dungeonunlockkuzaratfacility1,[$canAccessBandicrash]",
                                         "dungeonunlocksoniwetlands,[$canAccessSoniWetlands]"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Magical Dogoo",
-                        "access_rules": ["dungeonunlockloweecastlenorthernspace,[$canAccessLoweeCastleSouthernSpace]"],
+                        "access_rules": ["dungeonunlockloweecastlenorthernspace,[$canAccessLoweeCastleNorthernSpace]"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -1063,7 +1063,7 @@
                     },
                     {
                         "name": "Heal Dogoo",
-                        "access_rules": ["dungeonunlockwandererscave,[$canAccessKuzaratFacility2]"],
+                        "access_rules": ["dungeonunlockwandererscave,[$canAccessBandicrash]"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -1290,7 +1290,7 @@
                     },
                     {
                         "name": "Ice Skeleton",
-                        "access_rules": ["dungeonunlockwandererscave,[$canAccessKuzaratFacility2]"],
+                        "access_rules": ["dungeonunlockwandererscave,[$canAccessBandicrash]"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -1412,13 +1412,13 @@
                     },
                     {
                         "name": "Dolphin",
-                        "access_rules": ["dungeonunlockwandererscave,[$canAccessKuzaratFacility2]"],
+                        "access_rules": ["dungeonunlockwandererscave,[$canAccessBandicrash]"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Frog-in-the-box",
-                        "access_rules": ["dungeonunlockwandererscave,[$canAccessKuzaratFacility2]"],
+                        "access_rules": ["dungeonunlockwandererscave,[$canAccessBandicrash]"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -1486,13 +1486,13 @@
                     },
                     {
                         "name": "Lowee Elite Guard",
-                        "access_rules": ["dungeonunlockloweecastlenorthernspace,[$canAccessLoweeCastleSouthernSpace]"],
+                        "access_rules": ["dungeonunlockloweecastlenorthernspace,[$canAccessLoweeCastleNorthernSpace]"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Lowee Magical Soldier",
-                        "access_rules": ["dungeonunlockloweecastlenorthernspace,[$canAccessLoweeCastleSouthernSpace]"],
+                        "access_rules": ["dungeonunlockloweecastlenorthernspace,[$canAccessLoweeCastleNorthernSpace]"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -1955,7 +1955,7 @@
                     },
                     {
                         "name": "Poxvader",
-                        "access_rules": ["dungeonunlockkuzaratfacility1,[$canAccessKuzaratFacility2]"],
+                        "access_rules": ["dungeonunlockkuzaratfacility1,[$canAccessBandicrash]"],
                         "visibility_rules": [],
                         "item_count": 1
                     },

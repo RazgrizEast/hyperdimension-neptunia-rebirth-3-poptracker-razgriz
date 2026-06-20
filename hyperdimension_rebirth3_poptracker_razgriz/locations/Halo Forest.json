@@ -1,0 +1,252 @@
+[
+    {
+        "name": "Halo Forest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Halo Forest Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Halo Forest - Gather 1",
+                        "ref": "Leanbox/Halo Forest/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Halo Forest",
+                    "x": 231,
+                    "y": 396,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Halo Forest Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Halo Forest - Gather 2",
+                        "ref": "Leanbox/Halo Forest/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Halo Forest",
+                    "x": 224,
+                    "y": 230,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Halo Forest Gather 3 and 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Halo Forest - Gather 3",
+                        "ref": "Leanbox/Halo Forest/Gather 3"
+                    },
+                    {
+                        "name": "Halo Forest - Gather 4",
+                        "ref": "Leanbox/Halo Forest/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Halo Forest",
+                    "x": 31,
+                    "y": 222,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Halo Forest Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Halo Forest - Gather 5",
+                        "ref": "Leanbox/Halo Forest/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Halo Forest",
+                    "x": 95,
+                    "y": 114,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Halo Forest Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Halo Forest - Treasure 1",
+                        "ref": "Leanbox/Halo Forest/Treasure 1"
+                    },
+                    {
+                        "name": "Halo Forest - Treasure 2",
+                        "ref": "Leanbox/Halo Forest/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Halo Forest",
+                    "x": 227,
+                    "y": 344,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Halo Forest Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Halo Forest - Treasure 3",
+                        "ref": "Leanbox/Halo Forest/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Halo Forest",
+                    "x": 204,
+                    "y": 182,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Halo Forest Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Halo Forest - Treasure 4",
+                        "ref": "Leanbox/Halo Forest/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Halo Forest",
+                    "x": 127,
+                    "y": 176,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Halo Forest Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Halo Forest - Treasure 5",
+                        "ref": "Leanbox/Halo Forest/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Halo Forest",
+                    "x": 77,
+                    "y": 190,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Halo Forest Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Moulin Rouge",
+                        "ref": "Bestiary/Plant/Moulin Rouge"
+                    },
+                    {
+                        "name": "Rukh",
+                        "ref": "Bestiary/Avian/Rukh"
+                    },
+                    {
+                        "name": "Viral Rukh",
+                        "ref": "Bestiary/Avian/Viral Rukh"
+                    },
+                    {
+                        "name": "Tarantula",
+                        "ref": "Bestiary/Insect/Tarantula"
+                    },
+                    {
+                        "name": "Wolf",
+                        "ref": "Bestiary/Beast/Wolf"
+                    },
+                    {
+                        "name": "Viral Wolf",
+                        "ref": "Bestiary/Beast/Viral Wolf"
+                    },
+                    {
+                        "name": "Phoenix",
+                        "ref": "Bestiary/Avian/Phoenix"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Halo Forest",
+                        "x": 83,
+                        "y": 434,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,248 @@
+[
+    {
+        "name": "Vida Dimension",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Vida Dimension Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Vida Dimension - Gather 1",
+                        "ref": "Lastation/Vida Dimension/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Vida Dimension",
+                    "x": 147,
+                    "y": 390,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Vida Dimension Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Vida Dimension - Gather 2",
+                        "ref": "Lastation/Vida Dimension/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Vida Dimension",
+                    "x": 225,
+                    "y": 189,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Vida Dimension Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Vida Dimension - Gather 3",
+                        "ref": "Lastation/Vida Dimension/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Vida Dimension",
+                    "x": 272,
+                    "y": 51,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Vida Dimension Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Vida Dimension - Gather 4",
+                        "ref": "Lastation/Vida Dimension/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Vida Dimension",
+                    "x": 321,
+                    "y": 320,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Vida Dimension Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Vida Dimension - Gather 5",
+                        "ref": "Lastation/Vida Dimension/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Vida Dimension",
+                    "x": 377,
+                    "y": 380,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Vida Dimension Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Vida Dimension - Treasure 1",
+                        "ref": "Lastation/Vida Dimension/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Vida Dimension",
+                    "x": 146,
+                    "y": 214,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Vida Dimension Treasure 2, 3, and 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Vida Dimension - Treasure 2",
+                        "ref": "Lastation/Vida Dimension/Treasure 2"
+                    },
+                    {
+                        "name": "Vida Dimension - Treasure 3",
+                        "ref": "Lastation/Vida Dimension/Treasure 3"
+                    },
+                    {
+                        "name": "Vida Dimension - Treasure 4",
+                        "ref": "Lastation/Vida Dimension/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Vida Dimension",
+                    "x": 219,
+                    "y": 14,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Vida Dimension Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Vida Dimension - Treasure 5",
+                        "ref": "Lastation/Vida Dimension/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Vida Dimension",
+                    "x": 335,
+                    "y": 209,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Vida Dimension Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "King Boxbird",
+                        "ref": "Bestiary/Avian/King Boxbird"
+                    },
+                    {
+                        "name": "Autonomous Artillery",
+                        "ref": "Bestiary/Machine/Autonomous Artillery"
+                    },
+                    {
+                        "name": "Alfred",
+                        "ref": "Bestiary/Plant/Alfred"
+                    },
+                    {
+                        "name": "Cyberfly",
+                        "ref": "Bestiary/Insect/Cyberfly"
+                    },
+                    {
+                        "name": "Viral Cyberfly",
+                        "ref": "Bestiary/Insect/Viral Cyberfly"
+                    },
+                    {
+                        "name": "Militant Prototype",
+                        "ref": "Bestiary/Machine/Militant Prototype"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Vida Dimension",
+                        "x": 298,
+                        "y": 423,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

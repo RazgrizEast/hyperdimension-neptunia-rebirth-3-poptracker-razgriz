@@ -1,0 +1,321 @@
+[
+    {
+        "name": "Kobaba Ruins",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Kobaba Ruins Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kobaba Ruins - Gather 1",
+                        "ref": "Leanbox/Kobaba Ruins/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kobaba Ruins",
+                    "x": 136,
+                    "y": 364,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kobaba Ruins Gather 2 and 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kobaba Ruins - Gather 2",
+                        "ref": "Leanbox/Kobaba Ruins/Gather 2"
+                    },
+                    {
+                        "name": "Kobaba Ruins - Gather 3",
+                        "ref": "Leanbox/Kobaba Ruins/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kobaba Ruins",
+                    "x": 140,
+                    "y": 230,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kobaba Ruins Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kobaba Ruins - Gather 4",
+                        "ref": "Leanbox/Kobaba Ruins/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kobaba Ruins",
+                    "x": 120,
+                    "y": 300,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kobaba Ruins Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kobaba Ruins - Gather 5",
+                        "ref": "Leanbox/Kobaba Ruins/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kobaba Ruins",
+                    "x": 63,
+                    "y": 316,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kobaba Ruins Gather 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kobaba Ruins - Gather 6",
+                        "ref": "Leanbox/Kobaba Ruins/Gather 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kobaba Ruins",
+                    "x": 113,
+                    "y": 24,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kobaba Ruins Gather 7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kobaba Ruins - Gather 7",
+                        "ref": "Leanbox/Kobaba Ruins/Gather 7"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kobaba Ruins",
+                    "x": 242,
+                    "y": 58,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kobaba Ruins Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kobaba Ruins - Treasure 1",
+                        "ref": "Leanbox/Kobaba Ruins/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kobaba Ruins",
+                    "x": 196,
+                    "y": 373,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kobaba Ruins Treasure 2, 3, and 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kobaba Ruins - Treasure 2",
+                        "ref": "Leanbox/Kobaba Ruins/Treasure 2"
+                    },
+                    {
+                        "name": "Kobaba Ruins - Treasure 3",
+                        "ref": "Leanbox/Kobaba Ruins/Treasure 3"
+                    },
+                    {
+                        "name": "Kobaba Ruins - Treasure 4",
+                        "ref": "Leanbox/Kobaba Ruins/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kobaba Ruins",
+                    "x": 187,
+                    "y": 252,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kobaba Ruins Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kobaba Ruins - Treasure 5",
+                        "ref": "Leanbox/Kobaba Ruins/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kobaba Ruins",
+                    "x": 33,
+                    "y": 458,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kobaba Ruins Treasure 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kobaba Ruins - Treasure 6",
+                        "ref": "Leanbox/Kobaba Ruins/Treasure 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kobaba Ruins",
+                    "x": 102,
+                    "y": 232,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kobaba Ruins Treasure 7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kobaba Ruins - Treasure 7",
+                        "ref": "Leanbox/Kobaba Ruins/Treasure 7"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kobaba Ruins",
+                    "x": 127,
+                    "y": 53,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kobaba Ruins Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Leanbox Soldier",
+                        "ref": "Bestiary/Humanoid/Leanbox Soldier"
+                    },
+                    {
+                        "name": "Crack Tail",
+                        "ref": "Bestiary/Plant/Crack Tail"
+                    },
+                    {
+                        "name": "Missile Golem",
+                        "ref": "Bestiary/Inorganic/Missile Golem"
+                    },
+                    {
+                        "name": "Viral Missile Golem",
+                        "ref": "Bestiary/Inorganic/Viral Missile Golem"
+                    },
+                    {
+                        "name": "Strange Person",
+                        "ref": "Bestiary/Data/Strange Person"
+                    },
+                    {
+                        "name": "Forest Crab",
+                        "ref": "Bestiary/Aquatic/Forest Crab"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kobaba Ruins",
+                        "x": 255,
+                        "y": 189,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

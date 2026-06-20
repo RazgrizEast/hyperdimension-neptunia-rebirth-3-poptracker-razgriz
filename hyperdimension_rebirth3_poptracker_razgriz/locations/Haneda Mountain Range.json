@@ -1,0 +1,483 @@
+[
+    {
+        "name": "Haneda Mountain Range",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Haneda Mountain Range Gather 1 and 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Haneda Mountain Range - Gather 1",
+                        "ref": "Planeptune/Haneda Mountain Range/Gather 1"
+                    },
+                    {
+                        "name": "Haneda Mountain Range - Gather 2",
+                        "ref": "Planeptune/Haneda Mountain Range/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Haneda Mountain Range",
+                    "x": 210,
+                    "y": 407,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Haneda Mountain Range Gather 3 and 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Haneda Mountain Range - Gather 3",
+                        "ref": "Planeptune/Haneda Mountain Range/Gather 3"
+                    },
+                    {
+                        "name": "Haneda Mountain Range - Gather 4",
+                        "ref": "Planeptune/Haneda Mountain Range/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Haneda Mountain Range",
+                    "x": 133,
+                    "y": 327,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Haneda Mountain Range Gather 5 and 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Haneda Mountain Range - Gather 5",
+                        "ref": "Planeptune/Haneda Mountain Range/Gather 5"
+                    },
+                    {
+                        "name": "Haneda Mountain Range - Gather 6",
+                        "ref": "Planeptune/Haneda Mountain Range/Gather 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Haneda Mountain Range",
+                    "x": 6,
+                    "y": 165,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Haneda Mountain Range Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Haneda Mountain Range - Treasure 1",
+                        "ref": "Planeptune/Haneda Mountain Range/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Haneda Mountain Range",
+                    "x": 148,
+                    "y": 402,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Haneda Mountain Range Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Haneda Mountain Range - Treasure 2",
+                        "ref": "Planeptune/Haneda Mountain Range/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Haneda Mountain Range",
+                    "x": 176,
+                    "y": 246,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Haneda Mountain Range Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Haneda Mountain Range - Treasure 3",
+                        "ref": "Planeptune/Haneda Mountain Range/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Haneda Mountain Range",
+                    "x": 39,
+                    "y": 280,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Haneda Mountain Range Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Haneda Mountain Range - Treasure 4",
+                        "ref": "Planeptune/Haneda Mountain Range/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Haneda Mountain Range",
+                    "x": 30,
+                    "y": 248,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Haneda Mountain Range Treasure 5, 6, and 7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Haneda Mountain Range - Treasure 5",
+                        "ref": "Planeptune/Haneda Mountain Range/Treasure 5"
+                    },
+                    {
+                        "name": "Haneda Mountain Range - Treasure 6",
+                        "ref": "Planeptune/Haneda Mountain Range/Treasure 6"
+                    },
+                    {
+                        "name": "Haneda Mountain Range - Treasure 7",
+                        "ref": "Planeptune/Haneda Mountain Range/Treasure 7"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Haneda Mountain Range",
+                    "x": 168,
+                    "y": 119,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Haneda Mountain Peak Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Haneda Mountain Peak - Gather 1",
+                        "ref": "Planeptune/Haneda Mountain Peak/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Haneda Mountain Range",
+                    "x": 340,
+                    "y": 474,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Haneda Mountain Peak Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Haneda Mountain Peak - Gather 2",
+                        "ref": "Planeptune/Haneda Mountain Peak/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Haneda Mountain Range",
+                    "x": 339,
+                    "y": 300,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Haneda Mountain Peak Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Haneda Mountain Peak - Gather 3",
+                        "ref": "Planeptune/Haneda Mountain Peak/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Haneda Mountain Range",
+                    "x": 448,
+                    "y": 392,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Haneda Mountain Peak Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Haneda Mountain Peak - Gather 4",
+                        "ref": "Planeptune/Haneda Mountain Peak/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Haneda Mountain Range",
+                    "x": 305,
+                    "y": 285,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Haneda Mountain Peak Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Haneda Mountain Peak - Gather 5",
+                        "ref": "Planeptune/Haneda Mountain Peak/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Haneda Mountain Range",
+                    "x": 344,
+                    "y": 114,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Haneda Mountain Peak Treasure 1 and 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Haneda Mountain Peak - Treasure 1",
+                        "ref": "Planeptune/Haneda Mountain Peak/Treasure 1"
+                    },
+                    {
+                        "name": "Haneda Mountain Peak - Treasure 2",
+                        "ref": "Planeptune/Haneda Mountain Peak/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Haneda Mountain Range",
+                    "x": 319,
+                    "y": 383,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Haneda Mountain Peak Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Haneda Mountain Peak - Treasure 3",
+                        "ref": "Planeptune/Haneda Mountain Peak/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Haneda Mountain Range",
+                    "x": 465,
+                    "y": 329,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Haneda Mountain Peak Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Haneda Mountain Peak - Treasure 4",
+                        "ref": "Planeptune/Haneda Mountain Peak/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Haneda Mountain Range",
+                    "x": 305,
+                    "y": 214,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Haneda Mountain Peak Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Haneda Mountain Peak - Treasure 5",
+                        "ref": "Planeptune/Haneda Mountain Peak/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Haneda Mountain Range",
+                    "x": 342,
+                    "y": 90,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Haneda Mountain Range Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Carroteer",
+                        "ref": "Bestiary/Plant/Carroteer"
+                    },
+                    {
+                        "name": "High Heal Dogoo",
+                        "ref": "Bestiary/Dogoo/High Heal Dogoo"
+                    },
+                    {
+                        "name": "Horsebird CAW",
+                        "ref": "Bestiary/Avian/Horsebird CAW"
+                    },
+                    {
+                        "name": "Wild Dog",
+                        "ref": "Bestiary/Beast/Wild Dog"
+                    },
+                    {
+                        "name": "Viral Wild Dog",
+                        "ref": "Bestiary/Beast/Viral Wild Dog"
+                    },
+                    {
+                        "name": "Fenrir Wolf",
+                        "ref": "Bestiary/Beast/Fenrir Wolf"
+                    },
+                    {
+                        "name": "Meow",
+                        "ref": "Bestiary/Beast/Meow"
+                    },
+                    {
+                        "name": "Dragon Warrior",
+                        "ref": "Bestiary/Dragon/Dragon Warrior"
+                    },
+                    {
+                        "name": "Viral Dragon Warrior",
+                        "ref": "Bestiary/Dragon/Viral Dragon Warrior"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Haneda Mountain Range",
+                        "x": 86,
+                        "y": 47,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

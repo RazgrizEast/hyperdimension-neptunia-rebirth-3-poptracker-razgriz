@@ -1,0 +1,271 @@
+[
+    {
+        "name": "Luji Plateau",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Luji Plateau Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Luji Plateau - Gather 1",
+                        "ref": "Lowee/Luji Plateau/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Luji Plateau",
+                    "x": 75,
+                    "y": 400,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Luji Plateau Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Luji Plateau - Gather 2",
+                        "ref": "Lowee/Luji Plateau/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Luji Plateau",
+                    "x": 283,
+                    "y": 420,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Luji Plateau Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Luji Plateau - Gather 3",
+                        "ref": "Lowee/Luji Plateau/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Luji Plateau",
+                    "x": 233,
+                    "y": 285,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Luji Plateau Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Luji Plateau - Gather 4",
+                        "ref": "Lowee/Luji Plateau/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Luji Plateau",
+                    "x": 341,
+                    "y": 148,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Luji Plateau Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Luji Plateau - Gather 5",
+                        "ref": "Lowee/Luji Plateau/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Luji Plateau",
+                    "x": 410,
+                    "y": 30,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Luji Plateau Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Luji Plateau - Treasure 1",
+                        "ref": "Lowee/Luji Plateau/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Luji Plateau",
+                    "x": 120,
+                    "y": 304,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Luji Plateau Treasure 2 and 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Luji Plateau - Treasure 2",
+                        "ref": "Lowee/Luji Plateau/Treasure 2"
+                    },
+                    {
+                        "name": "Luji Plateau - Treasure 3",
+                        "ref": "Lowee/Luji Plateau/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Luji Plateau",
+                    "x": 100,
+                    "y": 343,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Luji Plateau Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Luji Plateau - Treasure 4",
+                        "ref": "Lowee/Luji Plateau/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Luji Plateau",
+                    "x": 281,
+                    "y": 325,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Luji Plateau Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Luji Plateau - Treasure 5",
+                        "ref": "Lowee/Luji Plateau/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Luji Plateau",
+                    "x": 356,
+                    "y": 107,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Luji Plateau Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Coyote",
+                        "ref": "Bestiary/Beast/Coyote"
+                    },
+                    {
+                        "name": "Viral Coyote",
+                        "ref": "Bestiary/Beast/Viral Coyote"
+                    },
+                    {
+                        "name": "Wood Skeleton",
+                        "ref": "Bestiary/Ghost/Wood Skeleton"
+                    },
+                    {
+                        "name": "Death Stalker",
+                        "ref": "Bestiary/Dragon/Death Stalker"
+                    },
+                    {
+                        "name": "Viral Death Stalker",
+                        "ref": "Bestiary/Dragon/Viral Death Stalker"
+                    },
+                    {
+                        "name": "Hachibei",
+                        "ref": "Bestiary/Ghost/Hachibei"
+                    },
+                    {
+                        "name": "1000-Year Turtle",
+                        "ref": "Bestiary/Aquatic/1000-Year Turtle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Luji Plateau",
+                        "x": 253,
+                        "y": 72,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

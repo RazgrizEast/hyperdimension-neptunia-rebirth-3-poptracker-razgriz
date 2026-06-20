@@ -1,0 +1,286 @@
+[
+    {
+        "name": "Rud Arms Sewer S",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Rud Arms Sewer S Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rud Arms Sewer S - Gather 1",
+                        "ref": "Lowee/Rud Arms Sewer S./Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Rud Arms Sewer S",
+                    "x": 415,
+                    "y": 337,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Rud Arms Sewer S Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rud Arms Sewer S - Gather 2",
+                        "ref": "Lowee/Rud Arms Sewer S./Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Rud Arms Sewer S",
+                    "x": 368,
+                    "y": 409,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Rud Arms Sewer S Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rud Arms Sewer S - Gather 3",
+                        "ref": "Lowee/Rud Arms Sewer S./Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Rud Arms Sewer S",
+                    "x": 291,
+                    "y": 271,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Rud Arms Sewer S Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rud Arms Sewer S - Gather 4",
+                        "ref": "Lowee/Rud Arms Sewer S./Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Rud Arms Sewer S",
+                    "x": 262,
+                    "y": 338,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Rud Arms Sewer S Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rud Arms Sewer S - Gather 5",
+                        "ref": "Lowee/Rud Arms Sewer S./Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Rud Arms Sewer S",
+                    "x": 217,
+                    "y": 424,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Rud Arms Sewer S Gather 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rud Arms Sewer S - Gather 6",
+                        "ref": "Lowee/Rud Arms Sewer S./Gather 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Rud Arms Sewer S",
+                    "x": 106,
+                    "y": 406,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Rud Arms Sewer S Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rud Arms Sewer S - Treasure 1",
+                        "ref": "Lowee/Rud Arms Sewer S./Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Rud Arms Sewer S",
+                    "x": 347,
+                    "y": 327,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Rud Arms Sewer S Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rud Arms Sewer S - Treasure 2",
+                        "ref": "Lowee/Rud Arms Sewer S./Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Rud Arms Sewer S",
+                    "x": 157,
+                    "y": 398,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Rud Arms Sewer S Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rud Arms Sewer S - Treasure 3",
+                        "ref": "Lowee/Rud Arms Sewer S./Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Rud Arms Sewer S",
+                    "x": 134,
+                    "y": 81,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Rud Arms Sewer S Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rud Arms Sewer S - Treasure 4",
+                        "ref": "Lowee/Rud Arms Sewer S./Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Rud Arms Sewer S",
+                    "x": 21,
+                    "y": 34,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Rud Arms Sewer S Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Cold Boy",
+                        "ref": "Bestiary/Ghost/Cold Boy"
+                    },
+                    {
+                        "name": "Cold Girl",
+                        "ref": "Bestiary/Ghost/Cold Girl"
+                    },
+                    {
+                        "name": "Magic Stone",
+                        "ref": "Bestiary/Inorganic/Magic Stone"
+                    },
+                    {
+                        "name": "Ice Golem",
+                        "ref": "Bestiary/Inorganic/Ice Golem"
+                    },
+                    {
+                        "name": "Viral Ice Golem",
+                        "ref": "Bestiary/Inorganic/Viral Ice Golem"
+                    },
+                    {
+                        "name": "Elemental Dragon",
+                        "ref": "Bestiary/Dragon/Elemental Dragon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rud Arms Sewer S",
+                        "x": 351,
+                        "y": 80,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

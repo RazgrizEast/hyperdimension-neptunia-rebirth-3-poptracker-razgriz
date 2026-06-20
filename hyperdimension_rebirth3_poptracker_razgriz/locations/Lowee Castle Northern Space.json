@@ -1,0 +1,536 @@
+[
+    {
+        "name": "Lowee Castle Northern Space",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Lowee Castle Northern Space Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Northern Space - Gather 1",
+                        "ref": "Lowee/Lowee Castle Northern Space/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Northern Space",
+                    "x": 481,
+                    "y": 400,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Northern Space Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Northern Space - Gather 2",
+                        "ref": "Lowee/Lowee Castle Northern Space/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Northern Space",
+                    "x": 467,
+                    "y": 357,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Northern Space Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Northern Space - Gather 3",
+                        "ref": "Lowee/Lowee Castle Northern Space/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Northern Space",
+                    "x": 447,
+                    "y": 292,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Northern Space Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Northern Space - Gather 4",
+                        "ref": "Lowee/Lowee Castle Northern Space/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Northern Space",
+                    "x": 489,
+                    "y": 218,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Northern Space Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Northern Space - Gather 5",
+                        "ref": "Lowee/Lowee Castle Northern Space/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Northern Space",
+                    "x": 502,
+                    "y": 128,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Northern Space Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Northern Space - Treasure 1",
+                        "ref": "Lowee/Lowee Castle Northern Space/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Northern Space",
+                    "x": 23,
+                    "y": 300,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Northern Space Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Northern Space - Treasure 2",
+                        "ref": "Lowee/Lowee Castle Northern Space/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Northern Space",
+                    "x": 268,
+                    "y": 375,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Northern Space Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Northern Space - Treasure 3",
+                        "ref": "Lowee/Lowee Castle Northern Space/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Northern Space",
+                    "x": 106,
+                    "y": 20,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Northern Space Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Northern Space - Treasure 4",
+                        "ref": "Lowee/Lowee Castle Northern Space/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Northern Space",
+                    "x": 413,
+                    "y": 156,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Northern Space Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Northern Space - Treasure 5",
+                        "ref": "Lowee/Lowee Castle Northern Space/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Northern Space",
+                    "x": 521,
+                    "y": 487,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Southern Space Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Southern Space - Gather 1",
+                        "ref": "Lowee/Lowee Castle Southern Space/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Northern Space",
+                    "x": 869,
+                    "y": 100,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Southern Space Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Southern Space - Gather 2",
+                        "ref": "Lowee/Lowee Castle Southern Space/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Northern Space",
+                    "x": 850,
+                    "y": 177,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Southern Space Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Southern Space - Gather 3",
+                        "ref": "Lowee/Lowee Castle Southern Space/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Northern Space",
+                    "x": 895,
+                    "y": 162,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Southern Space Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Southern Space - Gather 4",
+                        "ref": "Lowee/Lowee Castle Southern Space/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Northern Space",
+                    "x": 709,
+                    "y": 202,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Southern Space Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Southern Space - Gather 5",
+                        "ref": "Lowee/Lowee Castle Southern Space/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Northern Space",
+                    "x": 740,
+                    "y": 49,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Southern Space Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Southern Space - Treasure 1",
+                        "ref": "Lowee/Lowee Castle Southern Space/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Northern Space",
+                    "x": 910,
+                    "y": 80,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Southern Space Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Southern Space - Treasure 2",
+                        "ref": "Lowee/Lowee Castle Southern Space/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Northern Space",
+                    "x": 876,
+                    "y": 485,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Southern Space Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Southern Space - Treasure 3",
+                        "ref": "Lowee/Lowee Castle Southern Space/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Northern Space",
+                    "x": 735,
+                    "y": 485,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Southern Space Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Southern Space - Treasure 4",
+                        "ref": "Lowee/Lowee Castle Southern Space/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Northern Space",
+                    "x": 885,
+                    "y": 236,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Southern Space Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Southern Space - Treasure 5",
+                        "ref": "Lowee/Lowee Castle Southern Space/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Northern Space",
+                    "x": 694,
+                    "y": 68,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Northern Space Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Support Bit",
+                        "ref": "Bestiary/Machine/Support Bit"
+                    },
+                    {
+                        "name": "Lowee Elite Guard",
+                        "ref": "Bestiary/Humanoid/Lowee Elite Guard"
+                    },
+                    {
+                        "name": "Magical Dogoo",
+                        "ref": "Bestiary/Dogoo/Magical Dogoo"
+                    },
+                    {
+                        "name": "Lowee Magical Soldier",
+                        "ref": "Bestiary/Humanoid/Lowee Magical Soldier"
+                    },
+                    {
+                        "name": "Hyakushiki Weapon",
+                        "ref": "Bestiary/Machine/Hyakushiki Weapon"
+                    },
+                    {
+                        "name": "Auto-Surveillance",
+                        "ref": "Bestiary/Machine/Auto-Surveillance"
+                    },
+                    {
+                        "name": "Lost Girl",
+                        "ref": "Bestiary/Ghost/Lost Girl"
+                    },
+                    {
+                        "name": "Lost Boy",
+                        "ref": "Bestiary/Ghost/Lost Boy"
+                    },
+                    {
+                        "name": "Ruins Guardian",
+                        "ref": "Bestiary/Inorganic/Ruins Guardian"
+                    },
+                    {
+                        "name": "Viral Ruins Guardian",
+                        "ref": "Bestiary/Inorganic/Viral Ruins Guardian"
+                    },
+                    {
+                        "name": "Ruins Dragon",
+                        "ref": "Bestiary/Dragon/Ruins Dragon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lowee Castle Northern Space",
+                        "x": 167,
+                        "y": 410,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

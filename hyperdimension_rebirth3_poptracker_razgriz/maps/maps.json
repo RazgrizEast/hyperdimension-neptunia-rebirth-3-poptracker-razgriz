@@ -102,13 +102,13 @@
         "img": "images/maps/otoriforest.png"
     },
     {
-        "name": "Zeca Ruins No. 1",
+        "name": "Zeca Ruins No 1",
         "location_size": 24,
         "location_border_thickness": 2,
         "img": "images/maps/zecaruinsno1.png"
     },
     {
-        "name": "Zeca Ruins No. 2",
+        "name": "Zeca Ruins No 2",
         "location_size": 24,
         "location_border_thickness": 2,
         "img": "images/maps/zecaruinsno2.png"

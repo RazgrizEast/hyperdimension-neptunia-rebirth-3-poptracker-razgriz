@@ -1,0 +1,275 @@
+[
+    {
+        "name": "Koagura Plateau",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Koagura Plateau Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Koagura Plateau - Gather 1",
+                        "ref": "Eden/Koagura Plateau/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Koagura Plateau",
+                    "x": 62,
+                    "y": 378,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Koagura Plateau Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Koagura Plateau - Gather 2",
+                        "ref": "Eden/Koagura Plateau/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Koagura Plateau",
+                    "x": 279,
+                    "y": 419,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Koagura Plateau Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Koagura Plateau - Gather 3",
+                        "ref": "Eden/Koagura Plateau/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Koagura Plateau",
+                    "x": 227,
+                    "y": 330,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Koagura Plateau Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Koagura Plateau - Gather 4",
+                        "ref": "Eden/Koagura Plateau/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Koagura Plateau",
+                    "x": 335,
+                    "y": 148,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Koagura Plateau Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Koagura Plateau - Gather 5",
+                        "ref": "Eden/Koagura Plateau/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Koagura Plateau",
+                    "x": 407,
+                    "y": 31,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Koagura Plateau Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Koagura Plateau - Treasure 1",
+                        "ref": "Eden/Koagura Plateau/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Koagura Plateau",
+                    "x": 115,
+                    "y": 300,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Koagura Plateau Treasure 2 and 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Koagura Plateau - Treasure 2",
+                        "ref": "Eden/Koagura Plateau/Treasure 2"
+                    },
+                    {
+                        "name": "Koagura Plateau - Treasure 3",
+                        "ref": "Eden/Koagura Plateau/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Koagura Plateau",
+                    "x": 93,
+                    "y": 345,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Koagura Plateau Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Koagura Plateau - Treasure 4",
+                        "ref": "Eden/Koagura Plateau/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Koagura Plateau",
+                    "x": 278,
+                    "y": 327,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Koagura Plateau Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Koagura Plateau - Treasure 5",
+                        "ref": "Eden/Koagura Plateau/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Koagura Plateau",
+                    "x": 349,
+                    "y": 107,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Koagura Plateau Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Orange Flower",
+                        "ref": "Bestiary/Plant/Orange Flower"
+                    },
+                    {
+                        "name": "Flower Fairy",
+                        "ref": "Bestiary/Plant/Flower Fairy"
+                    },
+                    {
+                        "name": "Viral Flower Fairy",
+                        "ref": "Bestiary/Plant/Viral Flower Fairy"
+                    },
+                    {
+                        "name": "Gray Wolf",
+                        "ref": "Bestiary/Beast/Gray Wolf"
+                    },
+                    {
+                        "name": "Viral Gray Wolf",
+                        "ref": "Bestiary/Beast/Viral Gray Wolf"
+                    },
+                    {
+                        "name": "Gyps",
+                        "ref": "Bestiary/Avian/Gyps"
+                    },
+                    {
+                        "name": "Viral Eerie Bird",
+                        "ref": "Bestiary/Avian/Viral Eerie Bird"
+                    },
+                    {
+                        "name": "Cerberus 2",
+                        "ref": "Bestiary/Beast/Cerberus 2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Koagura Plateau",
+                        "x": 75,
+                        "y": 148,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

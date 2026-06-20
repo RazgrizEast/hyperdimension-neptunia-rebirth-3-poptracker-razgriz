@@ -1,0 +1,520 @@
+[
+    {
+        "name": "Virtua Forest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Virtua Forest Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest - Gather 1",
+                        "ref": "Hyperdimension/Virtua Forest/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest",
+                    "x": 297,
+                    "y": 409,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest - Gather 2",
+                        "ref": "Hyperdimension/Virtua Forest/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest",
+                    "x": 160,
+                    "y": 338,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest - Gather 3",
+                        "ref": "Hyperdimension/Virtua Forest/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest",
+                    "x": 259,
+                    "y": 192,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest - Gather 4",
+                        "ref": "Hyperdimension/Virtua Forest/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest",
+                    "x": 167,
+                    "y": 375,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest - Gather 5",
+                        "ref": "Hyperdimension/Virtua Forest/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest",
+                    "x": 388,
+                    "y": 239,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest - Treasure 1",
+                        "ref": "Hyperdimension/Virtua Forest/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest",
+                    "x": 245,
+                    "y": 398,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest - Treasure 2",
+                        "ref": "Hyperdimension/Virtua Forest/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest",
+                    "x": 400,
+                    "y": 300,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest - Treasure 3",
+                        "ref": "Hyperdimension/Virtua Forest/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest",
+                    "x": 52,
+                    "y": 222,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest - Treasure 4",
+                        "ref": "Hyperdimension/Virtua Forest/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest",
+                    "x": 150,
+                    "y": 432,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest - Treasure 5",
+                        "ref": "Hyperdimension/Virtua Forest/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest",
+                    "x": 246,
+                    "y": 89,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Depths Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest Depths - Gather 1",
+                        "ref": "Hyperdimension/Virtua Forest Depths/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest",
+                    "x": 540,
+                    "y": 410,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Depths Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest Depths - Gather 2",
+                        "ref": "Hyperdimension/Virtua Forest Depths/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest",
+                    "x": 655,
+                    "y": 298,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Depths Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest Depths - Gather 3",
+                        "ref": "Hyperdimension/Virtua Forest Depths/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest",
+                    "x": 695,
+                    "y": 160,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Depths Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest Depths - Gather 4",
+                        "ref": "Hyperdimension/Virtua Forest Depths/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest",
+                    "x": 524,
+                    "y": 323,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Depths Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest Depths - Gather 5",
+                        "ref": "Hyperdimension/Virtua Forest Depths/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest",
+                    "x": 668,
+                    "y": 121,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Depths Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest Depths - Treasure 1",
+                        "ref": "Hyperdimension/Virtua Forest Depths/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest",
+                    "x": 656,
+                    "y": 435,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Depths Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest Depths - Treasure 2",
+                        "ref": "Hyperdimension/Virtua Forest Depths/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest",
+                    "x": 512,
+                    "y": 243,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Depths Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest Depths - Treasure 3",
+                        "ref": "Hyperdimension/Virtua Forest Depths/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest",
+                    "x": 751,
+                    "y": 78,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Depths Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest Depths - Treasure 4",
+                        "ref": "Hyperdimension/Virtua Forest Depths/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest",
+                    "x": 639,
+                    "y": 162,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Depths Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Virtua Forest Depths - Treasure 5",
+                        "ref": "Hyperdimension/Virtua Forest Depths/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Virtua Forest",
+                    "x": 671,
+                    "y": 36,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Virtua Forest Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Invader",
+                        "ref": "Bestiary/Vader/Invader"
+                    },
+                    {
+                        "name": "Jellyfish Dogoo",
+                        "ref": "Bestiary/Dogoo/Jellyfish Dogoo"
+                    },
+                    {
+                        "name": "Forest Guardian",
+                        "ref": "Bestiary/Beast/Forest Guardian"
+                    },
+                    {
+                        "name": "Viral Forest Guardian",
+                        "ref": "Bestiary/Beast/Viral Forest Guardian"
+                    },
+                    {
+                        "name": "Sentientree",
+                        "ref": "Bestiary/Plant/Sentientree"
+                    },
+                    {
+                        "name": "Viral Sentientree",
+                        "ref": "Bestiary/Plant/Viral Sentientree"
+                    },
+                    {
+                        "name": "Forest Lord",
+                        "ref": "Bestiary/Beast/Forest Lord"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Virtua Forest",
+                        "x": 394,
+                        "y": 76,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

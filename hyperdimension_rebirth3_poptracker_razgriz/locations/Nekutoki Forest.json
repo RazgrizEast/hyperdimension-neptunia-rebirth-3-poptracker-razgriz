@@ -1,0 +1,248 @@
+[
+    {
+        "name": "Nekutoki Forest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Nekutoki Forest Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Nekutoki Forest - Gather 1",
+                        "ref": "Leanbox/Nekutoki Forest/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Nekutoki Forest",
+                    "x": 236,
+                    "y": 398,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Nekutoki Forest Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Nekutoki Forest - Gather 2",
+                        "ref": "Leanbox/Nekutoki Forest/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Nekutoki Forest",
+                    "x": 238,
+                    "y": 226,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Nekutoki Forest Gather 3 and 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Nekutoki Forest - Gather 3",
+                        "ref": "Leanbox/Nekutoki Forest/Gather 3"
+                    },
+                    {
+                        "name": "Nekutoki Forest - Gather 4",
+                        "ref": "Leanbox/Nekutoki Forest/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Nekutoki Forest",
+                    "x": 36,
+                    "y": 221,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Nekutoki Forest Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Nekutoki Forest - Gather 5",
+                        "ref": "Leanbox/Nekutoki Forest/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Nekutoki Forest",
+                    "x": 102,
+                    "y": 163,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Nekutoki Forest Treasure 1 and 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Nekutoki Forest - Treasure 1",
+                        "ref": "Leanbox/Nekutoki Forest/Treasure 1"
+                    },
+                    {
+                        "name": "Nekutoki Forest - Treasure 2",
+                        "ref": "Leanbox/Nekutoki Forest/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Nekutoki Forest",
+                    "x": 232,
+                    "y": 346,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Nekutoki Forest Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Nekutoki Forest - Treasure 3",
+                        "ref": "Leanbox/Nekutoki Forest/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Nekutoki Forest",
+                    "x": 210,
+                    "y": 186,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Nekutoki Forest Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Nekutoki Forest - Treasure 4",
+                        "ref": "Leanbox/Nekutoki Forest/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Nekutoki Forest",
+                    "x": 135,
+                    "y": 178,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Nekutoki Forest Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Nekutoki Forest - Treasure 5",
+                        "ref": "Leanbox/Nekutoki Forest/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Nekutoki Forest",
+                    "x": 80,
+                    "y": 197,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Nekutoki Forest Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Leanbox Soldier",
+                        "ref": "Bestiary/Humanoid/Leanbox Soldier"
+                    },
+                    {
+                        "name": "Crack Tail",
+                        "ref": "Bestiary/Plant/Crack Tail"
+                    },
+                    {
+                        "name": "Missile Golem",
+                        "ref": "Bestiary/Inorganic/Missile Golem"
+                    },
+                    {
+                        "name": "Viral Missile Golem",
+                        "ref": "Bestiary/Inorganic/Viral Missile Golem"
+                    },
+                    {
+                        "name": "Aimable",
+                        "ref": "Bestiary/Plant/Aimable"
+                    },
+                    {
+                        "name": "Forest Crab",
+                        "ref": "Bestiary/Aquatic/Forest Crab"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Nekutoki Forest",
+                        "x": 83,
+                        "y": 331,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

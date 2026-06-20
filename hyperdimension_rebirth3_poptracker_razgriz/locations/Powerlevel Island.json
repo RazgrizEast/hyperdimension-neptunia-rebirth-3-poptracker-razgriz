@@ -1,0 +1,551 @@
+[
+    {
+        "name": "Powerlevel Island",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Powerlevel Island Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Powerlevel Island - Gather 1",
+                        "ref": "Planeptune/Powerlevel Island/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Powerlevel Island",
+                    "x": 233,
+                    "y": 359,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Powerlevel Island Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Powerlevel Island - Gather 2",
+                        "ref": "Planeptune/Powerlevel Island/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Powerlevel Island",
+                    "x": 23,
+                    "y": 236,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Powerlevel Island Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Powerlevel Island - Gather 3",
+                        "ref": "Planeptune/Powerlevel Island/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Powerlevel Island",
+                    "x": 264,
+                    "y": 253,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Powerlevel Island Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Powerlevel Island - Gather 4",
+                        "ref": "Planeptune/Powerlevel Island/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Powerlevel Island",
+                    "x": 134,
+                    "y": 84,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Powerlevel Island Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Powerlevel Island - Gather 5",
+                        "ref": "Planeptune/Powerlevel Island/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Powerlevel Island",
+                    "x": 324,
+                    "y": 61,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Powerlevel Island Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Powerlevel Island - Treasure 1",
+                        "ref": "Planeptune/Powerlevel Island/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Powerlevel Island",
+                    "x": 200,
+                    "y": 329,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Powerlevel Island Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Powerlevel Island - Treasure 2",
+                        "ref": "Planeptune/Powerlevel Island/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Powerlevel Island",
+                    "x": 19,
+                    "y": 313,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Powerlevel Island Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Powerlevel Island - Treasure 3",
+                        "ref": "Planeptune/Powerlevel Island/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Powerlevel Island",
+                    "x": 261,
+                    "y": 195,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Powerlevel Island Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Powerlevel Island - Treasure 4",
+                        "ref": "Planeptune/Powerlevel Island/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Powerlevel Island",
+                    "x": 84,
+                    "y": 141,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Powerlevel Island Treasure 5 and 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Powerlevel Island - Treasure 5",
+                        "ref": "Planeptune/Powerlevel Island/Treasure 5"
+                    },
+                    {
+                        "name": "Powerlevel Island - Treasure 6",
+                        "ref": "Planeptune/Powerlevel Island/Treasure 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Powerlevel Island",
+                    "x": 321,
+                    "y": 309,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Powerlevel Island Interior Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Powerlevel Island Interior - Gather 1",
+                        "ref": "Planeptune/Powerlevel Island Interior/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Powerlevel Island",
+                    "x": 482,
+                    "y": 370,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Powerlevel Island Interior Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Powerlevel Island Interior - Gather 2",
+                        "ref": "Planeptune/Powerlevel Island Interior/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Powerlevel Island",
+                    "x": 553,
+                    "y": 90,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Powerlevel Island Interior Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Powerlevel Island Interior - Gather 3",
+                        "ref": "Planeptune/Powerlevel Island Interior/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Powerlevel Island",
+                    "x": 803,
+                    "y": 150,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Powerlevel Island Interior Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Powerlevel Island Interior - Gather 4",
+                        "ref": "Planeptune/Powerlevel Island Interior/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Powerlevel Island",
+                    "x": 688,
+                    "y": 301,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Powerlevel Island Interior Gather 5 and 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Powerlevel Island Interior - Gather 5",
+                        "ref": "Planeptune/Powerlevel Island Interior/Gather 5"
+                    },
+                    {
+                        "name": "Powerlevel Island Interior - Gather 6",
+                        "ref": "Planeptune/Powerlevel Island Interior/Gather 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Powerlevel Island",
+                    "x": 861,
+                    "y": 252,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Powerlevel Island Interior Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Powerlevel Island Interior - Treasure 1",
+                        "ref": "Planeptune/Powerlevel Island Interior/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Powerlevel Island",
+                    "x": 563,
+                    "y": 358,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Powerlevel Island Interior Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Powerlevel Island Interior - Treasure 2",
+                        "ref": "Planeptune/Powerlevel Island Interior/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Powerlevel Island",
+                    "x": 459,
+                    "y": 268,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Powerlevel Island Interior Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Powerlevel Island Interior - Treasure 3",
+                        "ref": "Planeptune/Powerlevel Island Interior/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Powerlevel Island",
+                    "x": 578,
+                    "y": 160,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Powerlevel Island Interior Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Powerlevel Island Interior - Treasure 4",
+                        "ref": "Planeptune/Powerlevel Island Interior/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Powerlevel Island",
+                    "x": 476,
+                    "y": 59,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Powerlevel Island Interior Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Powerlevel Island Interior - Treasure 5",
+                        "ref": "Planeptune/Powerlevel Island Interior/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Powerlevel Island",
+                    "x": 711,
+                    "y": 53,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Powerlevel Island Interior Treasure 6 and 7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Powerlevel Island Interior - Treasure 6",
+                        "ref": "Planeptune/Powerlevel Island Interior/Treasure 6"
+                    },
+                    {
+                        "name": "Powerlevel Island Interior - Treasure 7",
+                        "ref": "Planeptune/Powerlevel Island Interior/Treasure 7"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Powerlevel Island",
+                    "x": 685,
+                    "y": 336,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Powerlevel Island Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Penguin",
+                        "ref": "Bestiary/Aquatic/Penguin"
+                    },
+                    {
+                        "name": "Ms. Bashful",
+                        "ref": "Bestiary/Ghost/Ms. Bashful"
+                    },
+                    {
+                        "name": "Bashful",
+                        "ref": "Bestiary/Ghost/Bashful"
+                    },
+                    {
+                        "name": "Sea Golem",
+                        "ref": "Bestiary/Inorganic/Sea Golem"
+                    },
+                    {
+                        "name": "Viral Sea Golem",
+                        "ref": "Bestiary/Inorganic/Viral Sea Golem"
+                    },
+                    {
+                        "name": "Mega Turtle",
+                        "ref": "Bestiary/Aquatic/Mega Turtle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Powerlevel Island",
+                        "x": 374,
+                        "y": 429,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

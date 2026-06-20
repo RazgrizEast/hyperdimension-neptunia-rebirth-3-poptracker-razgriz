@@ -1,0 +1,520 @@
+[
+    {
+        "name": "Lowee Castle Exterior",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Lowee Castle Exterior Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Exterior - Gather 1",
+                        "ref": "Lowee/Lowee Castle Exterior/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Exterior",
+                    "x": 424,
+                    "y": 371,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Exterior Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Exterior - Gather 2",
+                        "ref": "Lowee/Lowee Castle Exterior/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Exterior",
+                    "x": 480,
+                    "y": 418,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Exterior Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Exterior - Gather 3",
+                        "ref": "Lowee/Lowee Castle Exterior/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Exterior",
+                    "x": 433,
+                    "y": 290,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Exterior Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Exterior - Gather 4",
+                        "ref": "Lowee/Lowee Castle Exterior/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Exterior",
+                    "x": 454,
+                    "y": 203,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Exterior Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Exterior - Gather 5",
+                        "ref": "Lowee/Lowee Castle Exterior/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Exterior",
+                    "x": 476,
+                    "y": 122,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Exterior Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Exterior - Treasure 1",
+                        "ref": "Lowee/Lowee Castle Exterior/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Exterior",
+                    "x": 17,
+                    "y": 294,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Exterior Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Exterior - Treasure 2",
+                        "ref": "Lowee/Lowee Castle Exterior/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Exterior",
+                    "x": 256,
+                    "y": 371,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Exterior Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Exterior - Treasure 3",
+                        "ref": "Lowee/Lowee Castle Exterior/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Exterior",
+                    "x": 90,
+                    "y": 17,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Exterior Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Exterior - Treasure 4",
+                        "ref": "Lowee/Lowee Castle Exterior/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Exterior",
+                    "x": 403,
+                    "y": 146,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Exterior Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Exterior - Treasure 5",
+                        "ref": "Lowee/Lowee Castle Exterior/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Exterior",
+                    "x": 500,
+                    "y": 483,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Interior Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Interior - Gather 1",
+                        "ref": "Lowee/Lowee Castle Interior/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Exterior",
+                    "x": 845,
+                    "y": 96,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Interior Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Interior - Gather 2",
+                        "ref": "Lowee/Lowee Castle Interior/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Exterior",
+                    "x": 825,
+                    "y": 175,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Interior Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Interior - Gather 3",
+                        "ref": "Lowee/Lowee Castle Interior/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Exterior",
+                    "x": 870,
+                    "y": 160,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Interior Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Interior - Gather 4",
+                        "ref": "Lowee/Lowee Castle Interior/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Exterior",
+                    "x": 681,
+                    "y": 201,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Interior Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Interior - Gather 5",
+                        "ref": "Lowee/Lowee Castle Interior/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Exterior",
+                    "x": 712,
+                    "y": 45,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Interior Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Interior - Treasure 1",
+                        "ref": "Lowee/Lowee Castle Interior/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Exterior",
+                    "x": 884,
+                    "y": 77,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Interior Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Interior - Treasure 2",
+                        "ref": "Lowee/Lowee Castle Interior/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Exterior",
+                    "x": 849,
+                    "y": 489,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Interior Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Interior - Treasure 3",
+                        "ref": "Lowee/Lowee Castle Interior/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Exterior",
+                    "x": 712,
+                    "y": 491,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Interior Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Interior - Treasure 4",
+                        "ref": "Lowee/Lowee Castle Interior/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Exterior",
+                    "x": 855,
+                    "y": 233,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Interior Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lowee Castle Interior - Treasure 5",
+                        "ref": "Lowee/Lowee Castle Interior/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Lowee Castle Exterior",
+                    "x": 666,
+                    "y": 66,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Lowee Castle Exterior Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "High Bit",
+                        "ref": "Bestiary/Machine/High Bit"
+                    },
+                    {
+                        "name": "Lowee Defense Guard",
+                        "ref": "Bestiary/Humanoid/Lowee Defense Guard"
+                    },
+                    {
+                        "name": "Child Wolf",
+                        "ref": "Bestiary/Beast/Child Wolf"
+                    },
+                    {
+                        "name": "Viral Child Wolf",
+                        "ref": "Bestiary/Beast/Viral Child Wolf"
+                    },
+                    {
+                        "name": "Skeleton",
+                        "ref": "Bestiary/Ghost/Skeleton"
+                    },
+                    {
+                        "name": "Fenrir",
+                        "ref": "Bestiary/Beast/Fenrir"
+                    },
+                    {
+                        "name": "Strange Person",
+                        "ref": "Bestiary/Data/Strange Person"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lowee Castle Exterior",
+                        "x": 159,
+                        "y": 422,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

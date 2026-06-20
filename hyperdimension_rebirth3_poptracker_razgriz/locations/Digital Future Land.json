@@ -1,0 +1,432 @@
+[
+    {
+        "name": "Digital Future Land",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Digital Future Land Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Digital Future Land - Gather 1",
+                        "ref": "Planeptune/Digital Future Land/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Digital Future Land",
+                    "x": 282,
+                    "y": 15,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Digital Future Land Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Digital Future Land - Gather 2",
+                        "ref": "Planeptune/Digital Future Land/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Digital Future Land",
+                    "x": 189,
+                    "y": 232,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Digital Future Land Gather 3 and 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Digital Future Land - Gather 3",
+                        "ref": "Planeptune/Digital Future Land/Gather 3"
+                    },
+                    {
+                        "name": "Digital Future Land - Gather 4",
+                        "ref": "Planeptune/Digital Future Land/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Digital Future Land",
+                    "x": 285,
+                    "y": 359,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Digital Future Land Gather 5 and 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Digital Future Land - Gather 5",
+                        "ref": "Planeptune/Digital Future Land/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Digital Future Land",
+                    "x": 92,
+                    "y": 386,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Digital Future Land Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Digital Future Land - Treasure 1",
+                        "ref": "Planeptune/Digital Future Land/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Digital Future Land",
+                    "x": 231,
+                    "y": 66,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Digital Future Land Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Digital Future Land - Treasure 2",
+                        "ref": "Planeptune/Digital Future Land/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Digital Future Land",
+                    "x": 164,
+                    "y": 162,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Digital Future Land Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Digital Future Land - Treasure 3",
+                        "ref": "Planeptune/Digital Future Land/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Digital Future Land",
+                    "x": 277,
+                    "y": 431,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Digital Future Land Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Digital Future Land - Treasure 4",
+                        "ref": "Planeptune/Digital Future Land/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Digital Future Land",
+                    "x": 196,
+                    "y": 422,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Digital Future Land Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Digital Future Land - Treasure 5",
+                        "ref": "Planeptune/Digital Future Land/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Digital Future Land",
+                    "x": 153,
+                    "y": 486,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Digital Future Depths Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Digital Future Depths - Gather 1",
+                        "ref": "Planeptune/Digital Future Depths/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Digital Future Land",
+                    "x": 655,
+                    "y": 309,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Digital Future Depths Gather 2 and 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Digital Future Depths - Gather 2",
+                        "ref": "Planeptune/Digital Future Depths/Gather 2"
+                    },
+                    {
+                        "name": "Digital Future Depths - Gather 3",
+                        "ref": "Planeptune/Digital Future Depths/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Digital Future Land",
+                    "x": 723,
+                    "y": 205,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Digital Future Depths Gather 4 and 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Digital Future Depths - Gather 4",
+                        "ref": "Planeptune/Digital Future Depths/Gather 4"
+                    },
+                    {
+                        "name": "Digital Future Depths - Gather 5",
+                        "ref": "Planeptune/Digital Future Depths/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Digital Future Land",
+                    "x": 769,
+                    "y": 142,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Digital Future Depths Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Digital Future Depths - Treasure 1",
+                        "ref": "Planeptune/Digital Future Depths/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Digital Future Land",
+                    "x": 627,
+                    "y": 450,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Digital Future Depths Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Digital Future Depths - Treasure 2",
+                        "ref": "Planeptune/Digital Future Depths/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Digital Future Land",
+                    "x": 538,
+                    "y": 276,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Digital Future Depths Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Digital Future Depths - Treasure 3",
+                        "ref": "Planeptune/Digital Future Depths/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Digital Future Land",
+                    "x": 574,
+                    "y": 35,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Digital Future Depths Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Digital Future Depths - Treasure 4",
+                        "ref": "Planeptune/Digital Future Depths/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Digital Future Land",
+                    "x": 758,
+                    "y": 12,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Digital Future Land Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Shampuru Loner",
+                        "ref": "Bestiary/Beast/Shampuru Loner"
+                    },
+                    {
+                        "name": "Dokidoki Sister",
+                        "ref": "Bestiary/Data/Dokidoki Sister"
+                    },
+                    {
+                        "name": "NP-02v",
+                        "ref": "Bestiary/Machine/NP-02v"
+                    },
+                    {
+                        "name": "Bug Butterfly",
+                        "ref": "Bestiary/Insect/Bug Butterfly"
+                    },
+                    {
+                        "name": "Wolf Blaze",
+                        "ref": "Bestiary/Beast/Wolf Blaze"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Digital Future Land",
+                        "x": 500,
+                        "y": 428,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "name": "PS Dimension",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "PS Dimension Gather 1 and 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "PS Dimension - Gather 1",
+                        "ref": "Lastation/PS Dimension/Gather 1"
+                    },
+                    {
+                        "name": "PS Dimension - Gather 2",
+                        "ref": "Lastation/PS Dimension/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "PS Dimension",
+                    "x": 76,
+                    "y": 441,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "PS Dimension Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "PS Dimension - Gather 3",
+                        "ref": "Lastation/PS Dimension/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "PS Dimension",
+                    "x": 161,
+                    "y": 404,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "PS Dimension Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "PS Dimension - Gather 4",
+                        "ref": "Lastation/PS Dimension/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "PS Dimension",
+                    "x": 156,
+                    "y": 278,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "PS Dimension Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "PS Dimension - Gather 5",
+                        "ref": "Lastation/PS Dimension/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "PS Dimension",
+                    "x": 135,
+                    "y": 103,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "PS Dimension Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "PS Dimension - Treasure 1",
+                        "ref": "Lastation/PS Dimension/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "PS Dimension",
+                    "x": 40,
+                    "y": 361,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "PS Dimension Treasure 2 and 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "PS Dimension - Treasure 2",
+                        "ref": "Lastation/PS Dimension/Treasure 2"
+                    },
+                    {
+                        "name": "PS Dimension - Treasure 3",
+                        "ref": "Lastation/PS Dimension/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "PS Dimension",
+                    "x": 97,
+                    "y": 375,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "PS Dimension Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "PS Dimension - Treasure 4",
+                        "ref": "Lastation/PS Dimension/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "PS Dimension",
+                    "x": 88,
+                    "y": 282,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "PS Dimension Treasure 5 and 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "PS Dimension - Treasure 5",
+                        "ref": "Lastation/PS Dimension/Treasure 5"
+                    },
+                    {
+                        "name": "PS Dimension - Treasure 6",
+                        "ref": "Lastation/PS Dimension/Treasure 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "PS Dimension",
+                    "x": 58,
+                    "y": 14,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "PS Dimension Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Plam-met",
+                        "ref": "Bestiary/Inorganic/Plam-met"
+                    },
+                    {
+                        "name": "High Heal Dogoo",
+                        "ref": "Bestiary/Dogoo/High Heal Dogoo"
+                    },
+                    {
+                        "name": "Cuberial",
+                        "ref": "Bestiary/Ghost/Cuberial"
+                    },
+                    {
+                        "name": "Dragon Warrior",
+                        "ref": "Bestiary/Dragon/Dragon Warrior"
+                    },
+                    {
+                        "name": "Viral Dragon Warrior",
+                        "ref": "Bestiary/Dragon/Viral Dragon Warrior"
+                    },
+                    {
+                        "name": "Giant Dogoo",
+                        "ref": "Bestiary/Dogoo/Giant Dogoo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PS Dimension",
+                        "x": 182,
+                        "y": 62,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

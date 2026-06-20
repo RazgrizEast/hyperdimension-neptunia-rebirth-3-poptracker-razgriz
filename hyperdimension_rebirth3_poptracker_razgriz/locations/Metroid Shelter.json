@@ -1,0 +1,425 @@
+[
+    {
+        "name": "Metroid Shelter",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Metroid Shelter Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Metroid Shelter - Gather 1",
+                        "ref": "Lowee/Metroid Shelter/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Metroid Shelter",
+                    "x": 218,
+                    "y": 321,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Metroid Shelter Gather 2 and 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Metroid Shelter - Gather 2",
+                        "ref": "Lowee/Metroid Shelter/Gather 2"
+                    },
+                    {
+                        "name": "Metroid Shelter - Gather 3",
+                        "ref": "Lowee/Metroid Shelter/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Metroid Shelter",
+                    "x": 568,
+                    "y": 282,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Metroid Shelter Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Metroid Shelter - Gather 4",
+                        "ref": "Lowee/Metroid Shelter/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Metroid Shelter",
+                    "x": 334,
+                    "y": 216,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Metroid Shelter Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Metroid Shelter - Gather 5",
+                        "ref": "Lowee/Metroid Shelter/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Metroid Shelter",
+                    "x": 335,
+                    "y": 350,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Metroid Shelter Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Metroid Shelter - Treasure 1",
+                        "ref": "Lowee/Metroid Shelter/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Metroid Shelter",
+                    "x": 35,
+                    "y": 35,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Metroid Shelter Treasure 2 and 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Metroid Shelter - Treasure 2",
+                        "ref": "Lowee/Metroid Shelter/Treasure 2"
+                    },
+                    {
+                        "name": "Metroid Shelter - Treasure 4",
+                        "ref": "Lowee/Metroid Shelter/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Metroid Shelter",
+                    "x": 612,
+                    "y": 304,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Metroid Shelter Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Metroid Shelter - Treasure 3",
+                        "ref": "Lowee/Metroid Shelter/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Metroid Shelter",
+                    "x": 507,
+                    "y": 97,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Metroid Shelter Depths Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Metroid Shelter Depths - Gather 1",
+                        "ref": "Lowee/Metroid Shelter Depths/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Metroid Shelter",
+                    "x": 902,
+                    "y": 261,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Metroid Shelter Depths Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Metroid Shelter Depths - Gather 2",
+                        "ref": "Lowee/Metroid Shelter Depths/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Metroid Shelter",
+                    "x": 721,
+                    "y": 86,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Metroid Shelter Depths Gather 3, 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Metroid Shelter Depths - Gather 3",
+                        "ref": "Lowee/Metroid Shelter Depths/Gather 3"
+                    },
+                    {
+                        "name": "Metroid Shelter Depths - Gather 4",
+                        "ref": "Lowee/Metroid Shelter Depths/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Metroid Shelter",
+                    "x": 872,
+                    "y": 59,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Metroid Shelter Depths Gather 5, 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Metroid Shelter Depths - Gather 5",
+                        "ref": "Lowee/Metroid Shelter Depths/Gather 5"
+                    },
+                    {
+                        "name": "Metroid Shelter Depths - Gather 6",
+                        "ref": "Lowee/Metroid Shelter Depths/Gather 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Metroid Shelter",
+                    "x": 943,
+                    "y": 44,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Metroid Shelter Depths Gather 7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Metroid Shelter Depths - Gather 7",
+                        "ref": "Lowee/Metroid Shelter Depths/Gather 7"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Metroid Shelter",
+                    "x": 1112,
+                    "y": 153,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Metroid Shelter Depths Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Metroid Shelter Depths - Treasure 1",
+                        "ref": "Lowee/Metroid Shelter Depths/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Metroid Shelter",
+                    "x": 739,
+                    "y": 162,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Metroid Shelter Depths Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Metroid Shelter Depths - Treasure 2",
+                        "ref": "Lowee/Metroid Shelter Depths/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Metroid Shelter",
+                    "x": 917,
+                    "y": 73,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Metroid Shelter Depths Treasure 3, 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Metroid Shelter Depths - Treasure 3",
+                        "ref": "Lowee/Metroid Shelter Depths/Treasure 3"
+                    },
+                    {
+                        "name": "Metroid Shelter Depths - Treasure 4",
+                        "ref": "Lowee/Metroid Shelter Depths/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Metroid Shelter",
+                    "x": 888,
+                    "y": 170,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Metroid Shelter Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Blinky",
+                        "ref": "Bestiary/Ghost/Blinky"
+                    },
+                    {
+                        "name": "Ms. Blinky",
+                        "ref": "Bestiary/Ghost/Ms. Blinky"
+                    },
+                    {
+                        "name": "Magma Stone",
+                        "ref": "Bestiary/Inorganic/Magma Stone"
+                    },
+                    {
+                        "name": "Plom-met",
+                        "ref": "Bestiary/Inorganic/Plom-met"
+                    },
+                    {
+                        "name": "Flame Fenrir",
+                        "ref": "Bestiary/Beast/Flame Fenrir"
+                    },
+                    {
+                        "name": "Volcano Crab",
+                        "ref": "Bestiary/Aquatic/Volcano Crab"
+                    },
+                    {
+                        "name": "Viral Volcano Crab",
+                        "ref": "Bestiary/Aquatic/Viral Volcano Crab"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Metroid Shelter",
+                        "x": 284,
+                        "y": 102,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

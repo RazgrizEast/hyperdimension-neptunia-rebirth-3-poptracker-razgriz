@@ -1,0 +1,536 @@
+[
+    {
+        "name": "Anonydeath's Lab",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Anonydeath's Lab Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Anonydeath's Lab - Gather 1",
+                        "ref": "Lastation/Anonydeaths Lab/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Anonydeath's Lab",
+                    "x": 150,
+                    "y": 10,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Anonydeath's Lab Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Anonydeath's Lab - Gather 2",
+                        "ref": "Lastation/Anonydeaths Lab/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Anonydeath's Lab",
+                    "x": 461,
+                    "y": 180,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Anonydeath's Lab Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Anonydeath's Lab - Gather 3",
+                        "ref": "Lastation/Anonydeaths Lab/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Anonydeath's Lab",
+                    "x": 145,
+                    "y": 371,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Anonydeath's Lab Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Anonydeath's Lab - Gather 4",
+                        "ref": "Lastation/Anonydeaths Lab/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Anonydeath's Lab",
+                    "x": 824,
+                    "y": 21,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Anonydeath's Lab Gather 5 and 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Anonydeath's Lab - Gather 5",
+                        "ref": "Lastation/Anonydeaths Lab/Gather 5"
+                    },
+                    {
+                        "name": "Anonydeath's Lab - Gather 6",
+                        "ref": "Lastation/Anonydeaths Lab/Gather 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Anonydeath's Lab",
+                    "x": 531,
+                    "y": 255,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Anonydeath's Lab Gather 7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Anonydeath's Lab - Gather 7",
+                        "ref": "Lastation/Anonydeaths Lab/Gather 7"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Anonydeath's Lab",
+                    "x": 158,
+                    "y": 228,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Anonydeath's Lab Treasure 1 and 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Anonydeath's Lab - Treasure 1",
+                        "ref": "Lastation/Anonydeaths Lab/Treasure 1"
+                    },
+                    {
+                        "name": "Anonydeath's Lab - Treasure 2",
+                        "ref": "Lastation/Anonydeaths Lab/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Anonydeath's Lab",
+                    "x": 841,
+                    "y": 209,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Anonydeath's Lab Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Anonydeath's Lab - Treasure 3",
+                        "ref": "Lastation/Anonydeaths Lab/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Anonydeath's Lab",
+                    "x": 410,
+                    "y": 228,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Anonydeath's Lab Treasure 4 and 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Anonydeath's Lab - Treasure 4",
+                        "ref": "Lastation/Anonydeaths Lab/Treasure 4"
+                    },
+                    {
+                        "name": "Anonydeath's Lab - Treasure 5",
+                        "ref": "Lastation/Anonydeaths Lab/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Anonydeath's Lab",
+                    "x": 801,
+                    "y": 248,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Anonydeath's Lab Depths Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Anonydeath's Lab Depths - Gather 1",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Anonydeath's Lab",
+                    "x": 1242,
+                    "y": 140,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Anonydeath's Lab Depths Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Anonydeath's Lab Depths - Gather 2",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Anonydeath's Lab",
+                    "x": 1413,
+                    "y": 14,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Anonydeath's Lab Depths Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Anonydeath's Lab Depths - Gather 3",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Anonydeath's Lab",
+                    "x": 980,
+                    "y": 270,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Anonydeath's Lab Depths Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Anonydeath's Lab Depths - Gather 4",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Anonydeath's Lab",
+                    "x": 1359,
+                    "y": 384,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Anonydeath's Lab Depths Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Anonydeath's Lab Depths - Gather 5",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Anonydeath's Lab",
+                    "x": 1358,
+                    "y": 480,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Anonydeath's Lab Depths Gather 6 and 7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Anonydeath's Lab Depths - Gather 6",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Gather 6"
+                    },
+                    {
+                        "name": "Anonydeath's Lab Depths - Gather 7",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Gather 7"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Anonydeath's Lab",
+                    "x": 1482,
+                    "y": 368,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Anonydeath's Lab Depths Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Anonydeath's Lab Depths - Treasure 1",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Anonydeath's Lab",
+                    "x": 1374,
+                    "y": 180,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Anonydeath's Lab Depths Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Anonydeath's Lab Depths - Treasure 2",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Anonydeath's Lab",
+                    "x": 1100,
+                    "y": 205,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Anonydeath's Lab Depths Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Anonydeath's Lab Depths - Treasure 3",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Anonydeath's Lab",
+                    "x": 1335,
+                    "y": 441,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Anonydeath's Lab Depths Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Anonydeath's Lab Depths - Treasure 4",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Anonydeath's Lab",
+                    "x": 1621,
+                    "y": 289,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Anonydeath's Lab Depths Treasure 5 and 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Anonydeath's Lab Depths - Treasure 5",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Treasure 5"
+                    },
+                    {
+                        "name": "Anonydeath's Lab Depths - Treasure 6",
+                        "ref": "Lastation/Anonydeaths Lab Depths/Treasure 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Anonydeath's Lab",
+                    "x": 1611,
+                    "y": 355,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Anonydeath's Lab Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Blue Sun",
+                        "ref": "Bestiary/Plant/Blue Sun"
+                    },
+                    {
+                        "name": "Ganglord Panther",
+                        "ref": "Bestiary/Beast/Ganglord Panther"
+                    },
+                    {
+                        "name": "EDGE",
+                        "ref": "Bestiary/Machine/EDGE"
+                    },
+                    {
+                        "name": "Panzer",
+                        "ref": "Bestiary/Machine/Panzer"
+                    },
+                    {
+                        "name": "Next-gen Bit",
+                        "ref": "Bestiary/Machine/Next-gen Bit"
+                    },
+                    {
+                        "name": "Bundodo Old Man",
+                        "ref": "Bestiary/Data/Bundodo Old Man"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Anonydeath's Lab",
+                        "x": 567,
+                        "y": 431,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

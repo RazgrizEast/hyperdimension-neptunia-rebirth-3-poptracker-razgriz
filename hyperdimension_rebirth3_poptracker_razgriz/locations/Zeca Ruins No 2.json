@@ -1,0 +1,248 @@
+[
+    {
+        "name": "Zeca Ruins No 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Zeca Ruins No 2 Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Zeca Ruins No 2 - Gather 1",
+                        "ref": "Planeptune/Zeca Ruins No.2/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Zeca Ruins No 2",
+                    "x": 242,
+                    "y": 343,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Zeca Ruins No 2 Gather 2 and 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Zeca Ruins No 2 - Gather 2",
+                        "ref": "Planeptune/Zeca Ruins No.2/Gather 2"
+                    },
+                    {
+                        "name": "Zeca Ruins No 2 - Gather 3",
+                        "ref": "Planeptune/Zeca Ruins No.2/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Zeca Ruins No 2",
+                    "x": 283,
+                    "y": 126,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Zeca Ruins No 2 Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Zeca Ruins No 2 - Gather 4",
+                        "ref": "Planeptune/Zeca Ruins No.2/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Zeca Ruins No 2",
+                    "x": 38,
+                    "y": 263,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Zeca Ruins No 2 Gather 5 and 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Zeca Ruins No 2 - Gather 5",
+                        "ref": "Planeptune/Zeca Ruins No.2/Gather 5"
+                    },
+                    {
+                        "name": "Zeca Ruins No 2 - Gather 6",
+                        "ref": "Planeptune/Zeca Ruins No.2/Gather 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Zeca Ruins No 2",
+                    "x": 338,
+                    "y": 66,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Zeca Ruins No 2 Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Zeca Ruins No 2 - Treasure 1",
+                        "ref": "Planeptune/Zeca Ruins No.2/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Zeca Ruins No 2",
+                    "x": 256,
+                    "y": 379,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Zeca Ruins No 2 Treasure 2 and 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Zeca Ruins No 2 - Treasure 2",
+                        "ref": "Planeptune/Zeca Ruins No.2/Treasure 2"
+                    },
+                    {
+                        "name": "Zeca Ruins No 2 - Treasure 3",
+                        "ref": "Planeptune/Zeca Ruins No.2/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Zeca Ruins No 2",
+                    "x": 193,
+                    "y": 376,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Zeca Ruins No 2 Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Zeca Ruins No 2 - Treasure 4",
+                        "ref": "Planeptune/Zeca Ruins No.2/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Zeca Ruins No 2",
+                    "x": 96,
+                    "y": 147,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Zeca Ruins No 2 Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Zeca Ruins No 2 - Treasure 5",
+                        "ref": "Planeptune/Zeca Ruins No.2/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Zeca Ruins No 2",
+                    "x": 74,
+                    "y": 38,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Zeca Ruins No 2 Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Normal Shampuru",
+                        "ref": "Bestiary/Beast/Normal Shampuru"
+                    },
+                    {
+                        "name": "Magical Shampuru",
+                        "ref": "Bestiary/Beast/Magical Shampuru"
+                    },
+                    {
+                        "name": "Buff Shampuru",
+                        "ref": "Bestiary/Beast/Buff Shampuru"
+                    },
+                    {
+                        "name": "Metal Dogoo",
+                        "ref": "Bestiary/Dogoo/Metal Dogoo"
+                    },
+                    {
+                        "name": "Dangerous Shampuru",
+                        "ref": "Bestiary/Beast/Dangerous Shampuru"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Zeca Ruins No 2",
+                        "x": 205,
+                        "y": 109,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

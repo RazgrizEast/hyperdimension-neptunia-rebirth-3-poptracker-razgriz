@@ -1,0 +1,240 @@
+[
+    {
+        "name": "Pii Shii Game Factory",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Pii Shii Game Factory Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pii Shii Game Factory - Gather 1",
+                        "ref": "PC Continent/Pii Shii Game Factory/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Pii Shii Game Factory",
+                    "x": 272,
+                    "y": 120,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Pii Shii Game Factory Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pii Shii Game Factory - Gather 2",
+                        "ref": "PC Continent/Pii Shii Game Factory/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Pii Shii Game Factory",
+                    "x": 199,
+                    "y": 189,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Pii Shii Game Factory Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pii Shii Game Factory - Gather 3",
+                        "ref": "PC Continent/Pii Shii Game Factory/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Pii Shii Game Factory",
+                    "x": 511,
+                    "y": 256,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Pii Shii Game Factory Gather 4 and 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pii Shii Game Factory - Gather 4",
+                        "ref": "PC Continent/Pii Shii Game Factory/Gather 4"
+                    },
+                    {
+                        "name": "Pii Shii Game Factory - Gather 5",
+                        "ref": "PC Continent/Pii Shii Game Factory/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Pii Shii Game Factory",
+                    "x": 813,
+                    "y": 193,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Pii Shii Game Factory Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pii Shii Game Factory - Treasure 1",
+                        "ref": "PC Continent/Pii Shii Game Factory/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Pii Shii Game Factory",
+                    "x": 657,
+                    "y": 219,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Pii Shii Game Factory Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pii Shii Game Factory - Treasure 2",
+                        "ref": "PC Continent/Pii Shii Game Factory/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Pii Shii Game Factory",
+                    "x": 822,
+                    "y": 66,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Pii Shii Game Factory Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pii Shii Game Factory - Treasure 3",
+                        "ref": "PC Continent/Pii Shii Game Factory/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Pii Shii Game Factory",
+                    "x": 437,
+                    "y": 362,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Pii Shii Game Factory Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pii Shii Game Factory - Treasure 4",
+                        "ref": "PC Continent/Pii Shii Game Factory/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Pii Shii Game Factory",
+                    "x": 580,
+                    "y": 59,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Pii Shii Game Factory Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Tom",
+                        "ref": "Bestiary/Beast/Tom"
+                    },
+                    {
+                        "name": "Demon Spider",
+                        "ref": "Bestiary/Insect/Demon Spider"
+                    },
+                    {
+                        "name": "A2-i",
+                        "ref": "Bestiary/Machine/A2-i"
+                    },
+                    {
+                        "name": "Queen Spider",
+                        "ref": "Bestiary/Insect/Queen Spider"
+                    },
+                    {
+                        "name": "Tank Type-99",
+                        "ref": "Bestiary/Machine/Tank Type-99"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pii Shii Game Factory",
+                        "x": 87,
+                        "y": 215,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

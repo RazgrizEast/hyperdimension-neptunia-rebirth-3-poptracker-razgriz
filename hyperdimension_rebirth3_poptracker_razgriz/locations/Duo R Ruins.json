@@ -1,0 +1,298 @@
+[
+    {
+        "name": "Duo R Ruins",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Duo R Ruins Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Duo R Ruins - Gather 1",
+                        "ref": "Eden/Duo R Ruins/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Duo R Ruins",
+                    "x": 134,
+                    "y": 374,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Duo R Ruins Gather 2 and 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Duo R Ruins - Gather 2",
+                        "ref": "Eden/Duo R Ruins/Gather 2"
+                    },
+                    {
+                        "name": "Duo R Ruins - Gather 3",
+                        "ref": "Eden/Duo R Ruins/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Duo R Ruins",
+                    "x": 153,
+                    "y": 237,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Duo R Ruins Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Duo R Ruins - Gather 4",
+                        "ref": "Eden/Duo R Ruins/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Duo R Ruins",
+                    "x": 119,
+                    "y": 286,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Duo R Ruins Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Duo R Ruins - Gather 5",
+                        "ref": "Eden/Duo R Ruins/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Duo R Ruins",
+                    "x": 65,
+                    "y": 315,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Duo R Ruins Gather 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Duo R Ruins - Gather 6",
+                        "ref": "Eden/Duo R Ruins/Gather 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Duo R Ruins",
+                    "x": 88,
+                    "y": 7,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Duo R Ruins Gather 7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Duo R Ruins - Gather 7",
+                        "ref": "Eden/Duo R Ruins/Gather 7"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Duo R Ruins",
+                    "x": 289,
+                    "y": 58,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Duo R Ruins Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Duo R Ruins - Treasure 1",
+                        "ref": "Eden/Duo R Ruins/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Duo R Ruins",
+                    "x": 197,
+                    "y": 374,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Duo R Ruins Treasure 2, 3, and 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Duo R Ruins - Treasure 2",
+                        "ref": "Eden/Duo R Ruins/Treasure 2"
+                    },
+                    {
+                        "name": "Duo R Ruins - Treasure 3",
+                        "ref": "Eden/Duo R Ruins/Treasure 3"
+                    },
+                    {
+                        "name": "Duo R Ruins - Treasure 4",
+                        "ref": "Eden/Duo R Ruins/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Duo R Ruins",
+                    "x": 185,
+                    "y": 254,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Duo R Ruins Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Duo R Ruins - Treasure 5",
+                        "ref": "Eden/Duo R Ruins/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Duo R Ruins",
+                    "x": 36,
+                    "y": 458,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Duo R Ruins Treasure 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Duo R Ruins - Treasure 6",
+                        "ref": "Eden/Duo R Ruins/Treasure 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Duo R Ruins",
+                    "x": 103,
+                    "y": 231,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Duo R Ruins Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Boxer Cat",
+                        "ref": "Bestiary/Beast/Boxer Cat"
+                    },
+                    {
+                        "name": "Skull",
+                        "ref": "Bestiary/Ghost/Skull"
+                    },
+                    {
+                        "name": "Modded DSTT",
+                        "ref": "Bestiary/Machine/Modded DSTT"
+                    },
+                    {
+                        "name": "Something Tree",
+                        "ref": "Bestiary/Plant/Something Tree"
+                    },
+                    {
+                        "name": "Viral Something Tree",
+                        "ref": "Bestiary/Plant/Viral Something Tree"
+                    },
+                    {
+                        "name": "Vanargandr",
+                        "ref": "Bestiary/Beast/Vanargandr"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Duo R Ruins",
+                        "x": 250,
+                        "y": 126,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

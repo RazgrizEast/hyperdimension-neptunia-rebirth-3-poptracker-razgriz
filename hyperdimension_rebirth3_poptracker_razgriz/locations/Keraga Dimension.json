@@ -1,0 +1,244 @@
+[
+    {
+        "name": "Keraga Dimension",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Keraga Dimension Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Keraga Dimension - Gather 1",
+                        "ref": "Hello Continent/Keraga Dimension/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Keraga Dimension",
+                    "x": 129,
+                    "y": 391,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Keraga Dimension Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Keraga Dimension - Gather 2",
+                        "ref": "Hello Continent/Keraga Dimension/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Keraga Dimension",
+                    "x": 213,
+                    "y": 186,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Keraga Dimension Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Keraga Dimension - Gather 3",
+                        "ref": "Hello Continent/Keraga Dimension/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Keraga Dimension",
+                    "x": 254,
+                    "y": 60,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Keraga Dimension Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Keraga Dimension - Gather 4",
+                        "ref": "Hello Continent/Keraga Dimension/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Keraga Dimension",
+                    "x": 308,
+                    "y": 322,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Keraga Dimension Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Keraga Dimension - Gather 5",
+                        "ref": "Hello Continent/Keraga Dimension/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Keraga Dimension",
+                    "x": 365,
+                    "y": 383,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Keraga Dimension Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Keraga Dimension - Treasure 1",
+                        "ref": "Hello Continent/Keraga Dimension/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Keraga Dimension",
+                    "x": 133,
+                    "y": 213,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Keraga Dimension Treasure 2, 3, and 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Keraga Dimension - Treasure 2",
+                        "ref": "Hello Continent/Keraga Dimension/Treasure 2"
+                    },
+                    {
+                        "name": "Keraga Dimension - Treasure 3",
+                        "ref": "Hello Continent/Keraga Dimension/Treasure 3"
+                    },
+                    {
+                        "name": "Keraga Dimension - Treasure 4",
+                        "ref": "Hello Continent/Keraga Dimension/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Keraga Dimension",
+                    "x": 207,
+                    "y": 15,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Keraga Dimension Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Keraga Dimension - Treasure 5",
+                        "ref": "Hello Continent/Keraga Dimension/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Keraga Dimension",
+                    "x": 323,
+                    "y": 211,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Keraga Dimension Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mega Spider",
+                        "ref": "Bestiary/Insect/Mega Spider"
+                    },
+                    {
+                        "name": "EDGE",
+                        "ref": "Bestiary/Machine/EDGE"
+                    },
+                    {
+                        "name": "Next-gen Bit",
+                        "ref": "Bestiary/Machine/Next-gen Bit"
+                    },
+                    {
+                        "name": "Bundodo Old Man",
+                        "ref": "Bestiary/Data/Bundodo Old Man"
+                    },
+                    {
+                        "name": "Cyber Dolphin",
+                        "ref": "Bestiary/Aquatic/Cyber Dolphin"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Keraga Dimension",
+                        "x": 424,
+                        "y": 76,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

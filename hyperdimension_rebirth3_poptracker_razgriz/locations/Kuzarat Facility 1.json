@@ -1,0 +1,540 @@
+[
+    {
+        "name": "Kuzarat Facility 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Kuzarat Facility 1 Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kuzarat Facility 1 - Gather 1",
+                        "ref": "Lastation/Kuzarat Facility 1/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kuzarat Facility 1",
+                    "x": 159,
+                    "y": 20,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kuzarat Facility 1 Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kuzarat Facility 1 - Gather 2",
+                        "ref": "Lastation/Kuzarat Facility 1/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kuzarat Facility 1",
+                    "x": 463,
+                    "y": 194,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kuzarat Facility 1 Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kuzarat Facility 1 - Gather 3",
+                        "ref": "Lastation/Kuzarat Facility 1/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kuzarat Facility 1",
+                    "x": 130,
+                    "y": 383,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kuzarat Facility 1 Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kuzarat Facility 1 - Gather 4",
+                        "ref": "Lastation/Kuzarat Facility 1/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kuzarat Facility 1",
+                    "x": 836,
+                    "y": 24,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kuzarat Facility 1 Gather 5 and 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kuzarat Facility 1 - Gather 5",
+                        "ref": "Lastation/Kuzarat Facility 1/Gather 5"
+                    },
+                    {
+                        "name": "Kuzarat Facility 1 - Gather 6",
+                        "ref": "Lastation/Kuzarat Facility 1/Gather 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kuzarat Facility 1",
+                    "x": 537,
+                    "y": 258,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kuzarat Facility 1 Gather 7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kuzarat Facility 1 - Gather 7",
+                        "ref": "Lastation/Kuzarat Facility 1/Gather 7"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kuzarat Facility 1",
+                    "x": 138,
+                    "y": 233,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kuzarat Facility 1 Treasure 1 and 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kuzarat Facility 1 - Treasure 1",
+                        "ref": "Lastation/Kuzarat Facility 1/Treasure 1"
+                    },
+                    {
+                        "name": "Kuzarat Facility 1 - Treasure 2",
+                        "ref": "Lastation/Kuzarat Facility 1/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kuzarat Facility 1",
+                    "x": 844,
+                    "y": 216,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kuzarat Facility 1 Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kuzarat Facility 1 - Treasure 3",
+                        "ref": "Lastation/Kuzarat Facility 1/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kuzarat Facility 1",
+                    "x": 412,
+                    "y": 237,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kuzarat Facility 1 Treasure 4 and 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kuzarat Facility 1 - Treasure 4",
+                        "ref": "Lastation/Kuzarat Facility 1/Treasure 4"
+                    },
+                    {
+                        "name": "Kuzarat Facility 1 - Treasure 5",
+                        "ref": "Lastation/Kuzarat Facility 1/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kuzarat Facility 1",
+                    "x": 807,
+                    "y": 256,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kuzarat Facility 2 Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kuzarat Facility 2 - Gather 1",
+                        "ref": "Lastation/Kuzarat Facility 2/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kuzarat Facility 1",
+                    "x": 1258,
+                    "y": 155,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kuzarat Facility 2 Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kuzarat Facility 2 - Gather 2",
+                        "ref": "Lastation/Kuzarat Facility 2/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kuzarat Facility 1",
+                    "x": 1496,
+                    "y": 15,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kuzarat Facility 2 Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kuzarat Facility 2 - Gather 3",
+                        "ref": "Lastation/Kuzarat Facility 2/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kuzarat Facility 1",
+                    "x": 987,
+                    "y": 271,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kuzarat Facility 2 Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kuzarat Facility 2 - Gather 4",
+                        "ref": "Lastation/Kuzarat Facility 2/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kuzarat Facility 1",
+                    "x": 1384,
+                    "y": 387,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kuzarat Facility 2 Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kuzarat Facility 2 - Gather 5",
+                        "ref": "Lastation/Kuzarat Facility 2/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kuzarat Facility 1",
+                    "x": 1391,
+                    "y": 481,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kuzarat Facility 2 Gather 6 and 7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kuzarat Facility 2 - Gather 6",
+                        "ref": "Lastation/Kuzarat Facility 2/Gather 6"
+                    },
+                    {
+                        "name": "Kuzarat Facility 2 - Gather 7",
+                        "ref": "Lastation/Kuzarat Facility 2/Gather 7"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kuzarat Facility 1",
+                    "x": 1496,
+                    "y": 373,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kuzarat Facility 2 Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kuzarat Facility 2 - Treasure 1",
+                        "ref": "Lastation/Kuzarat Facility 2/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kuzarat Facility 1",
+                    "x": 1390,
+                    "y": 180,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kuzarat Facility 2 Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kuzarat Facility 2 - Treasure 2",
+                        "ref": "Lastation/Kuzarat Facility 2/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kuzarat Facility 1",
+                    "x": 1114,
+                    "y": 203,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kuzarat Facility 2 Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kuzarat Facility 2 - Treasure 3",
+                        "ref": "Lastation/Kuzarat Facility 2/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kuzarat Facility 1",
+                    "x": 1350,
+                    "y": 444,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kuzarat Facility 2 Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kuzarat Facility 2 - Treasure 4",
+                        "ref": "Lastation/Kuzarat Facility 2/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kuzarat Facility 1",
+                    "x": 1632,
+                    "y": 286,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kuzarat Facility 2 Treasure 5 and 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Kuzarat Facility 2 - Treasure 5",
+                        "ref": "Lastation/Kuzarat Facility 2/Treasure 5"
+                    },
+                    {
+                        "name": "Kuzarat Facility 2 - Treasure 6",
+                        "ref": "Lastation/Kuzarat Facility 2/Treasure 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Kuzarat Facility 1",
+                    "x": 1625,
+                    "y": 364,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Kuzarat Facility 1 Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Poxvader",
+                        "ref": "Bestiary/Vader/Poxvader"
+                    },
+                    {
+                        "name": "Custom Bit",
+                        "ref": "Bestiary/Machine/Custom Bit"
+                    },
+                    {
+                        "name": "Healing Dogoo",
+                        "ref": "Bestiary/Dogoo/Healing Dogoo"
+                    },
+                    {
+                        "name": "R-4",
+                        "ref": "Bestiary/Machine/R-4"
+                    },
+                    {
+                        "name": "R4i-SDHC",
+                        "ref": "Bestiary/Machine/R4i-SDHC"
+                    },
+                    {
+                        "name": "Matango",
+                        "ref": "Bestiary/Plant/Matango"
+                    },
+                    {
+                        "name": "Created Soldier",
+                        "ref": "Bestiary/Humanoid/Created Soldier"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kuzarat Facility 1",
+                        "x": 411,
+                        "y": 457,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

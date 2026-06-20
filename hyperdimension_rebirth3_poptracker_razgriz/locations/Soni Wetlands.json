@@ -1,0 +1,294 @@
+[
+    {
+        "name": "Soni Wetlands",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Soni Wetlands Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Soni Wetlands - Gather 1",
+                        "ref": "Lastation/Soni Wetlands/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Soni Wetlands",
+                    "x": 280,
+                    "y": 435,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Soni Wetlands Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Soni Wetlands - Gather 2",
+                        "ref": "Lastation/Soni Wetlands/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Soni Wetlands",
+                    "x": 408,
+                    "y": 340,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Soni Wetlands Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Soni Wetlands - Gather 3",
+                        "ref": "Lastation/Soni Wetlands/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Soni Wetlands",
+                    "x": 103,
+                    "y": 83,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Soni Wetlands Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Soni Wetlands - Gather 4",
+                        "ref": "Lastation/Soni Wetlands/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Soni Wetlands",
+                    "x": 170,
+                    "y": 96,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Soni Wetlands Gather 5 and 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Soni Wetlands - Gather 5",
+                        "ref": "Lastation/Soni Wetlands/Gather 5"
+                    },
+                    {
+                        "name": "Soni Wetlands - Gather 6",
+                        "ref": "Lastation/Soni Wetlands/Gather 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Soni Wetlands",
+                    "x": 307,
+                    "y": 291,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Soni Wetlands Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Soni Wetlands - Treasure 1",
+                        "ref": "Lastation/Soni Wetlands/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Soni Wetlands",
+                    "x": 315,
+                    "y": 403,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Soni Wetlands Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Soni Wetlands - Treasure 2",
+                        "ref": "Lastation/Soni Wetlands/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Soni Wetlands",
+                    "x": 65,
+                    "y": 219,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Soni Wetlands Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Soni Wetlands - Treasure 3",
+                        "ref": "Lastation/Soni Wetlands/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Soni Wetlands",
+                    "x": 393,
+                    "y": 96,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Soni Wetlands Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Soni Wetlands - Treasure 4",
+                        "ref": "Lastation/Soni Wetlands/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Soni Wetlands",
+                    "x": 235,
+                    "y": 104,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Soni Wetlands Treasure 5 and 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Soni Wetlands - Treasure 5",
+                        "ref": "Lastation/Soni Wetlands/Treasure 5"
+                    },
+                    {
+                        "name": "Soni Wetlands - Treasure 6",
+                        "ref": "Lastation/Soni Wetlands/Treasure 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Soni Wetlands",
+                    "x": 163,
+                    "y": 263,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Soni Wetlands Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Matango",
+                        "ref": "Bestiary/Plant/Matango"
+                    },
+                    {
+                        "name": "Healing Dogoo",
+                        "ref": "Bestiary/Dogoo/Healing Dogoo"
+                    },
+                    {
+                        "name": "Lean Tuna",
+                        "ref": "Bestiary/Beast/Lean Tuna"
+                    },
+                    {
+                        "name": "Heavy Dragoon",
+                        "ref": "Bestiary/Dragon/Heavy Dragoon"
+                    },
+                    {
+                        "name": "Viral Heavy Dragoon",
+                        "ref": "Bestiary/Dragon/Viral Heavy Dragoon"
+                    },
+                    {
+                        "name": "Nidhogg",
+                        "ref": "Bestiary/Dragon/Nidhogg"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Soni Wetlands",
+                        "x": 96,
+                        "y": 461,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

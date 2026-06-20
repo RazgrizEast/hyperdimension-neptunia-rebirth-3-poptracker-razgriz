@@ -1,0 +1,317 @@
+[
+    {
+        "name": "Otori Forest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Otori Forest Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Otori Forest - Gather 1",
+                        "ref": "Planeptune/Otori Forest/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Otori Forest",
+                    "x": 225,
+                    "y": 393,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Otori Forest Gather 2 and 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Otori Forest - Gather 2",
+                        "ref": "Planeptune/Otori Forest/Gather 2"
+                    },
+                    {
+                        "name": "Otori Forest - Gather 3",
+                        "ref": "Planeptune/Otori Forest/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Otori Forest",
+                    "x": 255,
+                    "y": 339,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Otori Forest Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Otori Forest - Gather 4",
+                        "ref": "Planeptune/Otori Forest/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Otori Forest",
+                    "x": 106,
+                    "y": 190,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Otori Forest Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Otori Forest - Gather 5",
+                        "ref": "Planeptune/Otori Forest/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Otori Forest",
+                    "x": 92,
+                    "y": 157,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Otori Forest Gather 6, 7, and 8",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Otori Forest - Gather 6",
+                        "ref": "Planeptune/Otori Forest/Gather 6"
+                    },
+                    {
+                        "name": "Otori Forest - Gather 7",
+                        "ref": "Planeptune/Otori Forest/Gather 7"
+                    },
+                    {
+                        "name": "Otori Forest - Gather 8",
+                        "ref": "Planeptune/Otori Forest/Gather 8"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Otori Forest",
+                    "x": 65,
+                    "y": 44,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Otori Forest Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Otori Forest - Treasure 1",
+                        "ref": "Planeptune/Otori Forest/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Otori Forest",
+                    "x": 172,
+                    "y": 345,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Otori Forest Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Otori Forest - Treasure 2",
+                        "ref": "Planeptune/Otori Forest/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Otori Forest",
+                    "x": 244,
+                    "y": 209,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Otori Forest Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Otori Forest - Treasure 3",
+                        "ref": "Planeptune/Otori Forest/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Otori Forest",
+                    "x": 244,
+                    "y": 161,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Otori Forest Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Otori Forest - Treasure 4",
+                        "ref": "Planeptune/Otori Forest/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Otori Forest",
+                    "x": 187,
+                    "y": 85,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Otori Forest Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Otori Forest - Treasure 5",
+                        "ref": "Planeptune/Otori Forest/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Otori Forest",
+                    "x": 35,
+                    "y": 160,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Otori Forest Treasure 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Otori Forest - Treasure 6",
+                        "ref": "Planeptune/Otori Forest/Treasure 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Otori Forest",
+                    "x": 28,
+                    "y": 194,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Otori Forest Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Contracted Angel",
+                        "ref": "Bestiary/Ghost/Contracted Angel"
+                    },
+                    {
+                        "name": "Exhausted Jelly",
+                        "ref": "Bestiary/Dogoo/Exhausted Jelly"
+                    },
+                    {
+                        "name": "Sergeant Froggy",
+                        "ref": "Bestiary/Aquatic/Sergeant Froggy"
+                    },
+                    {
+                        "name": "Hikky",
+                        "ref": "Bestiary/Plant/Hikky"
+                    },
+                    {
+                        "name": "Viral Hikky",
+                        "ref": "Bestiary/Plant/Viral Hikky"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Otori Forest",
+                        "x": 74,
+                        "y": 424,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

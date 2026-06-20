@@ -1,0 +1,240 @@
+[
+    {
+        "name": "Ario Plateau",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Ario Plateau Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ario Plateau - Gather 1",
+                        "ref": "Lowee/Ario Plateau/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Ario Plateau",
+                    "x": 336,
+                    "y": 358,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Ario Plateau Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ario Plateau - Gather 2",
+                        "ref": "Lowee/Ario Plateau/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Ario Plateau",
+                    "x": 706,
+                    "y": 385,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Ario Plateau Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ario Plateau - Gather 3",
+                        "ref": "Lowee/Ario Plateau/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Ario Plateau",
+                    "x": 354,
+                    "y": 298,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Ario Plateau Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ario Plateau - Gather 4",
+                        "ref": "Lowee/Ario Plateau/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Ario Plateau",
+                    "x": 174,
+                    "y": 213,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Ario Plateau Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ario Plateau - Treasure 1",
+                        "ref": "Lowee/Ario Plateau/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Ario Plateau",
+                    "x": 638,
+                    "y": 180,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Ario Plateau Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ario Plateau - Treasure 2",
+                        "ref": "Lowee/Ario Plateau/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Ario Plateau",
+                    "x": 243,
+                    "y": 147,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Ario Plateau Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ario Plateau - Treasure 3",
+                        "ref": "Lowee/Ario Plateau/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Ario Plateau",
+                    "x": 143,
+                    "y": 28,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Ario Plateau Treasure 4 and 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ario Plateau - Treasure 4",
+                        "ref": "Lowee/Ario Plateau/Treasure 4"
+                    },
+                    {
+                        "name": "Ario Plateau - Treasure 5",
+                        "ref": "Lowee/Ario Plateau/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Ario Plateau",
+                    "x": 233,
+                    "y": 192,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Ario Plateau Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Plumindigo",
+                        "ref": "Bestiary/Inorganic/Plumindigo"
+                    },
+                    {
+                        "name": "Testri",
+                        "ref": "Bestiary/Inorganic/Testri"
+                    },
+                    {
+                        "name": "Red Dogoo",
+                        "ref": "Bestiary/Dogoo/Red Dogoo"
+                    },
+                    {
+                        "name": "Hachibei",
+                        "ref": "Bestiary/Ghost/Hachibei"
+                    },
+                    {
+                        "name": "Plaid Dolphin",
+                        "ref": "Bestiary/Aquatic/Plaid Dolphin"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ario Plateau",
+                        "x": 567,
+                        "y": 423,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

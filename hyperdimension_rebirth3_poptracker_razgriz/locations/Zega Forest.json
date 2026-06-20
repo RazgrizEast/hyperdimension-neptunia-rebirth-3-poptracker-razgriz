@@ -1,0 +1,290 @@
+[
+    {
+        "name": "Zega Forest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Zega Forest Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Zega Forest - Gather 1",
+                        "ref": "Leanbox/Zega Forest/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Zega Forest",
+                    "x": 255,
+                    "y": 341,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Zega Forest Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Zega Forest - Gather 2",
+                        "ref": "Leanbox/Zega Forest/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Zega Forest",
+                    "x": 147,
+                    "y": 337,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Zega Forest Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Zega Forest - Gather 3",
+                        "ref": "Leanbox/Zega Forest/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Zega Forest",
+                    "x": 269,
+                    "y": 228,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Zega Forest Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Zega Forest - Gather 4",
+                        "ref": "Leanbox/Zega Forest/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Zega Forest",
+                    "x": 132,
+                    "y": 80,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Zega Forest Gather 5 and 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Zega Forest - Gather 5",
+                        "ref": "Leanbox/Zega Forest/Gather 5"
+                    },
+                    {
+                        "name": "Zega Forest - Gather 6",
+                        "ref": "Leanbox/Zega Forest/Gather 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Zega Forest",
+                    "x": 83,
+                    "y": 146,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Zega Forest Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Zega Forest - Treasure 1",
+                        "ref": "Leanbox/Zega Forest/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Zega Forest",
+                    "x": 204,
+                    "y": 394,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Zega Forest Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Zega Forest - Treasure 2",
+                        "ref": "Leanbox/Zega Forest/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Zega Forest",
+                    "x": 249,
+                    "y": 150,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Zega Forest Treasure 3 and 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Zega Forest - Treasure 3",
+                        "ref": "Leanbox/Zega Forest/Treasure 3"
+                    },
+                    {
+                        "name": "Zega Forest - Treasure 4",
+                        "ref": "Leanbox/Zega Forest/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Zega Forest",
+                    "x": 201,
+                    "y": 60,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Zega Forest Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Zega Forest - Treasure 5",
+                        "ref": "Leanbox/Zega Forest/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Zega Forest",
+                    "x": 105,
+                    "y": 237,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Zega Forest Treasure 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Zega Forest - Treasure 6",
+                        "ref": "Leanbox/Zega Forest/Treasure 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Zega Forest",
+                    "x": 18,
+                    "y": 177,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Zega Forest Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Prince Cardbird",
+                        "ref": "Bestiary/Avian/Prince Cardbird"
+                    },
+                    {
+                        "name": "Heretical Dogoo",
+                        "ref": "Bestiary/Dogoo/Heretical Dogoo"
+                    },
+                    {
+                        "name": "Alune",
+                        "ref": "Bestiary/Plant/Alune"
+                    },
+                    {
+                        "name": "Viral Alune",
+                        "ref": "Bestiary/Plant/Viral Alune"
+                    },
+                    {
+                        "name": "Turtle",
+                        "ref": "Bestiary/Aquatic/Turtle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Zega Forest",
+                        "x": 75,
+                        "y": 421,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

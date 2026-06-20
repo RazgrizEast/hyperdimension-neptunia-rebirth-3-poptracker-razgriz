@@ -1,0 +1,278 @@
+[
+    {
+        "name": "Station Area",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Station Area Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Station Area - Gather 1",
+                        "ref": "Hyperdimension/Station Area/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Station Area",
+                    "x": 81,
+                    "y": 50,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Station Area Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Station Area - Gather 2",
+                        "ref": "Hyperdimension/Station Area/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Station Area",
+                    "x": 16,
+                    "y": 138,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Station Area Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Station Area - Gather 3",
+                        "ref": "Hyperdimension/Station Area/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Station Area",
+                    "x": 466,
+                    "y": 44,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Station Area Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Station Area - Gather 4",
+                        "ref": "Hyperdimension/Station Area/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Station Area",
+                    "x": 268,
+                    "y": 326,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Station Area Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Station Area - Gather 5",
+                        "ref": "Hyperdimension/Station Area/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Station Area",
+                    "x": 141,
+                    "y": 319,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Station Area Gather 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Station Area - Gather 6",
+                        "ref": "Hyperdimension/Station Area/Gather 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Station Area",
+                    "x": 50,
+                    "y": 319,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Station Area Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Station Area - Treasure 1",
+                        "ref": "Hyperdimension/Station Area/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Station Area",
+                    "x": 19,
+                    "y": 51,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Station Area Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Station Area - Treasure 2",
+                        "ref": "Hyperdimension/Station Area/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Station Area",
+                    "x": 137,
+                    "y": 51,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Station Area Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Station Area - Treasure 3",
+                        "ref": "Hyperdimension/Station Area/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Station Area",
+                    "x": 391,
+                    "y": 182,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Station Area Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Station Area - Treasure 4",
+                        "ref": "Hyperdimension/Station Area/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Station Area",
+                    "x": 669,
+                    "y": 474,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Station Area Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Bit",
+                        "ref": "Bestiary/Machine/Bit"
+                    },
+                    {
+                        "name": "Dogoo",
+                        "ref": "Bestiary/Dogoo/Dogoo"
+                    },
+                    {
+                        "name": "Deus Man",
+                        "ref": "Bestiary/Data/Deus Man"
+                    },
+                    {
+                        "name": "M-3",
+                        "ref": "Bestiary/Machine/M-3"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Station Area",
+                        "x": 546,
+                        "y": 163,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

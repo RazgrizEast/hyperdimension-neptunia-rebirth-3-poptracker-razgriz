@@ -1,0 +1,267 @@
+[
+    {
+        "name": "City Center",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "City Center Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "City Center - Gather 1",
+                        "ref": "Hyperdimension/City Center/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "City Center",
+                    "x": 124,
+                    "y": 323,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "City Center Gather 2 and 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "City Center - Gather 2",
+                        "ref": "Hyperdimension/City Center/Gather 2"
+                    },
+                    {
+                        "name": "City Center - Gather 3",
+                        "ref": "Hyperdimension/City Center/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "City Center",
+                    "x": 191,
+                    "y": 323,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "City Center Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "City Center - Gather 4",
+                        "ref": "Hyperdimension/City Center/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "City Center",
+                    "x": 284,
+                    "y": 323,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "City Center Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "City Center - Gather 5",
+                        "ref": "Hyperdimension/City Center/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "City Center",
+                    "x": 351,
+                    "y": 170,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "City Center Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "City Center - Treasure 1",
+                        "ref": "Hyperdimension/City Center/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "City Center",
+                    "x": 678,
+                    "y": 439,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "City Center Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "City Center - Treasure 2",
+                        "ref": "Hyperdimension/City Center/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "City Center",
+                    "x": 178,
+                    "y": 65,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "City Center Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "City Center - Treasure 3",
+                        "ref": "Hyperdimension/City Center/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "City Center",
+                    "x": 361,
+                    "y": 300,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "City Center Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "City Center - Treasure 4",
+                        "ref": "Hyperdimension/City Center/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "City Center",
+                    "x": 16,
+                    "y": 300,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "City Center Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "City Center - Treasure 5",
+                        "ref": "Hyperdimension/City Center/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "City Center",
+                    "x": 131,
+                    "y": 12,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "City Center Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Numbing Spider",
+                        "ref": "Bestiary/Insect/Numbing Spider"
+                    },
+                    {
+                        "name": "R-4 Custom",
+                        "ref": "Bestiary/Machine/R-4 Custom"
+                    },
+                    {
+                        "name": "Promise Ring",
+                        "ref": "Bestiary/Ghost/Promise Ring"
+                    },
+                    {
+                        "name": "High Lizard",
+                        "ref": "Bestiary/Dragon/High Lizard"
+                    },
+                    {
+                        "name": "Viral High Lizard",
+                        "ref": "Bestiary/Dragon/Viral High Lizard"
+                    },
+                    {
+                        "name": "Crescent Dragon",
+                        "ref": "Bestiary/Dragon/Crescent Dragon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "City Center",
+                        "x": 568,
+                        "y": 128,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,244 @@
+[
+    {
+        "name": "Planeptune Alley",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Planeptune Alley Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Planeptune Alley - Gather 1",
+                        "ref": "Hyperdimension/Planeptune Alley/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Planeptune Alley",
+                    "x": 123,
+                    "y": 323,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Planeptune Alley Gather 2 and 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Planeptune Alley - Gather 2",
+                        "ref": "Hyperdimension/Planeptune Alley/Gather 2"
+                    },
+                    {
+                        "name": "Planeptune Alley - Gather 3",
+                        "ref": "Hyperdimension/Planeptune Alley/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Planeptune Alley",
+                    "x": 189,
+                    "y": 323,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Planeptune Alley Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Planeptune Alley - Gather 4",
+                        "ref": "Hyperdimension/Planeptune Alley/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Planeptune Alley",
+                    "x": 283,
+                    "y": 323,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Planeptune Alley Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Planeptune Alley - Gather 5",
+                        "ref": "Hyperdimension/Planeptune Alley/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Planeptune Alley",
+                    "x": 351,
+                    "y": 170,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Planeptune Alley Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Planeptune Alley - Treasure 1",
+                        "ref": "Hyperdimension/Planeptune Alley/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Planeptune Alley",
+                    "x": 676,
+                    "y": 444,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Planeptune Alley Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Planeptune Alley - Treasure 2",
+                        "ref": "Hyperdimension/Planeptune Alley/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Planeptune Alley",
+                    "x": 175,
+                    "y": 66,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Planeptune Alley Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Planeptune Alley - Treasure 3",
+                        "ref": "Hyperdimension/Planeptune Alley/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Planeptune Alley",
+                    "x": 361,
+                    "y": 300,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Planeptune Alley Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Planeptune Alley - Treasure 4",
+                        "ref": "Hyperdimension/Planeptune Alley/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Planeptune Alley",
+                    "x": 16,
+                    "y": 299,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Planeptune Alley Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Death Boy",
+                        "ref": "Bestiary/Ghost/Death Boy"
+                    },
+                    {
+                        "name": "Death Girl",
+                        "ref": "Bestiary/Ghost/Death Girl"
+                    },
+                    {
+                        "name": "Dragonia",
+                        "ref": "Bestiary/Dragon/Dragonia"
+                    },
+                    {
+                        "name": "Viral Dragonia",
+                        "ref": "Bestiary/Dragon/Viral Dragonia"
+                    },
+                    {
+                        "name": "ASIC Remnants",
+                        "ref": "Bestiary/Humanoid/ASIC Remnants"
+                    },
+                    {
+                        "name": "Dominance Machine",
+                        "ref": "Bestiary/Machine/Dominance Machine"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Planeptune Alley",
+                        "x": 580,
+                        "y": 81,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

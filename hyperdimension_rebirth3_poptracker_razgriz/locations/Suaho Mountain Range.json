@@ -1,0 +1,444 @@
+[
+    {
+        "name": "Suaho Mountain Range",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Suaho Mountain Range Gather 1 and 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Suaho Mountain Range - Gather 1",
+                        "ref": "Hello Continent/Suaho Mountain Range/Gather 1"
+                    },
+                    {
+                        "name": "Suaho Mountain Range - Gather 2",
+                        "ref": "Hello Continent/Suaho Mountain Range/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Suaho Mountain Range",
+                    "x": 220,
+                    "y": 410,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Suaho Mountain Range Gather 3 and 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Suaho Mountain Range - Gather 3",
+                        "ref": "Hello Continent/Suaho Mountain Range/Gather 3"
+                    },
+                    {
+                        "name": "Suaho Mountain Range - Gather 4",
+                        "ref": "Hello Continent/Suaho Mountain Range/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Suaho Mountain Range",
+                    "x": 136,
+                    "y": 324,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Suaho Mountain Range Gather 5 and 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Suaho Mountain Range - Gather 5",
+                        "ref": "Hello Continent/Suaho Mountain Range/Gather 5"
+                    },
+                    {
+                        "name": "Suaho Mountain Range - Gather 6",
+                        "ref": "Hello Continent/Suaho Mountain Range/Gather 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Suaho Mountain Range",
+                    "x": 35,
+                    "y": 132,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Suaho Mountain Range Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Suaho Mountain Range - Treasure 1",
+                        "ref": "Hello Continent/Suaho Mountain Range/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Suaho Mountain Range",
+                    "x": 154,
+                    "y": 405,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Suaho Mountain Range Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Suaho Mountain Range - Treasure 2",
+                        "ref": "Hello Continent/Suaho Mountain Range/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Suaho Mountain Range",
+                    "x": 184,
+                    "y": 243,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Suaho Mountain Range Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Suaho Mountain Range - Treasure 3",
+                        "ref": "Hello Continent/Suaho Mountain Range/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Suaho Mountain Range",
+                    "x": 46,
+                    "y": 283,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Suaho Mountain Range Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Suaho Mountain Range - Treasure 4",
+                        "ref": "Hello Continent/Suaho Mountain Range/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Suaho Mountain Range",
+                    "x": 37,
+                    "y": 247,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Suaho Mountain Peak Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Suaho Mountain Peak - Gather 1",
+                        "ref": "Hello Continent/Suaho Mountain Peak/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Suaho Mountain Range",
+                    "x": 360,
+                    "y": 475,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Suaho Mountain Peak Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Suaho Mountain Peak - Gather 2",
+                        "ref": "Hello Continent/Suaho Mountain Peak/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Suaho Mountain Range",
+                    "x": 356,
+                    "y": 298,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Suaho Mountain Peak Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Suaho Mountain Peak - Gather 3",
+                        "ref": "Hello Continent/Suaho Mountain Peak/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Suaho Mountain Range",
+                    "x": 463,
+                    "y": 403,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Suaho Mountain Peak Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Suaho Mountain Peak - Gather 4",
+                        "ref": "Hello Continent/Suaho Mountain Peak/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Suaho Mountain Range",
+                    "x": 294,
+                    "y": 256,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Suaho Mountain Peak Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Suaho Mountain Peak - Gather 5",
+                        "ref": "Hello Continent/Suaho Mountain Peak/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Suaho Mountain Range",
+                    "x": 336,
+                    "y": 136,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Suaho Mountain Peak Treasure 1 and 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Suaho Mountain Peak - Treasure 1",
+                        "ref": "Hello Continent/Suaho Mountain Peak/Treasure 1"
+                    },
+                    {
+                        "name": "Suaho Mountain Peak - Treasure 2",
+                        "ref": "Hello Continent/Suaho Mountain Peak/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Suaho Mountain Range",
+                    "x": 353,
+                    "y": 365,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Suaho Mountain Peak Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Suaho Mountain Peak - Treasure 3",
+                        "ref": "Hello Continent/Suaho Mountain Peak/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Suaho Mountain Range",
+                    "x": 481,
+                    "y": 331,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Suaho Mountain Peak Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Suaho Mountain Peak - Treasure 4",
+                        "ref": "Hello Continent/Suaho Mountain Peak/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Suaho Mountain Range",
+                    "x": 321,
+                    "y": 216,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Suaho Mountain Peak Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Suaho Mountain Peak - Treasure 5",
+                        "ref": "Hello Continent/Suaho Mountain Peak/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Suaho Mountain Range",
+                    "x": 361,
+                    "y": 87,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Suaho Mountain Range Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Hyena",
+                        "ref": "Bestiary/Beast/Hyena"
+                    },
+                    {
+                        "name": "Viral Hyena",
+                        "ref": "Bestiary/Beast/Viral Hyena"
+                    },
+                    {
+                        "name": "Pinky",
+                        "ref": "Bestiary/Ghost/Pinky"
+                    },
+                    {
+                        "name": "Ms. Pinky",
+                        "ref": "Bestiary/Ghost/Ms. Pinky"
+                    },
+                    {
+                        "name": "Paradise Avian",
+                        "ref": "Bestiary/Avian/Paradise Avian"
+                    },
+                    {
+                        "name": "Viral Paradise Avian",
+                        "ref": "Bestiary/Avian/Viral Paradise Avian"
+                    },
+                    {
+                        "name": "Roc",
+                        "ref": "Bestiary/Avian/Roc"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Suaho Mountain Range",
+                        "x": 88,
+                        "y": 55,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

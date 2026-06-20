@@ -1,0 +1,410 @@
+[
+    {
+        "name": "Magma Cave",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Magma Cave Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Magma Cave - Gather 1",
+                        "ref": "Eden/Magma Cave/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Magma Cave",
+                    "x": 208,
+                    "y": 321,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Magma Cave Gather 2 and 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Magma Cave - Gather 2",
+                        "ref": "Eden/Magma Cave/Gather 2"
+                    },
+                    {
+                        "name": "Magma Cave - Gather 3",
+                        "ref": "Eden/Magma Cave/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Magma Cave",
+                    "x": 558,
+                    "y": 291,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Magma Cave Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Magma Cave - Gather 4",
+                        "ref": "Eden/Magma Cave/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Magma Cave",
+                    "x": 323,
+                    "y": 221,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Magma Cave Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Magma Cave - Gather 5",
+                        "ref": "Eden/Magma Cave/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Magma Cave",
+                    "x": 343,
+                    "y": 350,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Magma Cave Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Magma Cave - Treasure 1",
+                        "ref": "Eden/Magma Cave/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Magma Cave",
+                    "x": 28,
+                    "y": 39,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Magma Cave Treasure 2 and 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Magma Cave - Treasure 2",
+                        "ref": "Eden/Magma Cave/Treasure 2"
+                    },
+                    {
+                        "name": "Magma Cave - Treasure 4",
+                        "ref": "Eden/Magma Cave/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Magma Cave",
+                    "x": 600,
+                    "y": 306,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Magma Cave Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Magma Cave - Treasure 3",
+                        "ref": "Eden/Magma Cave/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Magma Cave",
+                    "x": 494,
+                    "y": 101,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Magma Cave Depths Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Magma Cave Depths - Gather 1",
+                        "ref": "Eden/Magma Cave Depths/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Magma Cave",
+                    "x": 816,
+                    "y": 347,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Magma Cave Depths Gather 2 and 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Magma Cave Depths - Gather 2",
+                        "ref": "Eden/Magma Cave Depths/Gather 2"
+                    },
+                    {
+                        "name": "Magma Cave Depths - Gather 3",
+                        "ref": "Eden/Magma Cave Depths/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Magma Cave",
+                    "x": 684,
+                    "y": 221,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Magma Cave Depths Gather 4 and 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Magma Cave Depths - Gather 4",
+                        "ref": "Eden/Magma Cave Depths/Gather 4"
+                    },
+                    {
+                        "name": "Magma Cave Depths - Gather 5",
+                        "ref": "Eden/Magma Cave Depths/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Magma Cave",
+                    "x": 845,
+                    "y": 152,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Magma Cave Depths Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Magma Cave Depths - Treasure 1",
+                        "ref": "Eden/Magma Cave Depths/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Magma Cave",
+                    "x": 739,
+                    "y": 412,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Magma Cave Depths Treasure 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Magma Cave Depths - Treasure 2",
+                        "ref": "Eden/Magma Cave Depths/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Magma Cave",
+                    "x": 778,
+                    "y": 287,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Magma Cave Depths Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Magma Cave Depths - Treasure 3",
+                        "ref": "Eden/Magma Cave Depths/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Magma Cave",
+                    "x": 1101,
+                    "y": 362,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Magma Cave Depths Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Magma Cave Depths - Treasure 4",
+                        "ref": "Eden/Magma Cave Depths/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Magma Cave",
+                    "x": 1029,
+                    "y": 12,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Magma Cave Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Magma Boy",
+                        "ref": "Bestiary/Ghost/Magma Boy"
+                    },
+                    {
+                        "name": "Magma Girl",
+                        "ref": "Bestiary/Ghost/Magma Girl"
+                    },
+                    {
+                        "name": "King Cardbird",
+                        "ref": "Bestiary/Avian/King Cardbird"
+                    },
+                    {
+                        "name": "Magma Crab",
+                        "ref": "Bestiary/Inorganic/Magma Crab"
+                    },
+                    {
+                        "name": "Viral Magma Crab",
+                        "ref": "Bestiary/Inorganic/Viral Magma Crab"
+                    },
+                    {
+                        "name": "Bincho",
+                        "ref": "Bestiary/Avian/Bincho"
+                    },
+                    {
+                        "name": "Flame Skeleton",
+                        "ref": "Bestiary/Ghost/Flame Skeleton"
+                    },
+                    {
+                        "name": "Rafflesia",
+                        "ref": "Bestiary/Plant/Rafflesia"
+                    },
+                    {
+                        "name": "Viral Rafflesia",
+                        "ref": "Bestiary/Plant/Viral Rafflesia"
+                    },
+                    {
+                        "name": "Dolichorhynchops",
+                        "ref": "Bestiary/Aquatic/Dolichorhynchops"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Magma Cave",
+                        "x": 261,
+                        "y": 111,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

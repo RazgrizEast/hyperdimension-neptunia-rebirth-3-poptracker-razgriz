@@ -1,0 +1,248 @@
+[
+    {
+        "name": "Do Temple",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Do Temple Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Do Temple - Gather 1",
+                        "ref": "PC Continent/Do Temple/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Do Temple",
+                    "x": 216,
+                    "y": 346,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Do Temple Gather 2 and 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Do Temple - Gather 2",
+                        "ref": "PC Continent/Do Temple/Gather 2"
+                    },
+                    {
+                        "name": "Do Temple - Gather 3",
+                        "ref": "PC Continent/Do Temple/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Do Temple",
+                    "x": 252,
+                    "y": 123,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Do Temple Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Do Temple - Gather 4",
+                        "ref": "PC Continent/Do Temple/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Do Temple",
+                    "x": 12,
+                    "y": 270,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Do Temple Gather 5 and 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Do Temple - Gather 5",
+                        "ref": "PC Continent/Do Temple/Gather 5"
+                    },
+                    {
+                        "name": "Do Temple - Gather 6",
+                        "ref": "PC Continent/Do Temple/Gather 6"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Do Temple",
+                    "x": 284,
+                    "y": 100,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Do Temple Treasure 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Do Temple - Treasure 1",
+                        "ref": "PC Continent/Do Temple/Treasure 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Do Temple",
+                    "x": 223,
+                    "y": 385,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Do Temple Treasure 2 and 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Do Temple - Treasure 2",
+                        "ref": "PC Continent/Do Temple/Treasure 2"
+                    },
+                    {
+                        "name": "Do Temple - Treasure 3",
+                        "ref": "PC Continent/Do Temple/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Do Temple",
+                    "x": 166,
+                    "y": 380,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Do Temple Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Do Temple - Treasure 4",
+                        "ref": "PC Continent/Do Temple/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Do Temple",
+                    "x": 63,
+                    "y": 150,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Do Temple Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Do Temple - Treasure 5",
+                        "ref": "PC Continent/Do Temple/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Do Temple",
+                    "x": 45,
+                    "y": 39,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Do Temple Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Dinosauroid",
+                        "ref": "Bestiary/Dragon/Dinosauroid"
+                    },
+                    {
+                        "name": "Viral Dinosauroid",
+                        "ref": "Bestiary/Dragon/Viral Dinosauroid"
+                    },
+                    {
+                        "name": "Shimamos Brother",
+                        "ref": "Bestiary/Data/Shimamos Brother"
+                    },
+                    {
+                        "name": "Promise Keeper",
+                        "ref": "Bestiary/Ghost/Promise Keeper"
+                    },
+                    {
+                        "name": "Suzaku",
+                        "ref": "Bestiary/Avian/Suzaku"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Do Temple",
+                        "x": 73,
+                        "y": 429,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

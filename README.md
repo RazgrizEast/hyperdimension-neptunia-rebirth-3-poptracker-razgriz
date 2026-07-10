@@ -7,8 +7,6 @@ While I'm reasonably sure the logic is all correct (barring any errors or misund
 
 **WORK REMAINING**
 
--Only a handful of individual dungeon maps are done. I will continue adding more (5/50 complete)
-
 -Still need to finalize visuals for the item grid
 
 -Will need to realign the check location boxes on the various maps, I threw them on a bit haphazardly

@@ -190,7 +190,7 @@
                 "map_locations": [
                     {
                         "map": "Overview Lastation",
-                        "x": 118,
+                        "x": 117,
                         "y": 69,
                         "size": 32
                     }
@@ -234,7 +234,7 @@
                     {
                         "map": "Overview Lastation",
                         "x": 238,
-                        "y": 114,
+                        "y": 120,
                         "size": 32
                     }
                 ]
@@ -352,7 +352,7 @@
                     {
                         "map": "Overview Lastation",
                         "x": 673,
-                        "y": 164,
+                        "y": 163,
                         "size": 32
                     }
                 ]
@@ -561,7 +561,7 @@
                     {
                         "map": "Overview Lastation",
                         "x": 1085,
-                        "y": 375,
+                        "y": 373,
                         "size": 32
                     }
                 ]
@@ -689,7 +689,7 @@
                     {
                         "map": "Overview Lastation",
                         "x": 254,
-                        "y": 243,
+                        "y": 242,
                         "size": 32
                     }
                 ]
@@ -924,7 +924,7 @@
                     {
                         "map": "Overview Lastation",
                         "x": 842,
-                        "y": 266,
+                        "y": 265,
                         "size": 32
                     }
                 ]
@@ -1036,7 +1036,7 @@
                     {
                         "map": "Overview Lastation",
                         "x": 561,
-                        "y": 293,
+                        "y": 291,
                         "size": 32
                     }
                 ]
@@ -1294,7 +1294,7 @@
                     {
                         "map": "Overview Lastation",
                         "x": 1131,
-                        "y": 109,
+                        "y": 107,
                         "size": 32
                     }
                 ]
@@ -1731,7 +1731,7 @@
                 "map_locations": [
                     {
                         "map": "Overview Lastation",
-                        "x": 760,
+                        "x": 764,
                         "y": 72,
                         "size": 32
                     }
@@ -1787,7 +1787,7 @@
                     {
                         "map": "Overview Lastation",
                         "x": 877,
-                        "y": 110,
+                        "y": 115,
                         "size": 32
                     }
                 ]

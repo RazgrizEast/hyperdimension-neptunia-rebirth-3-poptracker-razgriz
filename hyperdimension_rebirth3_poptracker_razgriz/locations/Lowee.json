@@ -410,7 +410,7 @@
                 "map_locations": [
                     {
                         "map": "Overview Lowee",
-                        "x": 421,
+                        "x": 425,
                         "y": 288,
                         "size": 32
                     }
@@ -458,7 +458,7 @@
                     {
                         "map": "Overview Lowee",
                         "x": 550,
-                        "y": 321,
+                        "y": 334,
                         "size": 32
                     }
                 ]
@@ -679,7 +679,7 @@
                     {
                         "map": "Overview Lowee",
                         "x": 681,
-                        "y": 206,
+                        "y": 209,
                         "size": 32
                     }
                 ]
@@ -805,7 +805,7 @@
                     {
                         "map": "Overview Lowee",
                         "x": 1095,
-                        "y": 297,
+                        "y": 294,
                         "size": 32
                     }
                 ]
@@ -962,7 +962,7 @@
                 "map_locations": [
                     {
                         "map": "Overview Lowee",
-                        "x": 337,
+                        "x": 340,
                         "y": 488,
                         "size": 32
                     }
@@ -1229,7 +1229,7 @@
                 "map_locations": [
                     {
                         "map": "Overview Lowee",
-                        "x": 867,
+                        "x": 877,
                         "y": 515,
                         "size": 32
                     }
@@ -1274,7 +1274,7 @@
                     {
                         "map": "Overview Lowee",
                         "x": 975,
-                        "y": 520,
+                        "y": 515,
                         "size": 32
                     }
                 ]

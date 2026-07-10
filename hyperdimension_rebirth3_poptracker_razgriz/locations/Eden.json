@@ -142,8 +142,8 @@
                 "map_locations": [
                     {
                         "map": "Overview Eden",
-                        "x": 532,
-                        "y": 142,
+                        "x": 542,
+                        "y": 140,
                         "size": 32
                     }
                 ]
@@ -466,7 +466,7 @@
                     {
                         "map": "Overview Eden",
                         "x": 270,
-                        "y": 128,
+                        "y": 133,
                         "size": 32
                     }
                 ]
@@ -596,7 +596,7 @@
                     {
                         "map": "Overview Eden",
                         "x": 356,
-                        "y": 255,
+                        "y": 254,
                         "size": 32
                     }
                 ]
@@ -801,7 +801,7 @@
                     {
                         "map": "Overview Eden",
                         "x": 993,
-                        "y": 155,
+                        "y": 153,
                         "size": 32
                     }
                 ]

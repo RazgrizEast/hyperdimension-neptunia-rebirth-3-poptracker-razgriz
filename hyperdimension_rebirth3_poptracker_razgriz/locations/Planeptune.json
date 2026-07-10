@@ -194,7 +194,7 @@
                     {
                         "map": "Overview Planeptune",
                         "x": 206,
-                        "y": 136,
+                        "y": 134,
                         "size": 32
                     }
                 ]
@@ -369,8 +369,8 @@
                 "map_locations": [
                     {
                         "map": "Overview Planeptune",
-                        "x": 894,
-                        "y": 66,
+                        "x": 992,
+                        "y": 30,
                         "size": 32
                     }
                 ]
@@ -425,7 +425,7 @@
                     {
                         "map": "Overview Planeptune",
                         "x": 1118,
-                        "y": 60,
+                        "y": 66,
                         "size": 32
                     }
                 ]
@@ -543,7 +543,7 @@
                     {
                         "map": "Overview Planeptune",
                         "x": 1047,
-                        "y": 343,
+                        "y": 342,
                         "size": 32
                     }
                 ]
@@ -829,7 +829,7 @@
                     {
                         "map": "Overview Planeptune",
                         "x": 892,
-                        "y": 453,
+                        "y": 454,
                         "size": 32
                     }
                 ]
@@ -1010,7 +1010,7 @@
                 "map_locations": [
                     {
                         "map": "Overview Planeptune",
-                        "x": 469,
+                        "x": 467,
                         "y": 484,
                         "size": 32
                     }
@@ -1054,7 +1054,7 @@
                     {
                         "map": "Overview Planeptune",
                         "x": 597,
-                        "y": 529,
+                        "y": 531,
                         "size": 32
                     }
                 ]
@@ -1190,7 +1190,7 @@
                     {
                         "map": "Overview Planeptune",
                         "x": 883,
-                        "y": 153,
+                        "y": 149,
                         "size": 32
                     }
                 ]
@@ -1314,7 +1314,7 @@
                     {
                         "map": "Overview Planeptune",
                         "x": 429,
-                        "y": 204,
+                        "y": 199,
                         "size": 32
                     }
                 ]

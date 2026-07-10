@@ -121,7 +121,7 @@
                     {
                         "map": "Overview Hello Continent",
                         "x": 327,
-                        "y": 418,
+                        "y": 419,
                         "size": 32
                     }
                 ]
@@ -326,7 +326,7 @@
                     {
                         "map": "Overview Hello Continent",
                         "x": 958,
-                        "y": 270,
+                        "y": 263,
                         "size": 32
                     }
                 ]
@@ -452,7 +452,7 @@
                     {
                         "map": "Overview Hello Continent",
                         "x": 1080,
-                        "y": 264,
+                        "y": 263,
                         "size": 32
                     }
                 ]

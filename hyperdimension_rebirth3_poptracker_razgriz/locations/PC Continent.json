@@ -141,7 +141,7 @@
                     {
                         "map": "Overview PC Continent",
                         "x": 1097,
-                        "y": 403,
+                        "y": 400,
                         "size": 32
                     }
                 ]
@@ -265,7 +265,7 @@
                     {
                         "map": "Overview PC Continent",
                         "x": 495,
-                        "y": 404,
+                        "y": 411,
                         "size": 32
                     }
                 ]
@@ -377,7 +377,7 @@
                     {
                         "map": "Overview PC Continent",
                         "x": 545,
-                        "y": 133,
+                        "y": 130,
                         "size": 32
                     }
                 ]

@@ -9,6 +9,264 @@
         ],
         "children": [
             {
+                "name": "Jet Set Peak Gather 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Jet Set Peak - Gather 1",
+                        "ref": "Lastation/Jet Set Peak/Gather 1"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Jet Set Range",
+                    "x": 405,
+                    "y": 475,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Jet Set Peak Gather 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Jet Set Peak - Gather 2",
+                        "ref": "Lastation/Jet Set Peak/Gather 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Jet Set Range",
+                    "x": 423,
+                    "y": 323,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Jet Set Peak Gather 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Jet Set Peak - Gather 3",
+                        "ref": "Lastation/Jet Set Peak/Gather 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Jet Set Range",
+                    "x": 506,
+                    "y": 396,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Jet Set Peak Gather 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Jet Set Peak - Gather 4",
+                        "ref": "Lastation/Jet Set Peak/Gather 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Jet Set Range",
+                    "x": 339,
+                    "y": 255,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Jet Set Peak Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Jet Set Peak - Gather 5",
+                        "ref": "Lastation/Jet Set Peak/Gather 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Jet Set Range",
+                    "x": 405,
+                    "y": 122,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Jet Set Peak Treasure 1 and 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Jet Set Peak - Treasure 1",
+                        "ref": "Lastation/Jet Set Peak/Treasure 1"
+                    },
+                    {
+                        "name": "Jet Set Peak - Treasure 2",
+                        "ref": "Lastation/Jet Set Peak/Treasure 2"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Jet Set Range",
+                    "x": 403,
+                    "y": 364,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Jet Set Peak Treasure 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Jet Set Peak - Treasure 3",
+                        "ref": "Lastation/Jet Set Peak/Treasure 3"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Jet Set Range",
+                    "x": 523,
+                    "y": 330,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Jet Set Peak Treasure 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Jet Set Peak - Treasure 4",
+                        "ref": "Lastation/Jet Set Peak/Treasure 4"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Jet Set Range",
+                    "x": 364,
+                    "y": 217,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Jet Set Peak Treasure 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Jet Set Peak - Treasure 5",
+                        "ref": "Lastation/Jet Set Peak/Treasure 5"
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Jet Set Range",
+                    "x": 402,
+                    "y": 90,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Jet Set Peak Monsters",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pal Shell",
+                        "ref": "Bestiary/Inorganic/Pal Shell"
+                    },
+                    {
+                        "name": "Shoebill",
+                        "ref": "Bestiary/Avian/Shoebill"
+                    },
+                    {
+                        "name": "Viral Shoebill",
+                        "ref": "Bestiary/Avian/Viral Shoebill"
+                    },
+                    {
+                        "name": "Fungus",
+                        "ref": "Bestiary/Plant/Fungus"
+                    },
+                    {
+                        "name": "Alraune",
+                        "ref": "Bestiary/Plant/Alraune"
+                    },
+                    {
+                        "name": "Viral Alraune",
+                        "ref": "Bestiary/Plant/Viral Alraune"
+                    },
+                    {
+                        "name": "Ancient Dragon",
+                        "ref": "Bestiary/Dragon/Ancient Dragon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Jet Set Range",
+                        "x": 496,
+                        "y": 140,
+                        "size": 24
+                    }
+                ]
+            },
+            {
                 "name": "Jet Set Range Gather 1",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
@@ -25,8 +283,8 @@
                 "map_locations": [
                 {
                     "map": "Jet Set Range",
-                    "x": 524,
-                    "y": 887,
+                    "x": 265,
+                    "y": 442,
                     "size": 24
                 }
                 ]
@@ -48,8 +306,8 @@
                 "map_locations": [
                 {
                     "map": "Jet Set Range",
-                    "x": 323,
-                    "y": 755,
+                    "x": 155,
+                    "y": 376,
                     "size": 24
                 }
                 ]
@@ -71,8 +329,8 @@
                 "map_locations": [
                 {
                     "map": "Jet Set Range",
-                    "x": 344,
-                    "y": 545,
+                    "x": 166,
+                    "y": 271,
                     "size": 24
                 }
                 ]
@@ -94,8 +352,8 @@
                 "map_locations": [
                 {
                     "map": "Jet Set Range",
-                    "x": 183,
-                    "y": 473,
+                    "x": 103,
+                    "y": 240,
                     "size": 24
                 }
                 ]
@@ -117,8 +375,8 @@
                 "map_locations": [
                 {
                     "map": "Jet Set Range",
-                    "x": 218,
-                    "y": 181,
+                    "x": 114,
+                    "y": 100,
                     "size": 24
                 }
                 ]
@@ -140,8 +398,8 @@
                 "map_locations": [
                 {
                     "map": "Jet Set Range",
-                    "x": 445,
-                    "y": 661,
+                    "x": 223,
+                    "y": 329,
                     "size": 24
                 }
                 ]
@@ -163,8 +421,8 @@
                 "map_locations": [
                 {
                     "map": "Jet Set Range",
-                    "x": 440,
-                    "y": 361,
+                    "x": 220,
+                    "y": 178,
                     "size": 24
                 }
                 ]
@@ -186,8 +444,8 @@
                 "map_locations": [
                 {
                     "map": "Jet Set Range",
-                    "x": 58,
-                    "y": 400,
+                    "x": 32,
+                    "y": 200,
                     "size": 24
                 }
                 ]
@@ -209,8 +467,8 @@
                 "map_locations": [
                 {
                     "map": "Jet Set Range",
-                    "x": 416,
-                    "y": 75,
+                    "x": 209,
+                    "y": 37,
                     "size": 24
                 }
                 ]
@@ -252,8 +510,8 @@
                 "map_locations": [
                     {
                         "map": "Jet Set Range",
-                        "x": 138,
-                        "y": 764,
+                        "x": 90,
+                        "y": 395,
                         "size": 24
                     }
                 ]

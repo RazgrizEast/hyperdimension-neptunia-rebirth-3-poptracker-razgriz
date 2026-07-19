@@ -55,7 +55,7 @@
                 ]
             },
             {
-                "name": "Castle Chambers Gather 3, 4, 5",
+                "name": "Castle Chambers Gather 3 and 4",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -70,7 +70,26 @@
                     {
                         "name": "Castle Chambers - Gather 4",
                         "ref": "Lowee/Castle Chambers/Gather 4"
-                    },
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Castle Chambers",
+                    "x": 156,
+                    "y": 88,
+                    "size": 24
+                }
+                ]
+            },
+            {
+                "name": "Castle Chambers Gather 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
                     {
                         "name": "Castle Chambers - Gather 5",
                         "ref": "Lowee/Castle Chambers/Gather 5"
@@ -79,8 +98,8 @@
                 "map_locations": [
                 {
                     "map": "Castle Chambers",
-                    "x": 111,
-                    "y": 117,
+                    "x": 141,
+                    "y": 148,
                     "size": 24
                 }
                 ]

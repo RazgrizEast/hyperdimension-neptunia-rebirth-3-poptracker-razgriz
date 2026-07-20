@@ -528,6 +528,12 @@
                         "access_rules": ["dungeonunlockvidadimension,[$canAccessVidaDimension]"],
                         "visibility_rules": [],
                         "item_count": 1
+                    },
+                    {
+                        "name": "M-3D",
+                        "access_rules": ["dungeonunlockdotemple,[$canAccessDoTemple]"],
+                        "visibility_rules": [],
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1303,6 +1309,13 @@
                     {
                         "name": "Ms. Clyde",
                         "access_rules": ["dungeonunlockzecaruinsno1,[$canAccessZecaRuinsNo1]"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Lightbulb Angel",
+                        "access_rules": ["dungeonunlockrudarmssewern,[$canAccessRudArmsSewerN]",
+                                        "dungeonunlockrudarmssewers,[$canAccessRudArmsSewerN]"],
                         "visibility_rules": [],
                         "item_count": 1
                     }

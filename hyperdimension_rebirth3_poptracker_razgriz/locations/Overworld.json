@@ -3436,8 +3436,8 @@
                         "ref": "Bestiary/Ghost/Cold Girl"
                     },
                     {
-                        "name": "Magic Stone",
-                        "ref": "Bestiary/Inorganic/Magic Stone"
+                        "name": "Lightbulb Angel",
+                        "ref": "Bestiary/Ghost/Lightbulb Angel"
                     },
                     {
                         "name": "Ice Golem",
@@ -3676,6 +3676,10 @@
                     {
                         "name": "A2-i",
                         "ref": "Bestiary/Machine/A2-i"
+                    },
+                    {
+                        "name": "M-3D",
+                        "ref": "Bestiary/Machine/M-3D"
                     },
                     {
                         "name": "Queen Spider",

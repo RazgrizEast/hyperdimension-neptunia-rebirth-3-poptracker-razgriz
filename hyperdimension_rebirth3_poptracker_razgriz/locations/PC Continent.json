@@ -257,6 +257,10 @@
                         "ref": "Bestiary/Ghost/Promise Keeper"
                     },
                     {
+                        "name": "M-3D",
+                        "ref": "Bestiary/Machine/M-3D"
+                    },
+                    {
                         "name": "Suzaku",
                         "ref": "Bestiary/Avian/Suzaku"
                     }
